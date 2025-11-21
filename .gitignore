@@ -1,0 +1,9 @@
+.env
+
+myvenv
+
+__pycache__/
+*.pyc
+
+bronze_customers_raw/
+bronze_orders_raw/

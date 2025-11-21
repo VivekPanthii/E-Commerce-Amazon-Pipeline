@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,email,phone,registration_date,customer_segment,is_active,lifetime_value
+CUST000001,FirstName1,LastName1,customer.1@email.com,(555) 349-7361,2023-10-14,,0,5763.84
+CUST000002,FirstName2,LastName2,customer2@email.com,,2023-03-02,VIP,true,9140.84
+CUST000003,FirstName3,LastName3,customer.3@email.com,+1-555-604-4384,2022-10-10,Basic,false,7017.99
+CUST000004,FirstName4,LastName4,,,2021-12-31,,False,442.24
+CUST000005,FirstName5,LastName5,customer5@email.com,(555) 218-4577,2020-08-18,Basic,true,5123.06
+CUST000006,FirstName6,LastName6,customer6@gmail.com,555-245-1073,2022-10-11,,0,3761.61
+CUST000007,FirstName7,LastName7,Customer7@Email.com,,2021-04-18,Basic,N,40.95
+CUST000008,FirstName8,LastName8,customer8@email.com,,2020-10-26,,true,9973.02
+CUST000009,FirstName9,LastName9,,+1-555-963-6582,2022-09-10,,False,9464.39
+CUST000010,FirstName10,LastName10,customer.10@email.com,,2022-08-18,,true,4667.18
+CUST000011,FirstName11,LastName11,customer11@gmail.com,555-604-5453,2020-08-10,Premium,0,7826.39
+CUST000012,FirstName12,LastName12,,,2023-05-11,,1,7404.09
+CUST000013,FirstName13,LastName13,customer.13@email.com,+1-555-436-3835,2023-05-01,VIP,False,3254.49
+CUST000014,FirstName14,LastName14,customer14@email.com,555-219-8943,2021-05-21,Premium,Y,2323.26
+CUST000015,FirstName15,LastName15,,(555) 702-6968,2023-03-25,,N,9927.07
+CUST000016,FirstName16,LastName16,Customer16@Email.com,555-575-3220,2022-10-13,Basic,Y,121.27
+CUST000017,FirstName17,LastName17,customer17@email.com,,2020-06-16,Premium,False,599.18
+CUST000018,FirstName18,LastName18,customer18@gmail.com,+1-555-768-4700,2023-02-10,,N,1985.52
+CUST000019,FirstName19,LastName19,customer19@email.com,+1-555-940-7499,2023-08-11,,1,3291.56
+CUST000020,FirstName20,LastName20,customer20@gmail.com,555-835-9118,2020-12-02,Standard,Y,2828.6
+CUST000021,FirstName21,LastName21,customer21@gmail.com,5555957860,2020-03-26,,0,9005.77
+CUST000022,FirstName22,LastName22,,5554083787,2020-02-07,Standard,1,3378.98
+CUST000023,FirstName23,LastName23,,+1-555-924-2990,2020-04-06,Premium,true,1778.49
+CUST000024,FirstName24,LastName24,customer24@email.com,,2021-11-23,Standard,N,543.08
+CUST000025,FirstName25,LastName25,customer25@gmail.com,5555512145,2021-10-01,Premium,N,8704.98
+CUST000026,FirstName26,LastName26,customer26@gmail.com,5558094299,2022-01-07,Premium,0,7816.3
+CUST000027,FirstName27,LastName27,Customer27@Email.com,,2023-02-02,VIP,1,2302.62
+CUST000028,FirstName28,LastName28,customer28@email.com,,2023-06-09,VIP,false,1029.1
+CUST000029,FirstName29,LastName29,,(555) 268-1637,2023-07-17,Premium,false,6276.18
+CUST000030,FirstName30,LastName30,,,2020-12-10,Basic,true,7783.89
+CUST000031,FirstName31,LastName31,customer31@email.com,5554604879,2022-07-01,Premium,0,7939.95
+CUST000032,FirstName32,LastName32,,,2022-03-16,Premium,False,3140.23
+CUST000033,FirstName33,LastName33,Customer33@Email.com,555-305-3556,2021-02-26,Standard,Y,5310.28
+CUST000034,FirstName34,LastName34,customer.34@email.com,555-210-5230,2022-09-05,Basic,true,79.77
+CUST000035,FirstName35,LastName35,,(555) 342-3932,2020-08-04,VIP,Y,9181.76
+CUST000036,FirstName36,LastName36,Customer36@Email.com,5551042940,2021-05-22,,true,4486.29
+CUST000037,FirstName37,LastName37,Customer37@Email.com,,2020-05-12,,Y,1620.11
+CUST000038,FirstName38,LastName38,customer38@email.com,+1-555-446-3460,2022-06-09,,1,5794.82
+CUST000039,FirstName39,LastName39,,555-786-4385,2020-09-01,,1,159.98
+CUST000040,FirstName40,LastName40,customer40@email.com,555-872-5132,2022-08-17,Premium,False,9761.51
+CUST000041,FirstName41,LastName41,customer41@gmail.com,,2022-01-22,,True,2514.37
+CUST000042,FirstName42,LastName42,customer42@email.com,555-523-2587,2023-09-26,VIP,true,9271.78
+CUST000043,FirstName43,LastName43,customer43@email.com,,2022-01-07,VIP,0,9527.51
+CUST000044,FirstName44,LastName44,customer44@gmail.com,5558504880,2020-09-23,Standard,False,28.76
+CUST000045,FirstName45,LastName45,,+1-555-326-6047,2022-02-22,VIP,Y,6439.21
+CUST000046,FirstName46,LastName46,customer46@gmail.com,555-808-7010,2020-12-27,Basic,False,8690.9
+CUST000047,FirstName47,LastName47,Customer47@Email.com,+1-555-688-6473,2020-03-24,VIP,true,563.57
+CUST000048,FirstName48,LastName48,,,2023-05-27,,False,6612.67
+CUST000049,FirstName49,LastName49,customer49@email.com,,2020-08-03,Premium,0,233.1
+CUST000050,FirstName50,LastName50,,+1-555-920-8409,2022-08-17,VIP,1,2369.92
+CUST000051,FirstName51,LastName51,,(555) 708-8243,2021-10-30,,0,5250.31
+CUST000052,FirstName52,LastName52,,5557974898,2022-09-24,,False,1676.08
+CUST000053,FirstName53,LastName53,customer53@email.com,,2023-04-06,Premium,Y,1035.82
+CUST000054,FirstName54,LastName54,,555-961-9232,2021-02-10,VIP,False,2503.27
+CUST000055,FirstName55,LastName55,Customer55@Email.com,5557162536,2022-11-03,VIP,0,6916.57
+CUST000056,FirstName56,LastName56,Customer56@Email.com,+1-555-728-3696,2023-10-06,Basic,true,6378.16
+CUST000057,FirstName57,LastName57,,+1-555-492-7962,2022-05-06,VIP,N,4840.47
+CUST000058,FirstName58,LastName58,customer58@email.com,,2021-02-19,,False,4445.71
+CUST000059,FirstName59,LastName59,,5551363840,2022-03-19,,0,7043.02
+CUST000060,FirstName60,LastName60,customer60@email.com,,2021-01-12,,false,3432.45
+CUST000061,FirstName61,LastName61,,(555) 908-2589,2020-08-15,Premium,False,9085.11
+CUST000062,FirstName62,LastName62,Customer62@Email.com,(555) 528-2570,2023-06-02,,true,5750.73
+CUST000063,FirstName63,LastName63,Customer63@Email.com,5555717812,2020-08-23,VIP,0,462.83
+CUST000064,FirstName64,LastName64,,,2022-05-23,Basic,true,3227.24
+CUST000065,FirstName65,LastName65,,,2020-03-01,Premium,true,4987.93
+CUST000066,FirstName66,LastName66,,+1-555-677-1719,2023-04-26,VIP,1,6219.29
+CUST000067,FirstName67,LastName67,,,2022-12-17,,true,7573.45
+CUST000068,FirstName68,LastName68,customer.68@email.com,5557121535,2021-01-12,,Y,4733.64
+CUST000069,FirstName69,LastName69,,+1-555-850-9082,2022-02-14,,True,7914.23
+CUST000070,FirstName70,LastName70,customer70@gmail.com,555-805-9670,2021-10-26,,Y,5658.65
+CUST000071,FirstName71,LastName71,,,2020-10-15,,0,5852.11
+CUST000072,FirstName72,LastName72,customer72@email.com,555-467-6909,2020-07-25,Standard,N,2653.64
+CUST000073,FirstName73,LastName73,,5555554572,2021-06-24,Premium,False,9339.93
+CUST000074,FirstName74,LastName74,customer74@email.com,555-523-3501,2023-08-06,Basic,N,8426.27
+CUST000075,FirstName75,LastName75,customer75@email.com,555-656-5409,2022-05-25,,0,3643.17
+CUST000076,FirstName76,LastName76,,555-392-1064,2022-02-18,,N,2122.45
+CUST000077,FirstName77,LastName77,Customer77@Email.com,+1-555-529-9618,2021-06-27,Basic,N,7664.96
+CUST000078,FirstName78,LastName78,Customer78@Email.com,555-517-7563,2021-03-17,,true,2993.82
+CUST000079,FirstName79,LastName79,customer79@email.com,,2023-06-27,,False,985.88
+CUST000080,FirstName80,LastName80,customer.80@email.com,(555) 818-8725,2022-09-17,VIP,false,5520.16
+CUST000081,FirstName81,LastName81,Customer81@Email.com,(555) 898-2737,2021-01-16,,False,2172.33
+CUST000082,FirstName82,LastName82,customer.82@email.com,(555) 104-5704,2023-06-17,Premium,true,9323.46
+CUST000083,FirstName83,LastName83,,(555) 771-4696,2021-05-31,,False,8952.54
+CUST000084,FirstName84,LastName84,Customer84@Email.com,(555) 665-3819,2020-11-26,Standard,false,9227.57
+CUST000085,FirstName85,LastName85,customer85@email.com,,2022-08-01,,False,5286.5
+CUST000086,FirstName86,LastName86,customer.86@email.com,,2022-10-11,Standard,True,5434.14
+CUST000087,FirstName87,LastName87,customer87@gmail.com,+1-555-764-1625,2022-02-12,VIP,true,5594.07
+CUST000088,FirstName88,LastName88,,,2020-08-11,,true,4142.18
+CUST000089,FirstName89,LastName89,,555-384-6919,2023-09-21,Premium,False,4693.99
+CUST000090,FirstName90,LastName90,customer.90@email.com,5557168117,2022-07-02,VIP,0,1641.11
+CUST000091,FirstName91,LastName91,,,2022-06-04,,True,4683.14
+CUST000092,FirstName92,LastName92,customer92@email.com,,2022-05-29,VIP,Y,2890.06
+CUST000093,FirstName93,LastName93,,(555) 677-1281,2022-09-22,,False,4185.64
+CUST000094,FirstName94,LastName94,customer94@gmail.com,555-764-6955,2022-08-10,Basic,false,2793.44
+CUST000095,FirstName95,LastName95,customer.95@email.com,,2021-09-15,,Y,2719.84
+CUST000096,FirstName96,LastName96,Customer96@Email.com,,2020-05-23,Basic,False,2483.72
+CUST000097,FirstName97,LastName97,,5555948852,2022-05-20,,false,7580.34
+CUST000098,FirstName98,LastName98,,+1-555-361-4440,2023-03-29,,true,9471.24
+CUST000099,FirstName99,LastName99,,,2020-10-16,,True,2005.82
+CUST000100,FirstName100,LastName100,customer100@email.com,555-455-2101,2021-05-23,,N,3650.16
+CUST000101,FirstName101,LastName101,customer.101@email.com,5553869077,2021-10-13,Premium,true,6910.2
+CUST000102,FirstName102,LastName102,customer102@email.com,+1-555-888-5222,2022-09-07,Standard,N,1092.93
+CUST000103,FirstName103,LastName103,customer103@email.com,555-949-6276,2022-04-23,,false,4782.1
+CUST000104,FirstName104,LastName104,customer.104@email.com,(555) 654-3098,2020-01-07,VIP,Y,2290.99
+CUST000105,FirstName105,LastName105,,5555009246,2020-08-05,Premium,True,7040.22
+CUST000106,FirstName106,LastName106,customer106@gmail.com,+1-555-992-1722,2020-03-10,Basic,true,1223.39
+CUST000107,FirstName107,LastName107,,+1-555-904-5204,2020-06-09,Basic,1,4024.94
+CUST000108,FirstName108,LastName108,Customer108@Email.com,+1-555-775-6764,2020-06-22,Standard,N,4325.08
+CUST000109,FirstName109,LastName109,customer109@gmail.com,,2020-03-28,VIP,true,5152.33
+CUST000110,FirstName110,LastName110,customer.110@email.com,555-785-6079,2023-08-02,Premium,N,9352.77
+CUST000111,FirstName111,LastName111,customer.111@email.com,5558869413,2021-04-06,Premium,N,6570.13
+CUST000112,FirstName112,LastName112,customer.112@email.com,555-400-5736,2021-09-05,VIP,1,1597.99
+CUST000113,FirstName113,LastName113,,+1-555-239-5227,2023-07-10,VIP,1,2049.43
+CUST000114,FirstName114,LastName114,customer114@gmail.com,555-218-9313,2023-07-22,,N,6545.04
+CUST000115,FirstName115,LastName115,customer.115@email.com,5555809912,2020-12-31,,false,4136.03
+CUST000116,FirstName116,LastName116,Customer116@Email.com,5551845735,2021-09-02,,False,2459.07
+CUST000117,FirstName117,LastName117,customer117@email.com,,2022-06-05,,False,5287.73
+CUST000118,FirstName118,LastName118,Customer118@Email.com,,2021-11-08,,true,8789.34
+CUST000119,FirstName119,LastName119,,,2022-06-13,,false,7669.46
+CUST000120,FirstName120,LastName120,customer.120@email.com,555-451-3090,2023-03-18,,0,5802.36
+CUST000121,FirstName121,LastName121,Customer121@Email.com,,2023-05-01,Basic,0,2374.94
+CUST000122,FirstName122,LastName122,customer122@email.com,,2020-06-13,,true,5574.02
+CUST000123,FirstName123,LastName123,customer123@email.com,5558443944,2022-11-25,,1,5573.13
+CUST000124,FirstName124,LastName124,customer.124@email.com,5558767041,2020-06-02,Premium,N,3872.65
+CUST000125,FirstName125,LastName125,customer125@gmail.com,+1-555-633-3898,2021-11-30,Premium,False,8114.42
+CUST000126,FirstName126,LastName126,customer126@email.com,,2022-05-02,Premium,False,5736.98
+CUST000127,FirstName127,LastName127,customer127@gmail.com,,2021-07-12,Basic,Y,9527.96
+CUST000128,FirstName128,LastName128,Customer128@Email.com,555-475-1675,2020-09-26,Basic,0,4257.91
+CUST000129,FirstName129,LastName129,customer129@email.com,+1-555-407-9595,2021-09-02,VIP,False,3044.95
+CUST000130,FirstName130,LastName130,,555-374-8914,2021-03-20,,1,5161.74
+CUST000131,FirstName131,LastName131,customer.131@email.com,5558835581,2021-01-07,VIP,N,2820.81
+CUST000132,FirstName132,LastName132,customer132@email.com,(555) 700-6132,2020-08-21,Basic,Y,4916.45
+CUST000133,FirstName133,LastName133,customer133@email.com,,2022-06-24,Premium,false,8554.5
+CUST000134,FirstName134,LastName134,customer134@email.com,5557528259,2020-03-27,Premium,Y,6799.67
+CUST000135,FirstName135,LastName135,customer135@gmail.com,,2021-04-06,Standard,False,8117.83
+CUST000136,FirstName136,LastName136,customer136@email.com,(555) 429-5248,2021-05-07,Premium,True,5687.16
+CUST000137,FirstName137,LastName137,customer137@email.com,,2020-01-19,Premium,false,4369.07
+CUST000138,FirstName138,LastName138,customer.138@email.com,(555) 662-1900,2023-09-03,Standard,1,6026.45
+CUST000139,FirstName139,LastName139,Customer139@Email.com,,2023-07-20,,false,5413.03
+CUST000140,FirstName140,LastName140,customer140@email.com,555-323-1048,2022-03-23,,False,7613.7
+CUST000141,FirstName141,LastName141,Customer141@Email.com,5558149623,2021-05-21,Standard,true,7607.52
+CUST000142,FirstName142,LastName142,,555-361-2720,2020-06-02,,false,6968.22
+CUST000143,FirstName143,LastName143,,+1-555-395-9390,2021-11-28,,1,7457.09
+CUST000144,FirstName144,LastName144,Customer144@Email.com,,2020-05-30,Premium,1,9923.35
+CUST000145,FirstName145,LastName145,,(555) 579-9303,2020-08-24,,true,877.37
+CUST000146,FirstName146,LastName146,customer146@email.com,+1-555-573-7682,2020-05-09,,false,8789.35
+CUST000147,FirstName147,LastName147,customer147@email.com,,2021-01-19,,False,5317.36
+CUST000148,FirstName148,LastName148,,,2022-08-28,,True,4789.76
+CUST000149,FirstName149,LastName149,customer149@email.com,(555) 996-1091,2021-01-28,VIP,Y,4392.53
+CUST000150,FirstName150,LastName150,,+1-555-630-5485,2020-09-15,Premium,false,2334.15
+CUST000151,FirstName151,LastName151,,,2023-08-24,Basic,Y,2702.96
+CUST000152,FirstName152,LastName152,Customer152@Email.com,555-275-6978,2023-08-21,,False,3523.83
+CUST000153,FirstName153,LastName153,,+1-555-661-3153,2023-05-26,Basic,true,7142.19
+CUST000154,FirstName154,LastName154,customer.154@email.com,,2021-03-07,Standard,0,554.47
+CUST000155,FirstName155,LastName155,customer.155@email.com,+1-555-747-1349,2023-05-08,Basic,0,8473.07
+CUST000156,FirstName156,LastName156,,(555) 325-2302,2023-09-24,,N,6544.02
+CUST000157,FirstName157,LastName157,,+1-555-248-2373,2023-08-13,,false,4544.53
+CUST000158,FirstName158,LastName158,,,2023-04-11,,0,202.61
+CUST000159,FirstName159,LastName159,Customer159@Email.com,,2020-02-10,VIP,false,688.73
+CUST000160,FirstName160,LastName160,customer160@gmail.com,,2020-02-22,VIP,N,6993.22
+CUST000161,FirstName161,LastName161,Customer161@Email.com,(555) 127-7127,2021-08-01,Standard,0,8149.78
+CUST000162,FirstName162,LastName162,,5557815156,2021-07-26,VIP,N,438.62
+CUST000163,FirstName163,LastName163,customer163@gmail.com,+1-555-515-8984,2021-08-04,Standard,True,5534.83
+CUST000164,FirstName164,LastName164,,,2022-05-20,,1,2523.77
+CUST000165,FirstName165,LastName165,,555-613-4432,2023-06-24,VIP,1,6241.21
+CUST000166,FirstName166,LastName166,customer166@gmail.com,5556144883,2023-07-14,Standard,True,2048.14
+CUST000167,FirstName167,LastName167,Customer167@Email.com,5554917140,2023-10-13,,0,9643.86
+CUST000168,FirstName168,LastName168,,5554153499,2020-01-18,Basic,Y,717.52
+CUST000169,FirstName169,LastName169,customer169@email.com,+1-555-548-5032,2020-05-10,Standard,Y,1414.1
+CUST000170,FirstName170,LastName170,,,2022-02-08,VIP,false,3122.71
+CUST000171,FirstName171,LastName171,customer171@email.com,5558384612,2021-02-04,VIP,0,9578.7
+CUST000172,FirstName172,LastName172,customer.172@email.com,555-460-4579,2022-11-29,Basic,N,3474.41
+CUST000173,FirstName173,LastName173,Customer173@Email.com,5554786442,2022-10-03,Basic,true,7650.16
+CUST000174,FirstName174,LastName174,Customer174@Email.com,555-889-3786,2020-12-29,Premium,0,7447.3
+CUST000175,FirstName175,LastName175,,5551498532,2022-07-12,Basic,false,7533.2
+CUST000176,FirstName176,LastName176,customer176@email.com,,2022-12-05,VIP,false,6130.25
+CUST000177,FirstName177,LastName177,,,2021-10-25,VIP,False,5582.38
+CUST000178,FirstName178,LastName178,,,2023-09-22,Basic,true,1010.44
+CUST000179,FirstName179,LastName179,customer179@gmail.com,(555) 451-9098,2021-12-29,VIP,True,9020.65
+CUST000180,FirstName180,LastName180,,,2022-05-06,Standard,1,966.43
+CUST000181,FirstName181,LastName181,customer181@email.com,,2020-06-20,,0,9504.3
+CUST000182,FirstName182,LastName182,Customer182@Email.com,+1-555-873-2605,2021-08-24,Premium,False,5317.93
+CUST000183,FirstName183,LastName183,customer183@email.com,5554855918,2021-05-08,Standard,true,4565.35
+CUST000184,FirstName184,LastName184,Customer184@Email.com,5551334465,2022-12-25,,True,8673.86
+CUST000185,FirstName185,LastName185,customer185@gmail.com,,2021-03-27,,False,4400.19
+CUST000186,FirstName186,LastName186,Customer186@Email.com,(555) 857-7106,2023-01-17,Standard,true,9453.69
+CUST000187,FirstName187,LastName187,,+1-555-106-8928,2023-01-02,Standard,false,9570.42
+CUST000188,FirstName188,LastName188,customer.188@email.com,(555) 277-6171,2022-10-17,,N,7602.66
+CUST000189,FirstName189,LastName189,Customer189@Email.com,,2021-05-30,,N,969.67
+CUST000190,FirstName190,LastName190,,,2021-03-08,VIP,Y,681.24
+CUST000191,FirstName191,LastName191,customer191@email.com,,2022-01-28,VIP,true,2603.67
+CUST000192,FirstName192,LastName192,customer192@email.com,5556144679,2023-05-27,Premium,1,490.81
+CUST000193,FirstName193,LastName193,,,2021-07-15,Premium,N,4100.75
+CUST000194,FirstName194,LastName194,customer194@gmail.com,+1-555-136-1381,2020-03-05,Standard,Y,1661.81
+CUST000195,FirstName195,LastName195,customer195@email.com,,2022-10-11,Standard,0,3253.42
+CUST000196,FirstName196,LastName196,,,2023-06-28,Premium,Y,3045.58
+CUST000197,FirstName197,LastName197,Customer197@Email.com,,2021-06-10,,N,9254.36
+CUST000198,FirstName198,LastName198,,,2023-02-26,VIP,True,5961.83
+CUST000199,FirstName199,LastName199,customer199@gmail.com,5552003154,2020-02-26,Standard,N,2352.89
+CUST000200,FirstName200,LastName200,customer200@gmail.com,,2021-03-14,,Y,9527.63
+CUST000201,FirstName201,LastName201,customer.201@email.com,(555) 134-2693,2022-01-24,Premium,N,3274.8
+CUST000202,FirstName202,LastName202,customer.202@email.com,+1-555-103-4810,2021-01-15,VIP,false,9072.5
+CUST000203,FirstName203,LastName203,customer.203@email.com,+1-555-824-8812,2022-02-11,,1,5980.57
+CUST000204,FirstName204,LastName204,customer204@gmail.com,555-654-1434,2020-02-09,VIP,0,4447.01
+CUST000205,FirstName205,LastName205,customer205@email.com,5558252422,2020-12-23,Standard,True,110.76
+CUST000206,FirstName206,LastName206,,555-908-4566,2022-08-13,,N,782.56
+CUST000207,FirstName207,LastName207,,555-448-5694,2023-09-23,VIP,false,4322.66
+CUST000208,FirstName208,LastName208,customer208@gmail.com,555-264-5790,2022-10-24,,0,490.57
+CUST000209,FirstName209,LastName209,customer.209@email.com,555-459-7000,2021-11-11,,0,9543.31
+CUST000210,FirstName210,LastName210,customer210@gmail.com,5553009505,2021-05-16,VIP,1,3809.5
+CUST000211,FirstName211,LastName211,,+1-555-875-9731,2022-12-27,Basic,0,5463.3
+CUST000212,FirstName212,LastName212,customer.212@email.com,5552704889,2023-06-13,Standard,Y,5374.3
+CUST000213,FirstName213,LastName213,customer213@gmail.com,,2022-10-12,Premium,N,1666.21
+CUST000214,FirstName214,LastName214,,+1-555-964-5654,2021-01-14,Basic,true,1854.0
+CUST000215,FirstName215,LastName215,customer215@gmail.com,+1-555-615-5919,2023-03-13,,N,5151.25
+CUST000216,FirstName216,LastName216,customer.216@email.com,5559093197,2021-10-14,,false,2329.75
+CUST000217,FirstName217,LastName217,customer.217@email.com,,2021-12-25,,False,6708.65
+CUST000218,FirstName218,LastName218,,+1-555-840-7192,2020-09-09,VIP,N,5735.04
+CUST000219,FirstName219,LastName219,Customer219@Email.com,555-909-3785,2021-07-22,Basic,1,1688.7
+CUST000220,FirstName220,LastName220,Customer220@Email.com,(555) 101-9035,2020-08-11,Premium,false,7729.35
+CUST000221,FirstName221,LastName221,customer.221@email.com,,2021-09-10,Basic,false,7466.11
+CUST000222,FirstName222,LastName222,customer222@gmail.com,,2021-06-10,,false,167.6
+CUST000223,FirstName223,LastName223,,,2022-12-25,Standard,1,7188.4
+CUST000224,FirstName224,LastName224,customer224@email.com,,2023-02-05,Premium,False,801.21
+CUST000225,FirstName225,LastName225,,555-175-9836,2023-10-21,,1,6613.71
+CUST000226,FirstName226,LastName226,customer226@gmail.com,,2020-08-02,Basic,False,6192.48
+CUST000227,FirstName227,LastName227,Customer227@Email.com,,2022-08-25,Standard,0,4551.71
+CUST000228,FirstName228,LastName228,customer228@gmail.com,5555413973,2023-06-19,Basic,False,1670.01
+CUST000229,FirstName229,LastName229,Customer229@Email.com,+1-555-556-9810,2023-07-16,Basic,Y,2452.32
+CUST000230,FirstName230,LastName230,,,2022-03-01,,1,9568.22
+CUST000231,FirstName231,LastName231,,5559757512,2022-04-15,Premium,0,4606.8
+CUST000232,FirstName232,LastName232,,(555) 756-3538,2023-04-08,Premium,True,5856.47
+CUST000233,FirstName233,LastName233,Customer233@Email.com,5553277400,2022-05-19,Basic,True,6169.99
+CUST000234,FirstName234,LastName234,,,2022-09-20,Premium,0,1024.49
+CUST000235,FirstName235,LastName235,customer235@gmail.com,(555) 405-3938,2023-03-18,Standard,0,1265.63
+CUST000236,FirstName236,LastName236,customer236@gmail.com,+1-555-875-6634,2021-04-11,VIP,Y,5824.95
+CUST000237,FirstName237,LastName237,Customer237@Email.com,,2022-12-26,Basic,false,4424.22
+CUST000238,FirstName238,LastName238,customer.238@email.com,,2021-05-17,,False,3657.77
+CUST000239,FirstName239,LastName239,,555-267-8605,2021-12-24,Standard,False,116.08
+CUST000240,FirstName240,LastName240,customer.240@email.com,(555) 563-5426,2023-05-03,Basic,True,5656.76
+CUST000241,FirstName241,LastName241,,555-433-2124,2020-09-27,Standard,true,2311.68
+CUST000242,FirstName242,LastName242,,,2023-04-29,,Y,9419.05
+CUST000243,FirstName243,LastName243,,,2020-06-20,,N,796.76
+CUST000244,FirstName244,LastName244,Customer244@Email.com,555-424-7555,2022-11-05,Standard,False,8985.16
+CUST000245,FirstName245,LastName245,,+1-555-874-8640,2023-04-30,Basic,N,7954.76
+CUST000246,FirstName246,LastName246,,5557132201,2023-06-02,,1,7305.12
+CUST000247,FirstName247,LastName247,,555-788-3328,2022-02-06,,False,8345.17
+CUST000248,FirstName248,LastName248,customer.248@email.com,+1-555-131-2673,2022-03-13,Basic,N,4443.57
+CUST000249,FirstName249,LastName249,customer249@gmail.com,+1-555-877-3104,2022-03-09,Basic,N,1910.41
+CUST000250,FirstName250,LastName250,,5555006854,2020-02-13,,N,5173.98
+CUST000251,FirstName251,LastName251,Customer251@Email.com,(555) 328-4988,2020-01-17,Basic,1,724.07
+CUST000252,FirstName252,LastName252,,5551039986,2021-05-27,,N,5584.68
+CUST000253,FirstName253,LastName253,customer253@email.com,+1-555-505-4184,2020-01-14,,False,6636.06
+CUST000254,FirstName254,LastName254,customer254@gmail.com,555-152-5952,2023-10-12,,False,4180.1
+CUST000255,FirstName255,LastName255,Customer255@Email.com,5555821995,2021-08-12,,1,5349.79
+CUST000256,FirstName256,LastName256,customer256@gmail.com,555-645-2463,2021-06-28,VIP,false,4722.65
+CUST000257,FirstName257,LastName257,customer257@email.com,555-869-6107,2022-06-30,Standard,0,5674.63
+CUST000258,FirstName258,LastName258,customer258@email.com,+1-555-684-6723,2023-04-14,,1,911.6
+CUST000259,FirstName259,LastName259,customer259@email.com,555-399-4064,2022-06-19,Basic,Y,1205.0
+CUST000260,FirstName260,LastName260,customer260@email.com,+1-555-779-6620,2021-06-05,Standard,Y,50.97
+CUST000261,FirstName261,LastName261,customer.261@email.com,,2023-06-07,Premium,False,560.69
+CUST000262,FirstName262,LastName262,Customer262@Email.com,(555) 773-4348,2022-09-29,Premium,False,1986.04
+CUST000263,FirstName263,LastName263,,+1-555-194-7457,2020-03-15,,False,2644.55
+CUST000264,FirstName264,LastName264,,,2023-08-03,Basic,false,8802.09
+CUST000265,FirstName265,LastName265,,,2022-08-23,Basic,Y,6075.97
+CUST000266,FirstName266,LastName266,,555-875-8129,2020-08-13,Standard,true,9174.65
+CUST000267,FirstName267,LastName267,,+1-555-728-2102,2022-07-11,,True,8142.42
+CUST000268,FirstName268,LastName268,customer.268@email.com,(555) 208-3906,2020-01-11,VIP,false,4053.69
+CUST000269,FirstName269,LastName269,customer269@gmail.com,,2021-12-19,Standard,True,3584.57
+CUST000270,FirstName270,LastName270,customer270@email.com,,2023-02-23,Standard,false,2496.72
+CUST000271,FirstName271,LastName271,Customer271@Email.com,,2022-06-01,Basic,N,4954.02
+CUST000272,FirstName272,LastName272,,+1-555-912-9169,2023-04-28,Standard,Y,2899.64
+CUST000273,FirstName273,LastName273,customer.273@email.com,5554006041,2021-02-28,Standard,True,3747.34
+CUST000274,FirstName274,LastName274,customer274@gmail.com,555-598-6495,2020-06-10,Premium,False,9285.17
+CUST000275,FirstName275,LastName275,customer.275@email.com,+1-555-145-5108,2021-04-14,Standard,1,9158.15
+CUST000276,FirstName276,LastName276,customer.276@email.com,(555) 608-5881,2022-09-19,Basic,N,4205.27
+CUST000277,FirstName277,LastName277,customer277@gmail.com,(555) 501-9128,2020-09-30,Premium,False,7743.55
+CUST000278,FirstName278,LastName278,,,2021-11-29,Premium,True,4375.6
+CUST000279,FirstName279,LastName279,customer279@gmail.com,,2020-12-18,VIP,N,4247.24
+CUST000280,FirstName280,LastName280,,5551027943,2020-03-27,,0,3804.05
+CUST000281,FirstName281,LastName281,,,2023-01-06,,false,1959.67
+CUST000282,FirstName282,LastName282,customer.282@email.com,+1-555-622-9748,2022-03-10,Premium,Y,1142.32
+CUST000283,FirstName283,LastName283,,,2023-06-28,,True,3206.69
+CUST000284,FirstName284,LastName284,Customer284@Email.com,(555) 267-2141,2021-12-18,Basic,Y,9149.34
+CUST000285,FirstName285,LastName285,customer.285@email.com,+1-555-649-1438,2020-10-10,Standard,Y,3128.26
+CUST000286,FirstName286,LastName286,,+1-555-681-4505,2020-06-23,Premium,1,3001.08
+CUST000287,FirstName287,LastName287,customer.287@email.com,5553619385,2021-04-16,Premium,1,3847.0
+CUST000288,FirstName288,LastName288,,,2021-04-29,Basic,true,4269.97
+CUST000289,FirstName289,LastName289,customer289@gmail.com,555-105-8920,2022-08-06,Basic,False,9009.21
+CUST000290,FirstName290,LastName290,,,2023-01-18,Standard,N,4559.66
+CUST000291,FirstName291,LastName291,Customer291@Email.com,555-669-7575,2022-12-26,,false,6573.83
+CUST000292,FirstName292,LastName292,customer.292@email.com,(555) 599-6088,2022-11-17,Basic,0,1552.67
+CUST000293,FirstName293,LastName293,customer293@email.com,555-115-6351,2022-02-11,,false,1235.8
+CUST000294,FirstName294,LastName294,customer294@gmail.com,+1-555-973-7512,2023-02-23,,True,7070.56
+CUST000295,FirstName295,LastName295,customer295@email.com,555-354-1332,2021-01-27,Standard,0,3936.2
+CUST000296,FirstName296,LastName296,customer296@gmail.com,5551203863,2020-04-17,Standard,1,2202.42
+CUST000297,FirstName297,LastName297,,5557476579,2021-03-15,Basic,false,2014.49
+CUST000298,FirstName298,LastName298,Customer298@Email.com,5555948234,2021-10-08,Standard,0,1709.6
+CUST000299,FirstName299,LastName299,customer.299@email.com,(555) 459-4598,2021-02-26,,N,3777.28
+CUST000300,FirstName300,LastName300,,,2022-07-25,Basic,N,2060.61
+CUST000301,FirstName301,LastName301,customer301@email.com,,2020-10-31,VIP,False,5399.76
+CUST000302,FirstName302,LastName302,customer302@gmail.com,5551248803,2023-04-07,VIP,true,6698.01
+CUST000303,FirstName303,LastName303,Customer303@Email.com,555-796-2721,2023-03-15,,N,557.12
+CUST000304,FirstName304,LastName304,customer304@gmail.com,+1-555-762-9313,2020-10-16,Basic,False,4129.52
+CUST000305,FirstName305,LastName305,customer305@email.com,,2021-05-13,Premium,true,431.2
+CUST000306,FirstName306,LastName306,customer306@gmail.com,5555523610,2021-11-28,VIP,true,6764.39
+CUST000307,FirstName307,LastName307,customer307@gmail.com,5558028470,2022-10-21,VIP,N,7718.05
+CUST000308,FirstName308,LastName308,,555-714-1922,2021-05-24,VIP,N,3273.54
+CUST000309,FirstName309,LastName309,Customer309@Email.com,(555) 461-9369,2020-09-29,Basic,Y,3554.56
+CUST000310,FirstName310,LastName310,customer310@email.com,555-389-1411,2021-06-08,VIP,0,33.7
+CUST000311,FirstName311,LastName311,customer.311@email.com,555-735-4589,2022-03-11,Premium,true,3285.42
+CUST000312,FirstName312,LastName312,customer312@gmail.com,,2022-03-23,VIP,0,5913.6
+CUST000313,FirstName313,LastName313,customer313@email.com,,2022-04-15,Basic,Y,9512.16
+CUST000314,FirstName314,LastName314,,(555) 695-9912,2022-03-04,,true,9184.26
+CUST000315,FirstName315,LastName315,customer.315@email.com,555-660-9695,2022-01-03,Basic,True,2691.55
+CUST000316,FirstName316,LastName316,customer316@gmail.com,,2023-06-17,Premium,N,9958.32
+CUST000317,FirstName317,LastName317,customer.317@email.com,(555) 109-6802,2022-12-16,VIP,true,8540.73
+CUST000318,FirstName318,LastName318,,5552265531,2023-10-23,Basic,false,7922.04
+CUST000319,FirstName319,LastName319,customer319@email.com,+1-555-977-2133,2021-07-14,,0,4063.14
+CUST000320,FirstName320,LastName320,Customer320@Email.com,(555) 467-2626,2021-03-17,Standard,False,8772.35
+CUST000321,FirstName321,LastName321,customer.321@email.com,5553953222,2020-03-13,,N,5009.96
+CUST000322,FirstName322,LastName322,Customer322@Email.com,555-572-7224,2020-07-01,VIP,0,881.8
+CUST000323,FirstName323,LastName323,,555-644-6049,2022-12-10,,True,2969.81
+CUST000324,FirstName324,LastName324,customer324@email.com,,2020-12-02,,0,7900.09
+CUST000325,FirstName325,LastName325,Customer325@Email.com,555-943-6180,2021-04-22,Standard,False,3890.41
+CUST000326,FirstName326,LastName326,customer.326@email.com,+1-555-693-6791,2023-01-28,VIP,false,3699.54
+CUST000327,FirstName327,LastName327,customer327@email.com,,2022-02-03,Premium,1,4564.67
+CUST000328,FirstName328,LastName328,customer328@email.com,,2020-12-24,,true,734.09
+CUST000329,FirstName329,LastName329,customer.329@email.com,5555309593,2022-06-20,Standard,True,3251.65
+CUST000330,FirstName330,LastName330,customer330@email.com,+1-555-133-2964,2022-12-26,Premium,Y,5253.72
+CUST000331,FirstName331,LastName331,Customer331@Email.com,,2022-10-22,,1,135.72
+CUST000332,FirstName332,LastName332,,555-702-4448,2023-07-05,VIP,Y,8069.4
+CUST000333,FirstName333,LastName333,Customer333@Email.com,+1-555-762-1214,2023-03-01,,false,2357.48
+CUST000334,FirstName334,LastName334,customer334@email.com,(555) 885-2521,2023-04-04,,True,4736.6
+CUST000335,FirstName335,LastName335,customer.335@email.com,,2021-08-17,,True,8537.04
+CUST000336,FirstName336,LastName336,customer336@email.com,5554931946,2021-04-07,,false,342.23
+CUST000337,FirstName337,LastName337,,5558641871,2022-02-23,,0,76.73
+CUST000338,FirstName338,LastName338,,5551443118,2022-03-28,Premium,True,8488.85
+CUST000339,FirstName339,LastName339,customer.339@email.com,+1-555-255-2894,2021-10-13,Basic,false,2598.32
+CUST000340,FirstName340,LastName340,customer340@gmail.com,+1-555-435-5431,2023-04-08,,1,5956.96
+CUST000341,FirstName341,LastName341,customer.341@email.com,,2021-02-10,,False,5111.78
+CUST000342,FirstName342,LastName342,customer.342@email.com,,2023-09-27,Standard,1,2580.64
+CUST000343,FirstName343,LastName343,customer.343@email.com,,2022-03-31,,True,4816.71
+CUST000344,FirstName344,LastName344,customer344@email.com,(555) 569-6858,2022-03-31,VIP,N,3550.93
+CUST000345,FirstName345,LastName345,customer345@gmail.com,555-388-4162,2021-09-04,,true,7868.29
+CUST000346,FirstName346,LastName346,,,2022-09-17,,0,7606.89
+CUST000347,FirstName347,LastName347,customer347@email.com,5557685929,2020-04-17,,True,86.25
+CUST000348,FirstName348,LastName348,customer348@gmail.com,5555554875,2021-01-26,Standard,True,5851.99
+CUST000349,FirstName349,LastName349,customer349@email.com,,2022-04-11,Premium,False,8216.4
+CUST000350,FirstName350,LastName350,,5553186321,2022-08-27,Basic,Y,4492.11
+CUST000351,FirstName351,LastName351,customer351@gmail.com,555-414-3930,2022-03-12,Basic,0,5554.92
+CUST000352,FirstName352,LastName352,,+1-555-786-1909,2020-06-28,Basic,Y,6413.81
+CUST000353,FirstName353,LastName353,customer353@email.com,555-709-3205,2023-09-19,,True,3138.09
+CUST000354,FirstName354,LastName354,,+1-555-273-1475,2020-04-08,,1,3715.7
+CUST000355,FirstName355,LastName355,customer355@email.com,5554365826,2023-04-22,VIP,0,3110.43
+CUST000356,FirstName356,LastName356,,,2023-05-08,Premium,1,8721.27
+CUST000357,FirstName357,LastName357,customer357@email.com,,2020-12-20,Standard,Y,9859.19
+CUST000358,FirstName358,LastName358,customer358@gmail.com,,2023-07-04,,True,2842.64
+CUST000359,FirstName359,LastName359,customer359@email.com,5552046558,2022-04-30,Standard,true,3928.37
+CUST000360,FirstName360,LastName360,customer.360@email.com,5554841790,2023-05-26,Premium,N,5113.62
+CUST000361,FirstName361,LastName361,Customer361@Email.com,,2022-01-06,,N,3903.29
+CUST000362,FirstName362,LastName362,,5559936105,2021-02-02,,True,31.24
+CUST000363,FirstName363,LastName363,Customer363@Email.com,5551442549,2022-08-06,Premium,true,1448.45
+CUST000364,FirstName364,LastName364,customer364@email.com,+1-555-373-1485,2020-08-28,,1,9739.03
+CUST000365,FirstName365,LastName365,Customer365@Email.com,(555) 324-6437,2023-04-11,,0,9414.62
+CUST000366,FirstName366,LastName366,Customer366@Email.com,5559012652,2023-08-14,Premium,True,9736.81
+CUST000367,FirstName367,LastName367,,(555) 303-1054,2020-04-03,Standard,N,3922.13
+CUST000368,FirstName368,LastName368,,+1-555-561-6801,2022-11-19,,Y,5829.38
+CUST000369,FirstName369,LastName369,Customer369@Email.com,5552211832,2022-11-03,Basic,true,4764.8
+CUST000370,FirstName370,LastName370,,555-718-8047,2020-11-18,,False,8551.17
+CUST000371,FirstName371,LastName371,,+1-555-116-1605,2020-12-20,,False,281.33
+CUST000372,FirstName372,LastName372,Customer372@Email.com,(555) 417-2425,2020-09-07,Basic,N,5463.31
+CUST000373,FirstName373,LastName373,,(555) 840-6848,2020-07-04,,false,6907.08
+CUST000374,FirstName374,LastName374,,5551222660,2020-08-23,Basic,False,2434.62
+CUST000375,FirstName375,LastName375,customer.375@email.com,5559056875,2020-11-19,,True,137.39
+CUST000376,FirstName376,LastName376,customer376@email.com,(555) 717-1271,2022-08-29,Premium,true,4841.38
+CUST000377,FirstName377,LastName377,customer377@email.com,,2022-05-22,VIP,1,4644.65
+CUST000378,FirstName378,LastName378,Customer378@Email.com,+1-555-889-6210,2020-07-27,,true,5600.43
+CUST000379,FirstName379,LastName379,customer379@email.com,+1-555-365-8415,2023-05-18,Standard,True,3226.14
+CUST000380,FirstName380,LastName380,,,2020-08-25,Basic,N,2062.98
+CUST000381,FirstName381,LastName381,Customer381@Email.com,,2023-09-10,Basic,False,1745.19
+CUST000382,FirstName382,LastName382,,5555982459,2023-06-18,Standard,N,265.31
+CUST000383,FirstName383,LastName383,Customer383@Email.com,,2022-04-22,,True,364.33
+CUST000384,FirstName384,LastName384,,+1-555-894-2979,2023-03-18,VIP,0,3640.57
+CUST000385,FirstName385,LastName385,customer.385@email.com,5558651154,2020-11-24,Standard,False,2362.25
+CUST000386,FirstName386,LastName386,customer386@email.com,(555) 242-3125,2021-03-05,Basic,True,4688.37
+CUST000387,FirstName387,LastName387,,5553916277,2021-06-30,VIP,N,1264.92
+CUST000388,FirstName388,LastName388,customer388@gmail.com,555-943-5138,2022-10-10,Premium,true,6271.82
+CUST000389,FirstName389,LastName389,,,2022-01-25,Basic,false,4481.16
+CUST000390,FirstName390,LastName390,customer390@email.com,,2021-05-11,Standard,0,7534.15
+CUST000391,FirstName391,LastName391,customer391@email.com,5559933828,2020-04-20,,Y,137.18
+CUST000392,FirstName392,LastName392,customer392@email.com,555-286-3102,2023-01-27,,True,1463.01
+CUST000393,FirstName393,LastName393,customer.393@email.com,(555) 471-8011,2022-10-12,Basic,Y,8218.33
+CUST000394,FirstName394,LastName394,,555-865-6298,2021-05-15,Standard,false,3539.41
+CUST000395,FirstName395,LastName395,Customer395@Email.com,+1-555-105-7092,2023-05-26,VIP,Y,5864.13
+CUST000396,FirstName396,LastName396,,+1-555-431-5141,2023-08-21,,False,2110.26
+CUST000397,FirstName397,LastName397,customer397@gmail.com,555-467-4226,2020-09-02,Basic,True,4232.95
+CUST000398,FirstName398,LastName398,customer398@gmail.com,,2021-03-31,,False,1252.09
+CUST000399,FirstName399,LastName399,customer399@gmail.com,+1-555-604-9810,2020-01-03,Standard,True,6255.08
+CUST000400,FirstName400,LastName400,,5555419682,2023-02-17,Premium,false,3238.91
+CUST000401,FirstName401,LastName401,Customer401@Email.com,,2020-07-09,Basic,1,1286.64
+CUST000402,FirstName402,LastName402,,555-295-1713,2020-01-28,Standard,False,8851.31
+CUST000403,FirstName403,LastName403,,(555) 348-5077,2021-02-18,,True,3174.57
+CUST000404,FirstName404,LastName404,customer404@gmail.com,(555) 137-9274,2021-12-02,Basic,0,2641.02
+CUST000405,FirstName405,LastName405,customer.405@email.com,(555) 797-7278,2023-10-07,Basic,True,2359.19
+CUST000406,FirstName406,LastName406,,555-245-8799,2022-01-19,Standard,false,1423.5
+CUST000407,FirstName407,LastName407,customer407@email.com,,2021-05-21,Standard,false,5557.93
+CUST000408,FirstName408,LastName408,,(555) 270-1997,2022-09-25,Standard,false,8773.49
+CUST000409,FirstName409,LastName409,customer409@email.com,,2022-06-18,,False,5568.07
+CUST000410,FirstName410,LastName410,Customer410@Email.com,555-337-2497,2021-05-05,Premium,N,7028.81
+CUST000411,FirstName411,LastName411,,(555) 240-6134,2023-10-04,,true,1120.93
+CUST000412,FirstName412,LastName412,customer.412@email.com,,2023-01-23,VIP,False,2878.6
+CUST000413,FirstName413,LastName413,customer.413@email.com,5558196065,2020-03-28,Premium,False,9776.32
+CUST000414,FirstName414,LastName414,customer.414@email.com,5558785604,2022-09-21,,True,5931.66
+CUST000415,FirstName415,LastName415,,555-412-1676,2022-05-31,VIP,False,2703.64
+CUST000416,FirstName416,LastName416,customer416@gmail.com,(555) 931-1757,2021-09-28,Basic,True,3065.48
+CUST000417,FirstName417,LastName417,customer417@email.com,,2023-07-10,,True,3599.69
+CUST000418,FirstName418,LastName418,,5553733306,2020-07-25,,False,994.72
+CUST000419,FirstName419,LastName419,customer419@gmail.com,,2020-07-20,,True,4387.12
+CUST000420,FirstName420,LastName420,,+1-555-160-1800,2021-09-20,Premium,False,5038.09
+CUST000421,FirstName421,LastName421,customer.421@email.com,+1-555-947-9515,2020-01-12,VIP,0,2585.42
+CUST000422,FirstName422,LastName422,,(555) 135-2069,2022-01-29,VIP,Y,626.86
+CUST000423,FirstName423,LastName423,,555-130-3037,2022-03-13,Basic,False,8685.83
+CUST000424,FirstName424,LastName424,customer424@gmail.com,+1-555-430-8708,2020-07-09,Standard,Y,881.9
+CUST000425,FirstName425,LastName425,Customer425@Email.com,,2021-04-16,,True,4933.89
+CUST000426,FirstName426,LastName426,customer426@gmail.com,,2021-02-18,Premium,0,3840.33
+CUST000427,FirstName427,LastName427,Customer427@Email.com,,2020-10-02,,N,464.24
+CUST000428,FirstName428,LastName428,customer428@gmail.com,(555) 819-3005,2023-10-13,VIP,false,731.04
+CUST000429,FirstName429,LastName429,customer429@gmail.com,,2022-10-25,Standard,true,1931.67
+CUST000430,FirstName430,LastName430,Customer430@Email.com,5554201388,2022-04-22,Standard,True,6704.8
+CUST000431,FirstName431,LastName431,Customer431@Email.com,5551821944,2020-02-23,Basic,False,2908.9
+CUST000432,FirstName432,LastName432,customer.432@email.com,,2020-11-22,VIP,true,4314.22
+CUST000433,FirstName433,LastName433,customer433@gmail.com,,2021-09-13,,True,8215.47
+CUST000434,FirstName434,LastName434,customer434@email.com,+1-555-508-8489,2020-02-23,,False,6257.87
+CUST000435,FirstName435,LastName435,customer.435@email.com,5551891101,2020-09-20,Standard,1,4197.38
+CUST000436,FirstName436,LastName436,customer.436@email.com,555-672-6526,2023-05-01,Basic,false,5313.61
+CUST000437,FirstName437,LastName437,,+1-555-203-7043,2022-06-04,Standard,0,4519.82
+CUST000438,FirstName438,LastName438,,(555) 253-5092,2023-10-25,Basic,0,9884.3
+CUST000439,FirstName439,LastName439,customer439@gmail.com,+1-555-223-5170,2020-06-14,Standard,true,335.14
+CUST000440,FirstName440,LastName440,customer.440@email.com,,2023-09-26,VIP,false,5054.89
+CUST000441,FirstName441,LastName441,,,2023-07-26,Standard,0,470.68
+CUST000442,FirstName442,LastName442,,555-655-3773,2021-02-14,Basic,false,6275.01
+CUST000443,FirstName443,LastName443,customer443@email.com,5553344105,2021-05-22,Premium,False,2840.7
+CUST000444,FirstName444,LastName444,,+1-555-214-5573,2022-02-09,,false,2368.25
+CUST000445,FirstName445,LastName445,customer445@email.com,,2022-06-20,,True,6796.26
+CUST000446,FirstName446,LastName446,customer.446@email.com,+1-555-611-7945,2021-12-13,VIP,False,6597.89
+CUST000447,FirstName447,LastName447,customer447@gmail.com,,2020-08-12,,N,3038.95
+CUST000448,FirstName448,LastName448,,555-550-4821,2020-02-29,Premium,Y,1737.37
+CUST000449,FirstName449,LastName449,Customer449@Email.com,(555) 417-4991,2022-06-02,Standard,false,7002.45
+CUST000450,FirstName450,LastName450,customer.450@email.com,5556497815,2023-01-14,,N,7469.66
+CUST000451,FirstName451,LastName451,,555-739-8033,2021-08-02,Premium,Y,5060.39
+CUST000452,FirstName452,LastName452,customer452@gmail.com,,2021-04-15,Basic,false,9399.6
+CUST000453,FirstName453,LastName453,,,2021-04-16,Premium,False,2029.49
+CUST000454,FirstName454,LastName454,Customer454@Email.com,+1-555-139-8961,2021-07-26,Standard,true,2507.71
+CUST000455,FirstName455,LastName455,customer455@gmail.com,+1-555-929-2146,2022-10-25,VIP,true,9878.93
+CUST000456,FirstName456,LastName456,customer456@email.com,,2021-08-04,Basic,1,9780.72
+CUST000457,FirstName457,LastName457,customer457@email.com,(555) 851-5353,2023-09-04,Premium,0,6842.93
+CUST000458,FirstName458,LastName458,customer458@gmail.com,555-664-7049,2021-12-19,VIP,true,4733.97
+CUST000459,FirstName459,LastName459,customer459@gmail.com,,2022-04-25,,True,1927.35
+CUST000460,FirstName460,LastName460,Customer460@Email.com,,2021-11-05,,false,7752.82
+CUST000461,FirstName461,LastName461,customer461@gmail.com,+1-555-398-2311,2022-12-30,,Y,4750.23
+CUST000462,FirstName462,LastName462,customer462@email.com,,2022-12-13,,0,7790.92
+CUST000463,FirstName463,LastName463,,,2023-09-10,VIP,true,6809.33
+CUST000464,FirstName464,LastName464,Customer464@Email.com,555-905-9545,2023-02-03,Premium,false,8259.32
+CUST000465,FirstName465,LastName465,Customer465@Email.com,,2021-05-27,Premium,false,3721.14
+CUST000466,FirstName466,LastName466,customer466@email.com,,2021-07-08,,False,7134.59
+CUST000467,FirstName467,LastName467,customer.467@email.com,+1-555-648-5405,2022-04-07,,N,3446.81
+CUST000468,FirstName468,LastName468,customer468@email.com,,2020-07-10,VIP,false,1296.73
+CUST000469,FirstName469,LastName469,customer469@gmail.com,5556993071,2021-02-09,Standard,True,2331.4
+CUST000470,FirstName470,LastName470,customer470@gmail.com,5551969865,2023-06-25,,1,6050.2
+CUST000471,FirstName471,LastName471,,,2023-03-29,Premium,false,230.57
+CUST000472,FirstName472,LastName472,customer.472@email.com,,2022-05-27,Premium,N,4100.91
+CUST000473,FirstName473,LastName473,,5556265366,2023-07-18,,0,5873.24
+CUST000474,FirstName474,LastName474,,+1-555-785-2291,2020-05-30,,false,2816.08
+CUST000475,FirstName475,LastName475,customer475@gmail.com,,2021-10-13,Basic,0,4186.25
+CUST000476,FirstName476,LastName476,customer.476@email.com,5554175475,2021-02-27,Premium,1,9394.81
+CUST000477,FirstName477,LastName477,,+1-555-748-9705,2021-08-20,VIP,1,6247.99
+CUST000478,FirstName478,LastName478,Customer478@Email.com,,2020-01-07,,0,1255.64
+CUST000479,FirstName479,LastName479,,,2020-12-06,Premium,false,4016.88
+CUST000480,FirstName480,LastName480,,,2023-03-21,Standard,Y,6665.2
+CUST000481,FirstName481,LastName481,,555-752-7887,2022-03-09,VIP,0,3306.03
+CUST000482,FirstName482,LastName482,customer.482@email.com,+1-555-835-9531,2021-01-16,VIP,0,8040.52
+CUST000483,FirstName483,LastName483,customer.483@email.com,,2023-01-25,,0,5930.19
+CUST000484,FirstName484,LastName484,,,2020-05-19,Premium,False,7869.8
+CUST000485,FirstName485,LastName485,,,2023-06-14,Basic,true,8963.03
+CUST000486,FirstName486,LastName486,,5552885227,2020-09-30,,true,1213.85
+CUST000487,FirstName487,LastName487,,,2020-11-01,Premium,N,4009.12
+CUST000488,FirstName488,LastName488,customer488@email.com,,2022-12-17,,False,1555.67
+CUST000489,FirstName489,LastName489,customer489@gmail.com,,2021-05-28,Basic,false,1852.12
+CUST000490,FirstName490,LastName490,,+1-555-201-9701,2020-09-04,Basic,1,6545.0
+CUST000491,FirstName491,LastName491,customer491@email.com,,2021-06-21,,0,4456.03
+CUST000492,FirstName492,LastName492,customer.492@email.com,(555) 733-6871,2020-08-26,Basic,N,1576.12
+CUST000493,FirstName493,LastName493,,+1-555-887-1756,2021-01-27,Premium,True,9693.99
+CUST000494,FirstName494,LastName494,,+1-555-948-1681,2020-09-27,Standard,False,1907.13
+CUST000495,FirstName495,LastName495,,+1-555-955-5572,2023-08-31,VIP,True,8335.42
+CUST000496,FirstName496,LastName496,customer496@gmail.com,,2021-05-11,,1,5259.41
+CUST000497,FirstName497,LastName497,Customer497@Email.com,,2022-12-30,Basic,0,6859.53
+CUST000498,FirstName498,LastName498,Customer498@Email.com,555-820-9740,2020-05-04,Premium,false,4409.74
+CUST000499,FirstName499,LastName499,customer.499@email.com,,2021-04-09,VIP,true,784.65
+CUST000500,FirstName500,LastName500,,5558506457,2022-08-19,Standard,true,3032.37
+CUST000501,FirstName501,LastName501,customer501@gmail.com,,2023-05-08,,False,3576.0
+CUST000502,FirstName502,LastName502,Customer502@Email.com,555-185-9854,2023-10-09,VIP,1,5626.85
+CUST000503,FirstName503,LastName503,customer.503@email.com,5557435767,2022-08-08,VIP,false,9063.48
+CUST000504,FirstName504,LastName504,,,2023-02-06,Basic,0,5979.63
+CUST000505,FirstName505,LastName505,Customer505@Email.com,(555) 171-5160,2022-03-08,Basic,Y,924.4
+CUST000506,FirstName506,LastName506,customer506@gmail.com,,2023-06-12,,False,1147.37
+CUST000507,FirstName507,LastName507,customer507@email.com,(555) 629-8070,2022-10-17,Basic,True,5773.19
+CUST000508,FirstName508,LastName508,customer508@gmail.com,(555) 756-9255,2020-02-05,Basic,false,9623.9
+CUST000509,FirstName509,LastName509,customer509@gmail.com,+1-555-658-2059,2022-04-04,Premium,N,5636.19
+CUST000510,FirstName510,LastName510,Customer510@Email.com,5554482416,2020-02-19,Standard,True,9003.74
+CUST000511,FirstName511,LastName511,,(555) 545-5227,2022-06-20,VIP,N,8566.41
+CUST000512,FirstName512,LastName512,Customer512@Email.com,555-151-9468,2020-01-09,Standard,1,9760.93
+CUST000513,FirstName513,LastName513,customer.513@email.com,(555) 884-5244,2020-04-14,Basic,N,4030.33
+CUST000514,FirstName514,LastName514,,5551548473,2021-10-02,Basic,True,772.71
+CUST000515,FirstName515,LastName515,,+1-555-100-9294,2021-12-01,,Y,331.8
+CUST000516,FirstName516,LastName516,,5552939670,2022-06-23,Basic,True,2505.8
+CUST000517,FirstName517,LastName517,customer517@gmail.com,,2022-09-13,Standard,Y,3726.31
+CUST000518,FirstName518,LastName518,,,2022-10-22,Premium,True,286.5
+CUST000519,FirstName519,LastName519,,(555) 335-6818,2022-07-30,Standard,true,2150.46
+CUST000520,FirstName520,LastName520,customer520@gmail.com,,2021-05-04,Standard,N,3013.24
+CUST000521,FirstName521,LastName521,,5553482589,2021-05-26,Premium,1,4955.45
+CUST000522,FirstName522,LastName522,Customer522@Email.com,555-693-4027,2023-09-30,,0,5569.87
+CUST000523,FirstName523,LastName523,,(555) 547-2852,2021-04-05,Basic,false,4739.21
+CUST000524,FirstName524,LastName524,customer524@email.com,,2020-01-16,Standard,false,3377.93
+CUST000525,FirstName525,LastName525,customer.525@email.com,,2022-09-05,VIP,Y,3828.89
+CUST000526,FirstName526,LastName526,customer526@gmail.com,555-959-8379,2023-07-22,Standard,0,2528.37
+CUST000527,FirstName527,LastName527,,,2023-05-31,Basic,True,4277.16
+CUST000528,FirstName528,LastName528,,555-855-6468,2022-05-16,Basic,true,3986.67
+CUST000529,FirstName529,LastName529,customer.529@email.com,+1-555-567-5468,2020-10-03,Basic,true,7752.58
+CUST000530,FirstName530,LastName530,customer530@gmail.com,555-776-5285,2022-07-01,,0,2153.04
+CUST000531,FirstName531,LastName531,customer531@email.com,555-408-3893,2023-08-26,Standard,N,7398.03
+CUST000532,FirstName532,LastName532,customer532@email.com,5554429456,2021-01-19,Standard,False,6382.1
+CUST000533,FirstName533,LastName533,,5555722735,2020-03-07,VIP,false,7609.47
+CUST000534,FirstName534,LastName534,,5555074810,2020-06-18,,true,5567.39
+CUST000535,FirstName535,LastName535,customer.535@email.com,(555) 574-8461,2021-04-13,,false,4965.33
+CUST000536,FirstName536,LastName536,customer536@email.com,(555) 532-5982,2022-08-27,,true,8672.12
+CUST000537,FirstName537,LastName537,Customer537@Email.com,,2020-01-30,Premium,false,6396.55
+CUST000538,FirstName538,LastName538,,5559381657,2020-10-07,VIP,True,1295.43
+CUST000539,FirstName539,LastName539,customer.539@email.com,,2022-04-12,,1,5665.37
+CUST000540,FirstName540,LastName540,,(555) 918-1813,2021-06-10,Basic,true,4886.25
+CUST000541,FirstName541,LastName541,customer541@email.com,(555) 845-2994,2020-08-19,,false,513.58
+CUST000542,FirstName542,LastName542,customer542@gmail.com,555-636-7063,2023-10-01,Basic,True,8118.84
+CUST000543,FirstName543,LastName543,customer.543@email.com,555-461-2579,2021-04-21,Standard,False,4057.09
+CUST000544,FirstName544,LastName544,customer.544@email.com,,2021-10-10,,true,9058.88
+CUST000545,FirstName545,LastName545,Customer545@Email.com,,2021-08-24,Basic,0,541.07
+CUST000546,FirstName546,LastName546,customer546@gmail.com,5553622817,2020-10-20,VIP,N,9294.84
+CUST000547,FirstName547,LastName547,Customer547@Email.com,(555) 271-2875,2022-06-13,,False,5011.41
+CUST000548,FirstName548,LastName548,Customer548@Email.com,,2020-12-05,,True,940.86
+CUST000549,FirstName549,LastName549,,(555) 311-1243,2020-06-05,,True,3606.39
+CUST000550,FirstName550,LastName550,customer550@gmail.com,+1-555-758-1875,2020-08-01,Standard,1,4467.15
+CUST000551,FirstName551,LastName551,,,2020-08-21,Standard,true,3265.14
+CUST000552,FirstName552,LastName552,,(555) 893-6005,2022-09-13,Basic,0,3964.17
+CUST000553,FirstName553,LastName553,customer553@gmail.com,(555) 990-9046,2022-02-17,Premium,Y,8193.1
+CUST000554,FirstName554,LastName554,customer554@gmail.com,,2020-06-18,,0,6775.15
+CUST000555,FirstName555,LastName555,Customer555@Email.com,,2021-12-12,Basic,True,8983.62
+CUST000556,FirstName556,LastName556,customer556@gmail.com,5557744146,2021-12-01,Standard,0,2902.75
+CUST000557,FirstName557,LastName557,customer557@email.com,+1-555-592-3939,2021-08-21,,false,709.08
+CUST000558,FirstName558,LastName558,customer.558@email.com,(555) 101-6430,2021-03-12,Basic,True,7956.48
+CUST000559,FirstName559,LastName559,customer.559@email.com,,2020-08-14,Premium,false,5998.75
+CUST000560,FirstName560,LastName560,customer560@gmail.com,,2021-11-03,Standard,N,2720.78
+CUST000561,FirstName561,LastName561,,(555) 328-8814,2020-12-15,Premium,True,8267.25
+CUST000562,FirstName562,LastName562,Customer562@Email.com,555-328-5183,2023-05-14,Basic,false,6664.38
+CUST000563,FirstName563,LastName563,customer563@email.com,,2023-08-23,VIP,Y,5483.36
+CUST000564,FirstName564,LastName564,Customer564@Email.com,555-509-8018,2020-09-20,VIP,1,3885.19
+CUST000565,FirstName565,LastName565,,(555) 668-1676,2022-06-11,VIP,0,7045.39
+CUST000566,FirstName566,LastName566,Customer566@Email.com,5557015520,2022-10-27,,True,2820.33
+CUST000567,FirstName567,LastName567,customer567@email.com,+1-555-496-8113,2020-03-27,Premium,true,8647.78
+CUST000568,FirstName568,LastName568,customer568@gmail.com,5557671403,2020-04-01,Basic,1,4145.4
+CUST000569,FirstName569,LastName569,customer.569@email.com,+1-555-444-7682,2020-04-25,,0,1875.16
+CUST000570,FirstName570,LastName570,customer570@gmail.com,555-685-3740,2020-06-27,,True,7194.81
+CUST000571,FirstName571,LastName571,Customer571@Email.com,5557915625,2021-08-29,VIP,False,9280.91
+CUST000572,FirstName572,LastName572,customer572@gmail.com,555-598-1593,2023-10-29,VIP,Y,1345.96
+CUST000573,FirstName573,LastName573,Customer573@Email.com,(555) 106-2445,2023-09-09,,N,8623.07
+CUST000574,FirstName574,LastName574,customer574@email.com,,2021-01-11,Standard,false,3631.85
+CUST000575,FirstName575,LastName575,customer.575@email.com,555-721-9137,2020-12-07,Basic,0,1638.81
+CUST000576,FirstName576,LastName576,customer576@gmail.com,,2023-05-05,VIP,True,1212.76
+CUST000577,FirstName577,LastName577,,5555783798,2022-04-21,,false,4330.89
+CUST000578,FirstName578,LastName578,,555-725-6602,2023-04-06,VIP,False,9758.92
+CUST000579,FirstName579,LastName579,customer579@gmail.com,+1-555-751-5782,2023-03-24,Premium,True,3791.4
+CUST000580,FirstName580,LastName580,,(555) 825-6638,2020-11-25,VIP,True,8510.99
+CUST000581,FirstName581,LastName581,customer581@email.com,555-454-8889,2020-07-16,,false,1609.17
+CUST000582,FirstName582,LastName582,customer.582@email.com,,2021-08-26,Premium,false,9758.24
+CUST000583,FirstName583,LastName583,customer583@email.com,5554248908,2020-02-23,Basic,false,7518.81
+CUST000584,FirstName584,LastName584,customer584@email.com,555-171-2350,2022-06-22,Premium,0,2610.22
+CUST000585,FirstName585,LastName585,customer585@gmail.com,,2022-12-24,,False,1464.21
+CUST000586,FirstName586,LastName586,Customer586@Email.com,555-641-4016,2021-02-12,,True,8010.42
+CUST000587,FirstName587,LastName587,customer587@gmail.com,+1-555-834-6343,2023-10-15,Premium,1,2607.6
+CUST000588,FirstName588,LastName588,customer.588@email.com,+1-555-281-2853,2021-08-06,Basic,N,8919.63
+CUST000589,FirstName589,LastName589,,555-528-3477,2022-12-28,,false,288.36
+CUST000590,FirstName590,LastName590,customer590@email.com,5551788016,2022-01-28,Basic,N,3246.69
+CUST000591,FirstName591,LastName591,customer591@email.com,,2022-05-04,Basic,Y,4838.8
+CUST000592,FirstName592,LastName592,,5552784093,2022-05-14,Standard,1,2282.82
+CUST000593,FirstName593,LastName593,customer593@gmail.com,555-996-6032,2021-06-21,,True,6542.59
+CUST000594,FirstName594,LastName594,customer.594@email.com,,2022-02-06,Basic,0,5047.19
+CUST000595,FirstName595,LastName595,,(555) 406-2412,2022-05-08,,false,5891.38
+CUST000596,FirstName596,LastName596,customer596@email.com,5555594049,2020-02-06,Premium,0,6423.2
+CUST000597,FirstName597,LastName597,Customer597@Email.com,,2023-06-15,,0,1321.11
+CUST000598,FirstName598,LastName598,,,2023-09-27,Premium,Y,734.74
+CUST000599,FirstName599,LastName599,,,2021-12-02,Premium,Y,9105.94
+CUST000600,FirstName600,LastName600,customer600@email.com,(555) 410-6394,2020-09-29,,true,9690.66
+CUST000601,FirstName601,LastName601,customer601@email.com,,2022-07-04,VIP,Y,942.0
+CUST000602,FirstName602,LastName602,,(555) 478-1354,2021-08-22,,true,118.38
+CUST000603,FirstName603,LastName603,,+1-555-763-5090,2022-01-10,Standard,True,1081.65
+CUST000604,FirstName604,LastName604,,,2022-07-18,Basic,1,9632.2
+CUST000605,FirstName605,LastName605,,,2023-04-24,Premium,true,5285.4
+CUST000606,FirstName606,LastName606,customer606@gmail.com,(555) 114-1911,2021-07-05,Basic,False,8688.74
+CUST000607,FirstName607,LastName607,customer607@gmail.com,555-592-7133,2020-05-18,Premium,true,221.02
+CUST000608,FirstName608,LastName608,Customer608@Email.com,,2023-02-15,Premium,N,2133.65
+CUST000609,FirstName609,LastName609,customer609@gmail.com,(555) 233-8741,2023-02-27,,0,7717.13
+CUST000610,FirstName610,LastName610,customer610@gmail.com,(555) 884-3165,2023-04-25,Premium,N,4771.55
+CUST000611,FirstName611,LastName611,,(555) 325-6996,2020-03-04,VIP,True,5581.81
+CUST000612,FirstName612,LastName612,Customer612@Email.com,(555) 727-6725,2021-03-14,Standard,True,550.78
+CUST000613,FirstName613,LastName613,customer.613@email.com,(555) 774-4108,2020-09-21,,N,1310.06
+CUST000614,FirstName614,LastName614,customer.614@email.com,5556017171,2022-06-30,,1,1490.51
+CUST000615,FirstName615,LastName615,Customer615@Email.com,,2021-07-05,Standard,0,8615.29
+CUST000616,FirstName616,LastName616,,5555799313,2022-07-26,,False,150.36
+CUST000617,FirstName617,LastName617,,,2023-05-11,Basic,False,1453.55
+CUST000618,FirstName618,LastName618,customer.618@email.com,555-254-3165,2021-11-25,Basic,true,1475.82
+CUST000619,FirstName619,LastName619,customer619@gmail.com,+1-555-535-2722,2021-07-17,Basic,Y,5261.37
+CUST000620,FirstName620,LastName620,Customer620@Email.com,5554322347,2022-12-27,,false,5165.33
+CUST000621,FirstName621,LastName621,customer.621@email.com,,2020-06-02,,True,8486.17
+CUST000622,FirstName622,LastName622,customer.622@email.com,+1-555-221-9375,2021-12-01,Standard,1,9205.58
+CUST000623,FirstName623,LastName623,,,2020-05-09,Premium,True,9881.04
+CUST000624,FirstName624,LastName624,Customer624@Email.com,,2023-07-31,VIP,N,5896.79
+CUST000625,FirstName625,LastName625,,5558415604,2023-09-21,,false,693.88
+CUST000626,FirstName626,LastName626,,555-860-3927,2020-08-23,,0,3511.6
+CUST000627,FirstName627,LastName627,Customer627@Email.com,5556056017,2021-02-02,Standard,N,3978.77
+CUST000628,FirstName628,LastName628,customer.628@email.com,,2022-11-24,Standard,false,1418.39
+CUST000629,FirstName629,LastName629,customer629@gmail.com,(555) 171-3047,2021-12-26,Premium,1,2313.89
+CUST000630,FirstName630,LastName630,Customer630@Email.com,5559298920,2020-07-10,VIP,Y,7828.88
+CUST000631,FirstName631,LastName631,,(555) 450-4935,2020-01-11,Basic,0,6711.87
+CUST000632,FirstName632,LastName632,,,2021-11-17,Basic,false,112.53
+CUST000633,FirstName633,LastName633,customer633@gmail.com,,2021-04-21,Premium,false,2034.3
+CUST000634,FirstName634,LastName634,customer634@gmail.com,555-440-5367,2022-12-18,VIP,True,5504.98
+CUST000635,FirstName635,LastName635,customer635@gmail.com,+1-555-202-9703,2023-09-10,Standard,1,7198.83
+CUST000636,FirstName636,LastName636,customer636@gmail.com,,2023-01-19,Premium,False,9289.57
+CUST000637,FirstName637,LastName637,,,2023-03-18,Standard,True,6522.79
+CUST000638,FirstName638,LastName638,Customer638@Email.com,(555) 398-2405,2020-08-19,Standard,False,4659.04
+CUST000639,FirstName639,LastName639,customer639@gmail.com,555-300-5827,2022-11-14,Standard,true,9738.13
+CUST000640,FirstName640,LastName640,Customer640@Email.com,,2020-12-12,,Y,6901.19
+CUST000641,FirstName641,LastName641,,5552661005,2020-04-06,,true,9274.23
+CUST000642,FirstName642,LastName642,,(555) 802-1704,2021-03-10,VIP,true,3234.49
+CUST000643,FirstName643,LastName643,Customer643@Email.com,,2022-11-17,Premium,false,3093.39
+CUST000644,FirstName644,LastName644,,5558918767,2020-02-03,Standard,True,1646.55
+CUST000645,FirstName645,LastName645,customer645@gmail.com,5559959538,2021-06-16,Standard,0,1730.52
+CUST000646,FirstName646,LastName646,customer646@email.com,,2023-04-07,,0,7132.13
+CUST000647,FirstName647,LastName647,Customer647@Email.com,555-990-5914,2023-03-18,VIP,False,7800.98
+CUST000648,FirstName648,LastName648,,,2022-08-25,Basic,true,4350.56
+CUST000649,FirstName649,LastName649,customer649@gmail.com,+1-555-717-1572,2022-05-12,,N,3712.52
+CUST000650,FirstName650,LastName650,Customer650@Email.com,(555) 117-2669,2020-10-07,Premium,True,5469.03
+CUST000651,FirstName651,LastName651,customer.651@email.com,+1-555-918-9399,2020-03-25,VIP,True,871.61
+CUST000652,FirstName652,LastName652,Customer652@Email.com,5553105712,2021-07-02,Basic,True,5419.68
+CUST000653,FirstName653,LastName653,,555-881-4023,2022-05-24,VIP,Y,4209.95
+CUST000654,FirstName654,LastName654,,,2023-06-15,Standard,true,6679.29
+CUST000655,FirstName655,LastName655,Customer655@Email.com,5551748610,2022-03-29,,false,8412.56
+CUST000656,FirstName656,LastName656,customer656@gmail.com,+1-555-507-5059,2021-07-23,VIP,False,2312.11
+CUST000657,FirstName657,LastName657,,(555) 788-9167,2021-03-24,,False,4666.46
+CUST000658,FirstName658,LastName658,customer658@email.com,+1-555-642-2352,2022-06-28,,Y,2572.74
+CUST000659,FirstName659,LastName659,,(555) 422-8790,2020-08-15,,0,9033.82
+CUST000660,FirstName660,LastName660,,555-226-3691,2020-06-02,Premium,true,4253.14
+CUST000661,FirstName661,LastName661,customer.661@email.com,+1-555-809-7880,2023-07-19,,true,2226.59
+CUST000662,FirstName662,LastName662,customer662@gmail.com,+1-555-320-4740,2021-12-03,Premium,true,2163.68
+CUST000663,FirstName663,LastName663,,5555765782,2022-04-24,,true,5088.83
+CUST000664,FirstName664,LastName664,customer.664@email.com,+1-555-280-3808,2022-08-28,VIP,1,895.04
+CUST000665,FirstName665,LastName665,Customer665@Email.com,+1-555-258-7892,2023-10-02,Premium,False,7442.28
+CUST000666,FirstName666,LastName666,customer666@email.com,+1-555-124-8024,2021-03-25,Premium,false,9303.5
+CUST000667,FirstName667,LastName667,customer.667@email.com,5559247276,2022-06-14,VIP,false,9591.19
+CUST000668,FirstName668,LastName668,Customer668@Email.com,(555) 177-1363,2022-05-30,Premium,False,8309.72
+CUST000669,FirstName669,LastName669,,555-270-6305,2020-07-08,,True,9665.21
+CUST000670,FirstName670,LastName670,customer670@email.com,,2022-02-28,,0,2901.28
+CUST000671,FirstName671,LastName671,customer.671@email.com,555-810-7465,2023-10-15,,0,1147.91
+CUST000672,FirstName672,LastName672,customer.672@email.com,5554924607,2021-02-14,,N,2891.6
+CUST000673,FirstName673,LastName673,,555-788-5766,2021-04-28,Premium,true,1982.02
+CUST000674,FirstName674,LastName674,customer674@gmail.com,(555) 533-6216,2020-08-04,,Y,3458.68
+CUST000675,FirstName675,LastName675,Customer675@Email.com,(555) 689-6963,2020-10-24,Premium,1,5543.91
+CUST000676,FirstName676,LastName676,,(555) 551-1815,2022-09-10,Basic,N,3519.46
+CUST000677,FirstName677,LastName677,customer677@email.com,,2020-05-07,VIP,true,5424.6
+CUST000678,FirstName678,LastName678,customer678@email.com,(555) 940-8618,2021-07-18,,true,7409.06
+CUST000679,FirstName679,LastName679,customer679@gmail.com,555-753-2121,2022-04-23,Premium,0,8761.25
+CUST000680,FirstName680,LastName680,customer680@gmail.com,(555) 784-8018,2022-06-11,Standard,False,7970.86
+CUST000681,FirstName681,LastName681,,,2022-09-18,VIP,1,1019.19
+CUST000682,FirstName682,LastName682,customer682@gmail.com,,2021-07-15,,False,5617.26
+CUST000683,FirstName683,LastName683,customer683@gmail.com,,2021-10-22,Premium,False,159.28
+CUST000684,FirstName684,LastName684,customer684@gmail.com,(555) 317-4135,2023-10-29,,True,4433.72
+CUST000685,FirstName685,LastName685,customer685@gmail.com,(555) 364-2029,2021-07-08,,False,8774.48
+CUST000686,FirstName686,LastName686,customer686@email.com,5552658328,2021-01-07,VIP,0,6538.1
+CUST000687,FirstName687,LastName687,,,2022-06-23,Premium,1,2053.39
+CUST000688,FirstName688,LastName688,Customer688@Email.com,,2023-09-03,Premium,true,7726.14
+CUST000689,FirstName689,LastName689,,(555) 650-9619,2020-10-07,,false,6611.29
+CUST000690,FirstName690,LastName690,customer690@email.com,5553184997,2022-09-30,Basic,Y,2266.38
+CUST000691,FirstName691,LastName691,customer691@email.com,555-692-3572,2020-09-14,Premium,False,8302.69
+CUST000692,FirstName692,LastName692,customer692@gmail.com,(555) 493-3977,2023-11-01,,false,6335.41
+CUST000693,FirstName693,LastName693,,,2023-04-21,VIP,true,2822.74
+CUST000694,FirstName694,LastName694,customer694@gmail.com,5551107466,2021-02-16,,1,4723.9
+CUST000695,FirstName695,LastName695,,555-267-3516,2021-06-26,,1,3078.4
+CUST000696,FirstName696,LastName696,,,2022-06-04,Standard,N,1845.84
+CUST000697,FirstName697,LastName697,customer697@email.com,5552332611,2021-07-31,,False,5948.83
+CUST000698,FirstName698,LastName698,Customer698@Email.com,,2022-08-28,Basic,1,7667.39
+CUST000699,FirstName699,LastName699,,,2021-04-11,Standard,false,9996.37
+CUST000700,FirstName700,LastName700,customer700@email.com,555-193-7664,2021-06-27,,N,3487.98
+CUST000701,FirstName701,LastName701,Customer701@Email.com,+1-555-202-5196,2022-03-21,Standard,1,2636.4
+CUST000702,FirstName702,LastName702,customer.702@email.com,,2023-01-30,Basic,True,4485.55
+CUST000703,FirstName703,LastName703,,+1-555-231-9922,2020-11-01,Premium,1,3144.94
+CUST000704,FirstName704,LastName704,customer704@email.com,(555) 186-9822,2022-04-05,Premium,False,3896.38
+CUST000705,FirstName705,LastName705,,5557943577,2020-06-25,,false,939.62
+CUST000706,FirstName706,LastName706,,+1-555-104-7333,2020-01-23,VIP,N,8874.55
+CUST000707,FirstName707,LastName707,,+1-555-351-3641,2021-02-06,,1,8517.31
+CUST000708,FirstName708,LastName708,,5553849301,2022-01-10,VIP,false,9660.41
+CUST000709,FirstName709,LastName709,,+1-555-837-7831,2022-04-07,Standard,False,4218.59
+CUST000710,FirstName710,LastName710,Customer710@Email.com,555-222-2646,2022-11-13,,false,9150.11
+CUST000711,FirstName711,LastName711,,555-744-7291,2020-09-22,Premium,True,4873.14
+CUST000712,FirstName712,LastName712,customer.712@email.com,+1-555-394-6363,2021-03-02,Standard,0,6605.54
+CUST000713,FirstName713,LastName713,customer.713@email.com,+1-555-454-4879,2020-02-10,Premium,N,8246.31
+CUST000714,FirstName714,LastName714,customer.714@email.com,(555) 247-6502,2021-06-12,VIP,Y,7617.53
+CUST000715,FirstName715,LastName715,Customer715@Email.com,,2020-01-11,,True,7169.37
+CUST000716,FirstName716,LastName716,Customer716@Email.com,+1-555-567-8395,2020-09-28,Basic,1,320.24
+CUST000717,FirstName717,LastName717,,,2023-02-07,,N,8612.18
+CUST000718,FirstName718,LastName718,customer.718@email.com,,2021-09-14,,false,9123.17
+CUST000719,FirstName719,LastName719,customer.719@email.com,,2020-06-24,,True,3941.95
+CUST000720,FirstName720,LastName720,,+1-555-735-8893,2023-01-20,,False,9501.8
+CUST000721,FirstName721,LastName721,Customer721@Email.com,,2020-08-08,Basic,Y,2147.01
+CUST000722,FirstName722,LastName722,Customer722@Email.com,,2021-09-23,VIP,False,5595.61
+CUST000723,FirstName723,LastName723,,+1-555-977-8302,2021-07-07,Standard,False,271.8
+CUST000724,FirstName724,LastName724,,,2022-09-23,Premium,0,3676.05
+CUST000725,FirstName725,LastName725,,555-444-8705,2021-08-16,,N,3737.23
+CUST000726,FirstName726,LastName726,Customer726@Email.com,,2022-09-10,,True,485.38
+CUST000727,FirstName727,LastName727,customer.727@email.com,5551462630,2021-04-08,VIP,1,3781.87
+CUST000728,FirstName728,LastName728,customer728@email.com,,2021-06-14,VIP,1,3918.55
+CUST000729,FirstName729,LastName729,customer729@gmail.com,(555) 316-5738,2022-01-15,Standard,true,9174.88
+CUST000730,FirstName730,LastName730,customer730@email.com,555-980-7570,2021-05-03,Premium,True,3595.57
+CUST000731,FirstName731,LastName731,Customer731@Email.com,555-105-3523,2021-11-25,Basic,true,2409.17
+CUST000732,FirstName732,LastName732,,555-861-4961,2023-02-23,Premium,False,9617.41
+CUST000733,FirstName733,LastName733,customer733@email.com,5551328038,2020-12-11,Basic,1,2738.45
+CUST000734,FirstName734,LastName734,customer734@email.com,,2021-05-13,Basic,false,8736.1
+CUST000735,FirstName735,LastName735,,555-438-4804,2023-04-15,VIP,true,6221.68
+CUST000736,FirstName736,LastName736,customer.736@email.com,555-144-8692,2020-02-07,Premium,N,1207.76
+CUST000737,FirstName737,LastName737,customer737@gmail.com,5559864254,2022-03-24,,1,6308.05
+CUST000738,FirstName738,LastName738,Customer738@Email.com,,2023-07-01,,1,1773.96
+CUST000739,FirstName739,LastName739,,,2023-02-26,Standard,false,2656.67
+CUST000740,FirstName740,LastName740,customer740@gmail.com,555-250-2929,2020-12-12,VIP,false,2683.04
+CUST000741,FirstName741,LastName741,customer.741@email.com,,2022-07-05,Basic,Y,7896.74
+CUST000742,FirstName742,LastName742,customer742@email.com,(555) 286-4132,2023-08-07,,Y,1859.75
+CUST000743,FirstName743,LastName743,,5556736329,2022-12-15,,Y,2102.49
+CUST000744,FirstName744,LastName744,customer.744@email.com,+1-555-703-2089,2022-12-27,,false,8359.95
+CUST000745,FirstName745,LastName745,Customer745@Email.com,,2020-11-16,Premium,N,1537.75
+CUST000746,FirstName746,LastName746,customer746@email.com,,2021-06-28,Premium,false,6426.83
+CUST000747,FirstName747,LastName747,customer747@gmail.com,+1-555-511-5290,2021-10-05,Basic,1,6654.52
+CUST000748,FirstName748,LastName748,Customer748@Email.com,555-379-5823,2020-07-12,Standard,true,2348.11
+CUST000749,FirstName749,LastName749,,,2021-08-08,,Y,207.14
+CUST000750,FirstName750,LastName750,customer.750@email.com,,2022-09-24,VIP,False,9500.76
+CUST000751,FirstName751,LastName751,customer.751@email.com,,2021-02-05,Standard,false,8250.37
+CUST000752,FirstName752,LastName752,customer.752@email.com,,2023-06-18,Standard,true,4359.86
+CUST000753,FirstName753,LastName753,,555-853-5256,2022-09-09,Premium,0,2668.64
+CUST000754,FirstName754,LastName754,customer754@email.com,+1-555-812-2841,2022-05-22,,1,3855.44
+CUST000755,FirstName755,LastName755,customer755@gmail.com,(555) 455-3143,2020-09-04,,False,1993.43
+CUST000756,FirstName756,LastName756,Customer756@Email.com,,2021-09-17,,1,9285.86
+CUST000757,FirstName757,LastName757,Customer757@Email.com,555-748-7303,2023-09-18,,N,7744.58
+CUST000758,FirstName758,LastName758,customer758@email.com,+1-555-569-4284,2021-02-07,VIP,False,2351.61
+CUST000759,FirstName759,LastName759,customer759@gmail.com,,2022-05-24,Premium,Y,2850.66
+CUST000760,FirstName760,LastName760,customer760@email.com,(555) 444-3920,2020-08-29,Basic,1,1820.58
+CUST000761,FirstName761,LastName761,Customer761@Email.com,,2023-06-05,Basic,Y,5044.83
+CUST000762,FirstName762,LastName762,,(555) 451-1452,2023-04-16,,N,4213.55
+CUST000763,FirstName763,LastName763,Customer763@Email.com,,2021-10-26,Standard,Y,4666.74
+CUST000764,FirstName764,LastName764,,+1-555-396-7288,2020-07-11,Basic,False,7308.7
+CUST000765,FirstName765,LastName765,customer765@gmail.com,+1-555-825-1097,2023-09-14,,false,560.28
+CUST000766,FirstName766,LastName766,customer.766@email.com,5552237487,2020-04-01,Standard,True,5643.11
+CUST000767,FirstName767,LastName767,Customer767@Email.com,+1-555-964-6598,2022-12-28,Premium,False,6632.5
+CUST000768,FirstName768,LastName768,customer.768@email.com,+1-555-852-8026,2021-07-17,Premium,Y,7594.75
+CUST000769,FirstName769,LastName769,Customer769@Email.com,,2022-08-08,VIP,true,7650.29
+CUST000770,FirstName770,LastName770,,,2022-03-12,,0,2258.06
+CUST000771,FirstName771,LastName771,Customer771@Email.com,(555) 571-6660,2020-12-07,,True,5621.06
+CUST000772,FirstName772,LastName772,customer772@gmail.com,555-796-5499,2020-06-02,Premium,true,1006.76
+CUST000773,FirstName773,LastName773,customer.773@email.com,+1-555-361-1313,2023-09-10,Premium,false,5770.72
+CUST000774,FirstName774,LastName774,,+1-555-843-3622,2021-10-27,Premium,true,7817.36
+CUST000775,FirstName775,LastName775,,,2023-06-11,Basic,N,5184.7
+CUST000776,FirstName776,LastName776,customer776@gmail.com,,2022-05-28,,false,1900.5
+CUST000777,FirstName777,LastName777,customer777@gmail.com,,2023-07-09,,false,6475.17
+CUST000778,FirstName778,LastName778,Customer778@Email.com,5551756735,2023-08-18,,true,429.2
+CUST000779,FirstName779,LastName779,,555-450-1620,2020-12-09,VIP,false,4194.12
+CUST000780,FirstName780,LastName780,Customer780@Email.com,+1-555-115-3748,2021-02-21,Basic,N,5254.75
+CUST000781,FirstName781,LastName781,,,2020-02-10,Basic,true,4581.6
+CUST000782,FirstName782,LastName782,Customer782@Email.com,(555) 439-3593,2022-01-16,Standard,false,7819.64
+CUST000783,FirstName783,LastName783,,(555) 997-5261,2023-05-15,,0,9978.08
+CUST000784,FirstName784,LastName784,Customer784@Email.com,5552926044,2022-07-19,Basic,Y,5771.0
+CUST000785,FirstName785,LastName785,,5551789669,2020-06-22,Standard,False,7755.45
+CUST000786,FirstName786,LastName786,customer786@email.com,5559968681,2022-03-09,Basic,True,933.12
+CUST000787,FirstName787,LastName787,customer787@gmail.com,,2020-09-13,Standard,0,8257.54
+CUST000788,FirstName788,LastName788,customer788@email.com,,2020-10-25,Standard,false,4387.0
+CUST000789,FirstName789,LastName789,customer789@email.com,+1-555-479-7265,2022-01-03,VIP,false,5145.36
+CUST000790,FirstName790,LastName790,,(555) 555-3384,2020-03-31,,Y,2936.77
+CUST000791,FirstName791,LastName791,,555-219-5379,2020-11-11,Premium,false,1555.08
+CUST000792,FirstName792,LastName792,,,2022-05-23,Premium,1,2808.39
+CUST000793,FirstName793,LastName793,customer.793@email.com,,2020-04-15,,1,12.88
+CUST000794,FirstName794,LastName794,customer794@gmail.com,,2022-08-19,Basic,N,9403.7
+CUST000795,FirstName795,LastName795,,555-127-1707,2020-04-03,,Y,6904.03
+CUST000796,FirstName796,LastName796,customer.796@email.com,+1-555-890-6166,2023-04-02,,True,8759.84
+CUST000797,FirstName797,LastName797,Customer797@Email.com,,2022-03-29,Basic,true,1141.01
+CUST000798,FirstName798,LastName798,,,2020-10-21,,false,6444.78
+CUST000799,FirstName799,LastName799,,5556656672,2023-03-15,Standard,0,9252.87
+CUST000800,FirstName800,LastName800,,+1-555-851-6669,2020-05-14,Premium,Y,431.28
+CUST000801,FirstName801,LastName801,,,2020-05-06,,False,6900.15
+CUST000802,FirstName802,LastName802,customer802@gmail.com,,2023-03-16,,Y,614.86
+CUST000803,FirstName803,LastName803,customer803@email.com,,2021-07-02,VIP,False,4600.74
+CUST000804,FirstName804,LastName804,,(555) 207-8707,2022-12-07,,false,2489.37
+CUST000805,FirstName805,LastName805,customer.805@email.com,(555) 996-6103,2023-03-02,Standard,1,6415.51
+CUST000806,FirstName806,LastName806,,,2022-07-26,VIP,True,2388.67
+CUST000807,FirstName807,LastName807,customer807@gmail.com,(555) 920-7479,2020-10-21,,Y,7549.88
+CUST000808,FirstName808,LastName808,customer.808@email.com,+1-555-613-4957,2021-08-18,,0,341.02
+CUST000809,FirstName809,LastName809,customer809@gmail.com,5551063995,2022-06-12,,1,5167.45
+CUST000810,FirstName810,LastName810,Customer810@Email.com,+1-555-803-3678,2021-09-22,Premium,False,9862.16
+CUST000811,FirstName811,LastName811,customer.811@email.com,(555) 649-2418,2020-05-30,,1,6319.96
+CUST000812,FirstName812,LastName812,customer812@email.com,,2020-12-10,Standard,False,8675.34
+CUST000813,FirstName813,LastName813,customer813@email.com,(555) 260-5419,2022-11-22,,N,4486.58
+CUST000814,FirstName814,LastName814,,(555) 975-2248,2020-09-04,Premium,true,2457.08
+CUST000815,FirstName815,LastName815,customer.815@email.com,555-794-7537,2023-08-19,Premium,N,1319.75
+CUST000816,FirstName816,LastName816,customer816@email.com,+1-555-747-9387,2020-10-12,Standard,N,1888.29
+CUST000817,FirstName817,LastName817,Customer817@Email.com,(555) 192-4184,2022-10-17,Standard,False,3169.05
+CUST000818,FirstName818,LastName818,customer.818@email.com,,2021-02-03,VIP,True,9513.07
+CUST000819,FirstName819,LastName819,customer819@gmail.com,(555) 276-2735,2020-02-27,VIP,False,6159.58
+CUST000820,FirstName820,LastName820,,+1-555-842-6454,2023-10-12,,1,7769.05
+CUST000821,FirstName821,LastName821,customer821@email.com,5558901723,2020-11-14,,0,3619.84
+CUST000822,FirstName822,LastName822,Customer822@Email.com,5553986642,2022-08-24,,1,668.89
+CUST000823,FirstName823,LastName823,customer823@gmail.com,5558737109,2020-11-10,VIP,False,3106.88
+CUST000824,FirstName824,LastName824,Customer824@Email.com,,2023-04-14,Premium,Y,5578.4
+CUST000825,FirstName825,LastName825,customer825@gmail.com,5556288641,2021-03-11,Premium,Y,8681.07
+CUST000826,FirstName826,LastName826,,(555) 301-3896,2022-01-04,,True,6811.62
+CUST000827,FirstName827,LastName827,customer827@gmail.com,+1-555-793-9445,2022-01-04,Standard,1,7439.97
+CUST000828,FirstName828,LastName828,customer.828@email.com,5554871773,2023-03-10,VIP,true,6079.06
+CUST000829,FirstName829,LastName829,customer829@email.com,,2021-11-13,Standard,True,4291.16
+CUST000830,FirstName830,LastName830,customer830@email.com,,2021-03-04,VIP,false,762.15
+CUST000831,FirstName831,LastName831,customer831@gmail.com,,2023-09-19,Standard,True,3772.12
+CUST000832,FirstName832,LastName832,customer832@gmail.com,(555) 794-9126,2023-06-02,,False,838.82
+CUST000833,FirstName833,LastName833,,555-242-2091,2021-04-19,Basic,False,8847.61
+CUST000834,FirstName834,LastName834,customer834@gmail.com,5559201688,2021-11-07,Basic,false,914.56
+CUST000835,FirstName835,LastName835,,555-744-2693,2021-07-17,,N,61.75
+CUST000836,FirstName836,LastName836,customer836@gmail.com,5554994594,2020-07-12,Premium,1,8688.66
+CUST000837,FirstName837,LastName837,,,2021-06-14,Standard,1,2194.79
+CUST000838,FirstName838,LastName838,customer838@gmail.com,5552739987,2021-08-10,VIP,True,6708.36
+CUST000839,FirstName839,LastName839,,+1-555-845-1377,2023-09-15,Standard,False,8308.47
+CUST000840,FirstName840,LastName840,,555-805-8442,2022-08-12,Premium,Y,5705.87
+CUST000841,FirstName841,LastName841,,(555) 297-4718,2023-01-23,VIP,True,7855.6
+CUST000842,FirstName842,LastName842,,+1-555-270-6941,2020-01-02,Basic,Y,4596.6
+CUST000843,FirstName843,LastName843,,5559189346,2022-11-07,Standard,0,9661.57
+CUST000844,FirstName844,LastName844,,555-363-8554,2022-10-21,Premium,N,5136.55
+CUST000845,FirstName845,LastName845,customer845@gmail.com,(555) 865-9156,2021-02-25,,Y,3550.23
+CUST000846,FirstName846,LastName846,customer846@email.com,(555) 405-3195,2020-03-23,Basic,False,1746.48
+CUST000847,FirstName847,LastName847,,+1-555-403-5885,2022-05-21,Standard,N,2386.68
+CUST000848,FirstName848,LastName848,customer848@email.com,5552573163,2020-03-04,Standard,0,8100.24
+CUST000849,FirstName849,LastName849,customer.849@email.com,555-488-4117,2020-05-22,Basic,False,102.22
+CUST000850,FirstName850,LastName850,customer850@gmail.com,+1-555-486-9913,2022-05-11,,1,3070.26
+CUST000851,FirstName851,LastName851,customer851@email.com,+1-555-732-4526,2023-08-15,,0,9974.83
+CUST000852,FirstName852,LastName852,Customer852@Email.com,,2021-02-16,VIP,0,503.54
+CUST000853,FirstName853,LastName853,customer853@email.com,,2023-02-01,Standard,false,8941.38
+CUST000854,FirstName854,LastName854,customer854@email.com,(555) 951-2726,2022-05-08,Standard,True,2633.75
+CUST000855,FirstName855,LastName855,customer855@gmail.com,+1-555-270-3446,2023-05-31,,0,7147.42
+CUST000856,FirstName856,LastName856,customer.856@email.com,+1-555-711-6397,2021-08-11,Standard,true,3497.92
+CUST000857,FirstName857,LastName857,Customer857@Email.com,,2021-12-12,,Y,3607.41
+CUST000858,FirstName858,LastName858,,,2023-07-28,VIP,False,1917.9
+CUST000859,FirstName859,LastName859,Customer859@Email.com,5554559690,2022-02-05,,N,7759.83
+CUST000860,FirstName860,LastName860,customer860@email.com,5559486254,2021-12-03,Premium,False,5213.92
+CUST000861,FirstName861,LastName861,customer.861@email.com,+1-555-112-9253,2021-08-11,Standard,N,1803.48
+CUST000862,FirstName862,LastName862,customer862@gmail.com,,2020-04-08,Standard,true,5288.84
+CUST000863,FirstName863,LastName863,Customer863@Email.com,,2020-05-19,Basic,True,3266.97
+CUST000864,FirstName864,LastName864,,,2021-11-21,Premium,0,6930.23
+CUST000865,FirstName865,LastName865,customer865@email.com,5557298276,2022-04-12,,0,8890.72
+CUST000866,FirstName866,LastName866,,,2020-01-07,Standard,False,5471.92
+CUST000867,FirstName867,LastName867,Customer867@Email.com,,2023-01-01,Basic,0,1409.14
+CUST000868,FirstName868,LastName868,,5553344252,2020-09-24,Standard,True,4313.85
+CUST000869,FirstName869,LastName869,customer869@email.com,555-885-2769,2020-07-10,VIP,N,1125.43
+CUST000870,FirstName870,LastName870,customer870@email.com,+1-555-619-9799,2021-04-22,Premium,false,7643.21
+CUST000871,FirstName871,LastName871,customer871@gmail.com,555-211-8631,2020-07-20,Premium,Y,8963.48
+CUST000872,FirstName872,LastName872,,+1-555-247-5635,2022-04-05,Premium,1,8362.55
+CUST000873,FirstName873,LastName873,,,2021-10-05,,True,6907.47
+CUST000874,FirstName874,LastName874,,555-597-3374,2021-06-04,Basic,Y,6952.91
+CUST000875,FirstName875,LastName875,customer.875@email.com,+1-555-779-5225,2021-09-11,Basic,1,1158.61
+CUST000876,FirstName876,LastName876,,,2022-03-16,VIP,0,3709.2
+CUST000877,FirstName877,LastName877,customer877@email.com,,2022-10-19,,true,8743.96
+CUST000878,FirstName878,LastName878,,5557625308,2021-08-09,VIP,1,4172.16
+CUST000879,FirstName879,LastName879,Customer879@Email.com,,2022-03-10,VIP,0,5987.66
+CUST000880,FirstName880,LastName880,customer.880@email.com,5551748269,2023-01-12,Standard,False,7428.56
+CUST000881,FirstName881,LastName881,,(555) 366-4772,2020-04-15,Standard,N,4695.49
+CUST000882,FirstName882,LastName882,customer882@email.com,+1-555-505-7737,2022-05-16,Basic,false,3526.7
+CUST000883,FirstName883,LastName883,customer883@email.com,,2023-06-28,Premium,false,9089.43
+CUST000884,FirstName884,LastName884,,,2021-10-12,Standard,N,5216.72
+CUST000885,FirstName885,LastName885,,+1-555-782-8042,2020-01-14,VIP,N,8387.0
+CUST000886,FirstName886,LastName886,,,2021-10-21,,N,9083.25
+CUST000887,FirstName887,LastName887,,+1-555-123-2433,2020-08-14,Standard,false,9949.03
+CUST000888,FirstName888,LastName888,,,2022-10-16,VIP,Y,1066.48
+CUST000889,FirstName889,LastName889,customer889@gmail.com,,2022-09-24,VIP,1,7770.48
+CUST000890,FirstName890,LastName890,customer.890@email.com,555-886-1529,2023-04-23,Standard,true,2727.03
+CUST000891,FirstName891,LastName891,,,2022-03-10,Basic,0,6888.01
+CUST000892,FirstName892,LastName892,customer892@email.com,5554968404,2022-09-24,Basic,1,4449.53
+CUST000893,FirstName893,LastName893,customer.893@email.com,+1-555-693-7418,2021-03-16,Basic,1,2713.69
+CUST000894,FirstName894,LastName894,,5551128067,2020-01-08,VIP,1,8791.81
+CUST000895,FirstName895,LastName895,,,2020-05-18,,false,8725.02
+CUST000896,FirstName896,LastName896,customer896@email.com,,2022-10-29,Standard,N,4478.75
+CUST000897,FirstName897,LastName897,,,2020-11-25,Standard,false,8975.89
+CUST000898,FirstName898,LastName898,,555-926-2702,2020-08-04,Basic,false,5610.34
+CUST000899,FirstName899,LastName899,Customer899@Email.com,,2023-03-25,Premium,1,800.42
+CUST000900,FirstName900,LastName900,customer900@gmail.com,555-805-1263,2020-12-27,,0,2181.63
+CUST000901,FirstName901,LastName901,customer.901@email.com,,2021-07-27,,1,311.14
+CUST000902,FirstName902,LastName902,customer902@gmail.com,555-937-7343,2020-05-05,VIP,Y,224.9
+CUST000903,FirstName903,LastName903,customer903@email.com,(555) 638-6752,2023-07-07,Standard,false,2204.95
+CUST000904,FirstName904,LastName904,,,2020-02-15,Premium,0,3000.37
+CUST000905,FirstName905,LastName905,,5559718665,2021-01-03,,True,4718.92
+CUST000906,FirstName906,LastName906,customer.906@email.com,(555) 515-4011,2021-08-10,,True,7902.9
+CUST000907,FirstName907,LastName907,,5551696728,2021-06-29,Standard,0,2217.29
+CUST000908,FirstName908,LastName908,customer908@email.com,,2020-12-26,Basic,false,5054.86
+CUST000909,FirstName909,LastName909,customer909@gmail.com,(555) 738-9344,2022-03-05,Basic,Y,6006.94
+CUST000910,FirstName910,LastName910,Customer910@Email.com,5552311567,2022-10-04,Standard,True,3437.04
+CUST000911,FirstName911,LastName911,,555-419-7152,2022-09-19,Premium,Y,5580.88
+CUST000912,FirstName912,LastName912,customer912@gmail.com,555-594-2475,2021-07-28,Standard,Y,7516.19
+CUST000913,FirstName913,LastName913,,+1-555-264-4177,2022-12-08,,True,1938.77
+CUST000914,FirstName914,LastName914,customer.914@email.com,+1-555-528-5099,2021-12-12,,True,1154.08
+CUST000915,FirstName915,LastName915,,,2022-02-18,,True,9695.21
+CUST000916,FirstName916,LastName916,customer916@gmail.com,+1-555-287-1063,2022-03-04,VIP,N,1845.1
+CUST000917,FirstName917,LastName917,customer.917@email.com,,2022-01-26,VIP,1,6499.26
+CUST000918,FirstName918,LastName918,,,2020-07-10,Standard,0,442.31
+CUST000919,FirstName919,LastName919,,,2021-03-15,Premium,False,9892.57
+CUST000920,FirstName920,LastName920,,,2021-08-06,Standard,True,7262.2
+CUST000921,FirstName921,LastName921,Customer921@Email.com,(555) 674-1914,2020-05-18,,False,4005.8
+CUST000922,FirstName922,LastName922,customer.922@email.com,,2022-02-23,VIP,False,2355.24
+CUST000923,FirstName923,LastName923,,,2021-08-02,Premium,False,7444.87
+CUST000924,FirstName924,LastName924,Customer924@Email.com,,2020-01-27,Basic,Y,546.27
+CUST000925,FirstName925,LastName925,customer925@gmail.com,5559557343,2023-05-21,Premium,true,8550.35
+CUST000926,FirstName926,LastName926,Customer926@Email.com,5559768348,2023-07-08,Premium,True,4638.4
+CUST000927,FirstName927,LastName927,,555-136-4685,2022-10-19,Premium,false,6959.57
+CUST000928,FirstName928,LastName928,,(555) 488-7417,2020-12-26,VIP,False,834.03
+CUST000929,FirstName929,LastName929,Customer929@Email.com,,2023-11-01,VIP,1,7797.82
+CUST000930,FirstName930,LastName930,customer.930@email.com,(555) 300-5180,2022-11-01,,1,6079.08
+CUST000931,FirstName931,LastName931,customer931@email.com,,2021-03-13,Basic,True,6244.31
+CUST000932,FirstName932,LastName932,customer932@gmail.com,,2023-04-10,VIP,1,4040.34
+CUST000933,FirstName933,LastName933,Customer933@Email.com,(555) 284-5141,2020-12-12,Standard,1,6349.28
+CUST000934,FirstName934,LastName934,Customer934@Email.com,555-601-6369,2022-04-14,Premium,false,9363.85
+CUST000935,FirstName935,LastName935,,5552955475,2023-07-23,Standard,1,315.6
+CUST000936,FirstName936,LastName936,customer936@gmail.com,+1-555-725-2318,2021-05-27,,0,3068.94
+CUST000937,FirstName937,LastName937,customer.937@email.com,+1-555-471-8877,2020-10-19,Premium,True,3423.79
+CUST000938,FirstName938,LastName938,Customer938@Email.com,5555159311,2020-12-30,Premium,0,9355.08
+CUST000939,FirstName939,LastName939,customer939@email.com,555-940-3751,2020-10-26,,true,5306.84
+CUST000940,FirstName940,LastName940,Customer940@Email.com,(555) 225-9584,2023-09-25,VIP,1,9637.99
+CUST000941,FirstName941,LastName941,customer941@gmail.com,,2020-09-22,Standard,True,5275.54
+CUST000942,FirstName942,LastName942,customer942@email.com,555-973-6499,2020-02-14,Basic,1,143.29
+CUST000943,FirstName943,LastName943,,(555) 193-4598,2023-02-24,,1,8061.87
+CUST000944,FirstName944,LastName944,customer944@gmail.com,,2020-06-18,Premium,true,9898.82
+CUST000945,FirstName945,LastName945,,555-720-6683,2023-08-15,Premium,false,8561.5
+CUST000946,FirstName946,LastName946,Customer946@Email.com,5556413446,2021-11-27,VIP,N,1099.31
+CUST000947,FirstName947,LastName947,customer.947@email.com,(555) 407-2244,2023-07-19,VIP,true,4939.79
+CUST000948,FirstName948,LastName948,customer.948@email.com,,2023-08-07,Standard,0,4004.08
+CUST000949,FirstName949,LastName949,customer949@email.com,,2021-07-10,Standard,1,6530.75
+CUST000950,FirstName950,LastName950,,,2021-03-19,Basic,N,1371.87
+CUST000951,FirstName951,LastName951,,,2021-03-07,Premium,Y,3889.39
+CUST000952,FirstName952,LastName952,customer952@email.com,5554887572,2021-07-13,,0,2000.49
+CUST000953,FirstName953,LastName953,,,2023-08-08,Premium,False,9412.41
+CUST000954,FirstName954,LastName954,customer954@gmail.com,,2023-01-11,Standard,false,5427.74
+CUST000955,FirstName955,LastName955,customer.955@email.com,555-129-8817,2021-01-30,,false,4503.99
+CUST000956,FirstName956,LastName956,,,2023-03-13,,0,5021.44
+CUST000957,FirstName957,LastName957,,+1-555-950-1309,2021-04-13,Premium,Y,5522.34
+CUST000958,FirstName958,LastName958,,5552059832,2020-08-20,Standard,1,8239.69
+CUST000959,FirstName959,LastName959,customer959@gmail.com,(555) 591-4603,2020-10-23,VIP,True,586.55
+CUST000960,FirstName960,LastName960,,5559812551,2020-07-21,Basic,true,8953.95
+CUST000961,FirstName961,LastName961,customer961@gmail.com,(555) 451-3658,2020-07-28,Premium,False,1565.78
+CUST000962,FirstName962,LastName962,customer962@gmail.com,(555) 504-2506,2020-06-23,,True,272.08
+CUST000963,FirstName963,LastName963,Customer963@Email.com,555-380-7216,2021-02-15,Standard,true,4769.63
+CUST000964,FirstName964,LastName964,customer964@gmail.com,(555) 547-8862,2023-07-26,Standard,Y,769.45
+CUST000965,FirstName965,LastName965,,+1-555-702-2864,2023-03-13,Standard,Y,9643.81
+CUST000966,FirstName966,LastName966,customer966@email.com,+1-555-607-8071,2021-11-11,,true,2231.35
+CUST000967,FirstName967,LastName967,customer967@email.com,5551355408,2021-06-02,Standard,False,1283.38
+CUST000968,FirstName968,LastName968,customer.968@email.com,+1-555-632-2279,2022-04-07,Basic,1,7754.31
+CUST000969,FirstName969,LastName969,,,2021-05-25,,false,3095.26
+CUST000970,FirstName970,LastName970,customer.970@email.com,,2021-11-30,,Y,7420.38
+CUST000971,FirstName971,LastName971,customer.971@email.com,+1-555-513-9342,2022-05-23,,true,2019.17
+CUST000972,FirstName972,LastName972,Customer972@Email.com,(555) 266-6411,2022-12-04,Premium,N,1782.02
+CUST000973,FirstName973,LastName973,,555-771-1582,2022-12-02,,Y,7167.15
+CUST000974,FirstName974,LastName974,customer974@gmail.com,5552197104,2020-01-21,Standard,true,6434.28
+CUST000975,FirstName975,LastName975,,,2020-11-25,VIP,1,8237.44
+CUST000976,FirstName976,LastName976,customer976@gmail.com,5553603691,2020-06-02,Standard,N,6719.72
+CUST000977,FirstName977,LastName977,customer977@gmail.com,+1-555-937-6211,2023-10-03,Standard,true,7476.13
+CUST000978,FirstName978,LastName978,customer978@email.com,5557271931,2020-05-21,VIP,N,2195.78
+CUST000979,FirstName979,LastName979,,,2021-03-07,Basic,Y,6384.91
+CUST000980,FirstName980,LastName980,,,2021-04-13,Basic,Y,296.87
+CUST000981,FirstName981,LastName981,customer981@gmail.com,555-999-6947,2021-02-11,,0,388.35
+CUST000982,FirstName982,LastName982,customer.982@email.com,+1-555-209-1536,2021-06-23,,Y,1217.75
+CUST000983,FirstName983,LastName983,customer983@email.com,5557068625,2021-10-02,Basic,0,1871.59
+CUST000984,FirstName984,LastName984,,,2022-12-29,Standard,1,5729.27
+CUST000985,FirstName985,LastName985,customer985@email.com,,2021-06-13,Standard,Y,1150.18
+CUST000986,FirstName986,LastName986,,5559543662,2021-03-02,Standard,1,7133.08
+CUST000987,FirstName987,LastName987,,555-495-1267,2023-05-30,VIP,False,712.13
+CUST000988,FirstName988,LastName988,,,2022-11-14,VIP,1,835.61
+CUST000989,FirstName989,LastName989,customer989@gmail.com,(555) 405-8017,2023-06-28,Basic,N,6791.0
+CUST000990,FirstName990,LastName990,Customer990@Email.com,,2022-11-13,Standard,1,3327.91
+CUST000991,FirstName991,LastName991,customer991@gmail.com,5552473308,2022-03-16,VIP,True,5295.93
+CUST000992,FirstName992,LastName992,,555-139-5715,2021-11-03,Standard,Y,4509.01
+CUST000993,FirstName993,LastName993,Customer993@Email.com,+1-555-306-9938,2020-04-22,Basic,N,2110.68
+CUST000994,FirstName994,LastName994,customer994@gmail.com,+1-555-257-5452,2022-06-20,,1,5211.35
+CUST000995,FirstName995,LastName995,customer995@email.com,555-346-1108,2023-10-07,Basic,1,4486.45
+CUST000996,FirstName996,LastName996,,(555) 676-6614,2021-11-07,,N,28.53
+CUST000997,FirstName997,LastName997,customer997@email.com,,2022-03-01,Standard,False,2952.12
+CUST000998,FirstName998,LastName998,customer.998@email.com,555-693-3076,2021-01-04,,True,4669.6
+CUST000999,FirstName999,LastName999,,555-571-9083,2020-07-09,,True,375.78
+CUST001000,FirstName1000,LastName1000,,,2021-07-26,Premium,false,1671.44
+CUST001001,FirstName1001,LastName1001,,5554593906,2023-08-02,Standard,1,3928.28
+CUST001002,FirstName1002,LastName1002,customer1002@gmail.com,5554052878,2020-01-28,VIP,1,7360.6
+CUST001003,FirstName1003,LastName1003,customer.1003@email.com,,2020-09-01,,False,5513.73
+CUST001004,FirstName1004,LastName1004,customer.1004@email.com,555-837-8677,2022-02-20,Basic,false,6105.36
+CUST001005,FirstName1005,LastName1005,,555-940-2201,2022-01-05,Premium,0,777.45
+CUST001006,FirstName1006,LastName1006,,5551513408,2022-01-30,Basic,N,2056.82
+CUST001007,FirstName1007,LastName1007,customer1007@gmail.com,555-752-7584,2022-12-29,Basic,True,6354.9
+CUST001008,FirstName1008,LastName1008,customer.1008@email.com,,2020-01-31,,N,8025.21
+CUST001009,FirstName1009,LastName1009,,,2020-03-08,,0,9470.63
+CUST001010,FirstName1010,LastName1010,customer1010@gmail.com,,2021-09-03,VIP,1,9777.16
+CUST001011,FirstName1011,LastName1011,customer1011@gmail.com,,2022-12-19,Basic,0,2877.02
+CUST001012,FirstName1012,LastName1012,customer1012@email.com,,2020-03-29,Basic,True,2698.86
+CUST001013,FirstName1013,LastName1013,Customer1013@Email.com,5551527572,2023-05-12,,1,5201.04
+CUST001014,FirstName1014,LastName1014,,555-701-5957,2021-01-22,Standard,N,6826.99
+CUST001015,FirstName1015,LastName1015,customer1015@email.com,(555) 229-9015,2022-09-26,,true,3784.27
+CUST001016,FirstName1016,LastName1016,customer.1016@email.com,+1-555-293-6471,2022-11-05,,true,1422.09
+CUST001017,FirstName1017,LastName1017,,(555) 449-1041,2020-07-17,Premium,True,4988.35
+CUST001018,FirstName1018,LastName1018,customer1018@gmail.com,+1-555-785-2633,2023-01-01,Basic,N,6340.12
+CUST001019,FirstName1019,LastName1019,,,2021-09-27,VIP,true,4277.06
+CUST001020,FirstName1020,LastName1020,customer.1020@email.com,,2020-10-08,VIP,True,9129.42
+CUST001021,FirstName1021,LastName1021,Customer1021@Email.com,,2023-05-25,,Y,3752.28
+CUST001022,FirstName1022,LastName1022,customer1022@email.com,(555) 501-9582,2021-11-18,Premium,1,788.18
+CUST001023,FirstName1023,LastName1023,customer1023@gmail.com,+1-555-728-6603,2021-02-01,,N,9770.94
+CUST001024,FirstName1024,LastName1024,customer1024@gmail.com,,2021-05-20,VIP,0,250.04
+CUST001025,FirstName1025,LastName1025,,,2023-03-07,Basic,N,3327.76
+CUST001026,FirstName1026,LastName1026,,555-975-5229,2022-03-21,Standard,0,8499.65
+CUST001027,FirstName1027,LastName1027,,(555) 188-1774,2020-11-28,VIP,Y,1234.14
+CUST001028,FirstName1028,LastName1028,,,2023-01-21,Standard,1,5084.38
+CUST001029,FirstName1029,LastName1029,,(555) 474-6952,2022-04-27,Standard,false,6101.41
+CUST001030,FirstName1030,LastName1030,Customer1030@Email.com,+1-555-574-3223,2023-09-18,Premium,0,5045.42
+CUST001031,FirstName1031,LastName1031,customer1031@email.com,555-374-6048,2020-09-06,,true,8834.69
+CUST001032,FirstName1032,LastName1032,customer1032@email.com,555-365-1667,2020-02-05,Standard,1,2742.73
+CUST001033,FirstName1033,LastName1033,Customer1033@Email.com,+1-555-845-9559,2023-09-23,,False,7218.44
+CUST001034,FirstName1034,LastName1034,customer1034@gmail.com,5552336579,2022-06-15,Standard,Y,6533.17
+CUST001035,FirstName1035,LastName1035,customer.1035@email.com,555-574-9113,2020-04-03,Basic,0,7959.09
+CUST001036,FirstName1036,LastName1036,,5554262825,2021-01-10,Basic,false,9637.34
+CUST001037,FirstName1037,LastName1037,customer1037@email.com,+1-555-135-1022,2023-08-03,,Y,1685.06
+CUST001038,FirstName1038,LastName1038,customer1038@email.com,,2021-10-30,Premium,N,1969.3
+CUST001039,FirstName1039,LastName1039,customer.1039@email.com,5559932422,2023-09-17,Premium,True,708.82
+CUST001040,FirstName1040,LastName1040,,555-971-4723,2020-08-02,Standard,True,5584.84
+CUST001041,FirstName1041,LastName1041,customer.1041@email.com,+1-555-343-9148,2023-05-19,Basic,False,4190.35
+CUST001042,FirstName1042,LastName1042,Customer1042@Email.com,5554767605,2020-03-06,Standard,false,1102.4
+CUST001043,FirstName1043,LastName1043,customer.1043@email.com,(555) 303-2877,2020-01-17,Standard,Y,7230.88
+CUST001044,FirstName1044,LastName1044,,(555) 540-3318,2020-07-21,Standard,Y,4477.81
+CUST001045,FirstName1045,LastName1045,,,2020-01-25,Premium,Y,8104.59
+CUST001046,FirstName1046,LastName1046,Customer1046@Email.com,5556431145,2020-07-03,Standard,N,9482.69
+CUST001047,FirstName1047,LastName1047,customer.1047@email.com,(555) 528-4192,2022-08-19,Standard,N,4946.45
+CUST001048,FirstName1048,LastName1048,Customer1048@Email.com,555-402-5346,2020-10-19,Standard,False,2463.68
+CUST001049,FirstName1049,LastName1049,customer1049@email.com,(555) 706-9799,2021-06-13,Basic,True,3720.62
+CUST001050,FirstName1050,LastName1050,customer.1050@email.com,555-934-4481,2020-12-10,,N,5167.62
+CUST001051,FirstName1051,LastName1051,,,2020-05-16,Basic,N,498.87
+CUST001052,FirstName1052,LastName1052,Customer1052@Email.com,,2021-01-02,,N,2654.37
+CUST001053,FirstName1053,LastName1053,,,2022-01-26,Standard,False,3076.83
+CUST001054,FirstName1054,LastName1054,,+1-555-703-1864,2020-03-31,,1,1832.6
+CUST001055,FirstName1055,LastName1055,,555-547-4690,2022-09-21,,Y,9972.33
+CUST001056,FirstName1056,LastName1056,,(555) 816-9964,2022-06-14,Basic,True,6544.08
+CUST001057,FirstName1057,LastName1057,customer.1057@email.com,,2021-04-28,Standard,1,5994.42
+CUST001058,FirstName1058,LastName1058,customer1058@gmail.com,(555) 643-8157,2020-09-04,,1,6628.16
+CUST001059,FirstName1059,LastName1059,,(555) 434-9586,2020-01-15,VIP,1,9461.59
+CUST001060,FirstName1060,LastName1060,customer1060@email.com,,2021-01-17,VIP,false,1879.01
+CUST001061,FirstName1061,LastName1061,,,2021-02-26,,N,8277.18
+CUST001062,FirstName1062,LastName1062,customer1062@email.com,,2020-04-03,,false,1590.26
+CUST001063,FirstName1063,LastName1063,Customer1063@Email.com,(555) 951-8857,2023-10-16,,Y,3959.49
+CUST001064,FirstName1064,LastName1064,,+1-555-976-8998,2022-05-20,,N,6300.15
+CUST001065,FirstName1065,LastName1065,customer.1065@email.com,555-526-3952,2020-11-29,,True,3541.63
+CUST001066,FirstName1066,LastName1066,customer1066@email.com,+1-555-829-2426,2021-03-11,VIP,true,4924.67
+CUST001067,FirstName1067,LastName1067,customer1067@gmail.com,(555) 700-7430,2022-08-17,,False,2061.31
+CUST001068,FirstName1068,LastName1068,,5553865136,2023-03-16,Basic,true,7471.38
+CUST001069,FirstName1069,LastName1069,customer.1069@email.com,(555) 157-4009,2020-05-23,Standard,N,9050.71
+CUST001070,FirstName1070,LastName1070,customer1070@gmail.com,(555) 339-6322,2022-07-30,Standard,1,9857.72
+CUST001071,FirstName1071,LastName1071,customer1071@email.com,(555) 245-3070,2020-08-26,Basic,0,7813.25
+CUST001072,FirstName1072,LastName1072,Customer1072@Email.com,(555) 409-9489,2022-06-15,Basic,False,8079.08
+CUST001073,FirstName1073,LastName1073,Customer1073@Email.com,,2021-09-29,VIP,1,1457.42
+CUST001074,FirstName1074,LastName1074,customer1074@email.com,(555) 907-5278,2023-07-29,,0,5588.24
+CUST001075,FirstName1075,LastName1075,,,2022-04-02,,true,8297.83
+CUST001076,FirstName1076,LastName1076,customer1076@email.com,555-234-8995,2020-08-24,VIP,1,582.37
+CUST001077,FirstName1077,LastName1077,,+1-555-105-2615,2021-01-17,,False,4055.91
+CUST001078,FirstName1078,LastName1078,customer.1078@email.com,,2022-11-21,,False,7293.88
+CUST001079,FirstName1079,LastName1079,customer1079@email.com,,2021-05-28,Standard,Y,8935.77
+CUST001080,FirstName1080,LastName1080,customer1080@email.com,555-508-4805,2022-10-18,Standard,False,5527.02
+CUST001081,FirstName1081,LastName1081,customer1081@gmail.com,+1-555-374-6568,2021-08-20,,N,1967.41
+CUST001082,FirstName1082,LastName1082,Customer1082@Email.com,(555) 860-5801,2023-05-31,Premium,false,2090.41
+CUST001083,FirstName1083,LastName1083,customer1083@email.com,555-487-9022,2021-08-12,VIP,false,325.76
+CUST001084,FirstName1084,LastName1084,,,2023-07-10,Premium,True,9114.15
+CUST001085,FirstName1085,LastName1085,customer1085@gmail.com,,2022-05-24,VIP,false,5645.79
+CUST001086,FirstName1086,LastName1086,,+1-555-101-8640,2023-07-12,VIP,false,1840.61
+CUST001087,FirstName1087,LastName1087,customer.1087@email.com,5555692766,2023-08-04,Standard,1,6739.45
+CUST001088,FirstName1088,LastName1088,,,2023-10-06,Standard,Y,2338.0
+CUST001089,FirstName1089,LastName1089,Customer1089@Email.com,555-299-5681,2023-09-09,Standard,1,8419.12
+CUST001090,FirstName1090,LastName1090,customer.1090@email.com,555-483-3686,2022-04-29,,N,8823.34
+CUST001091,FirstName1091,LastName1091,Customer1091@Email.com,(555) 304-4054,2021-09-12,Standard,0,8864.18
+CUST001092,FirstName1092,LastName1092,,+1-555-931-8515,2021-01-17,Premium,True,6286.08
+CUST001093,FirstName1093,LastName1093,customer1093@gmail.com,(555) 201-8586,2020-11-21,,True,7192.82
+CUST001094,FirstName1094,LastName1094,customer1094@gmail.com,555-748-9741,2023-01-26,,False,7095.59
+CUST001095,FirstName1095,LastName1095,,,2021-02-09,Basic,Y,9467.91
+CUST001096,FirstName1096,LastName1096,customer1096@email.com,+1-555-761-4653,2021-08-07,Basic,0,9847.24
+CUST001097,FirstName1097,LastName1097,,+1-555-239-7113,2020-06-09,Premium,Y,6246.47
+CUST001098,FirstName1098,LastName1098,,+1-555-349-5397,2020-06-09,VIP,True,3644.32
+CUST001099,FirstName1099,LastName1099,Customer1099@Email.com,,2022-07-29,VIP,0,2394.99
+CUST001100,FirstName1100,LastName1100,Customer1100@Email.com,+1-555-783-5341,2023-10-28,Basic,True,7031.35
+CUST001101,FirstName1101,LastName1101,customer1101@email.com,(555) 889-8908,2022-12-17,,False,7961.37
+CUST001102,FirstName1102,LastName1102,Customer1102@Email.com,+1-555-886-7993,2020-01-14,Standard,False,1701.02
+CUST001103,FirstName1103,LastName1103,,5559467910,2021-11-05,Standard,False,9131.06
+CUST001104,FirstName1104,LastName1104,customer1104@email.com,+1-555-971-5984,2023-06-08,,False,7597.8
+CUST001105,FirstName1105,LastName1105,Customer1105@Email.com,,2021-02-27,,false,6544.34
+CUST001106,FirstName1106,LastName1106,,(555) 426-1726,2020-01-02,Basic,false,726.63
+CUST001107,FirstName1107,LastName1107,Customer1107@Email.com,+1-555-914-7686,2023-09-21,,Y,2363.03
+CUST001108,FirstName1108,LastName1108,customer.1108@email.com,(555) 594-2037,2023-06-14,Standard,false,8040.89
+CUST001109,FirstName1109,LastName1109,Customer1109@Email.com,+1-555-360-1311,2022-09-21,,N,9253.05
+CUST001110,FirstName1110,LastName1110,Customer1110@Email.com,(555) 358-1069,2020-07-01,,N,8378.53
+CUST001111,FirstName1111,LastName1111,,+1-555-164-8883,2021-08-05,VIP,False,1844.26
+CUST001112,FirstName1112,LastName1112,,,2020-10-18,,Y,1510.05
+CUST001113,FirstName1113,LastName1113,Customer1113@Email.com,,2020-11-04,Basic,false,2697.9
+CUST001114,FirstName1114,LastName1114,customer.1114@email.com,555-821-6777,2021-11-23,,True,8433.26
+CUST001115,FirstName1115,LastName1115,customer1115@gmail.com,+1-555-727-4951,2021-11-16,,0,9614.25
+CUST001116,FirstName1116,LastName1116,customer1116@gmail.com,555-897-9247,2020-03-15,,1,7283.54
+CUST001117,FirstName1117,LastName1117,,,2020-08-27,,false,4952.68
+CUST001118,FirstName1118,LastName1118,,,2021-10-30,Premium,true,8346.44
+CUST001119,FirstName1119,LastName1119,customer.1119@email.com,555-911-7356,2020-01-30,Basic,False,6698.39
+CUST001120,FirstName1120,LastName1120,customer1120@gmail.com,(555) 467-8471,2020-06-06,,1,9439.67
+CUST001121,FirstName1121,LastName1121,Customer1121@Email.com,5556663728,2020-03-06,Basic,0,7759.27
+CUST001122,FirstName1122,LastName1122,customer.1122@email.com,(555) 769-8345,2022-03-26,,Y,6969.71
+CUST001123,FirstName1123,LastName1123,,5555213933,2020-09-07,Basic,True,601.3
+CUST001124,FirstName1124,LastName1124,Customer1124@Email.com,+1-555-932-8009,2021-09-09,,false,646.8
+CUST001125,FirstName1125,LastName1125,,,2022-04-14,Standard,false,6863.24
+CUST001126,FirstName1126,LastName1126,,5556132297,2021-10-18,,0,3498.05
+CUST001127,FirstName1127,LastName1127,customer.1127@email.com,,2022-01-14,Standard,True,377.46
+CUST001128,FirstName1128,LastName1128,,(555) 343-6394,2023-03-19,Premium,1,9537.09
+CUST001129,FirstName1129,LastName1129,Customer1129@Email.com,+1-555-408-6547,2020-10-22,Premium,N,6837.05
+CUST001130,FirstName1130,LastName1130,,555-249-2431,2020-08-15,,true,6576.31
+CUST001131,FirstName1131,LastName1131,Customer1131@Email.com,+1-555-927-4819,2022-11-02,Premium,false,3975.2
+CUST001132,FirstName1132,LastName1132,customer.1132@email.com,,2021-07-01,VIP,N,9622.86
+CUST001133,FirstName1133,LastName1133,customer1133@email.com,,2021-02-27,Standard,false,3166.77
+CUST001134,FirstName1134,LastName1134,,5558108751,2023-08-25,Premium,false,5647.62
+CUST001135,FirstName1135,LastName1135,,5559158901,2021-09-01,,0,5605.41
+CUST001136,FirstName1136,LastName1136,customer1136@email.com,(555) 537-2868,2022-02-18,Basic,False,4900.04
+CUST001137,FirstName1137,LastName1137,customer1137@email.com,,2023-05-23,Basic,true,6247.81
+CUST001138,FirstName1138,LastName1138,customer.1138@email.com,,2020-11-10,Premium,true,2276.85
+CUST001139,FirstName1139,LastName1139,Customer1139@Email.com,,2023-08-09,Premium,true,1728.65
+CUST001140,FirstName1140,LastName1140,,555-778-9090,2020-09-28,,0,6288.49
+CUST001141,FirstName1141,LastName1141,customer1141@gmail.com,,2021-07-24,,Y,1383.95
+CUST001142,FirstName1142,LastName1142,customer1142@gmail.com,(555) 569-3789,2021-01-18,,1,1542.17
+CUST001143,FirstName1143,LastName1143,customer.1143@email.com,,2022-08-19,VIP,true,3522.74
+CUST001144,FirstName1144,LastName1144,Customer1144@Email.com,,2020-07-09,VIP,Y,3259.2
+CUST001145,FirstName1145,LastName1145,customer.1145@email.com,,2023-07-21,,Y,1256.84
+CUST001146,FirstName1146,LastName1146,,+1-555-246-1849,2023-09-02,,1,2945.89
+CUST001147,FirstName1147,LastName1147,customer1147@email.com,5554733371,2022-10-06,,false,2122.66
+CUST001148,FirstName1148,LastName1148,Customer1148@Email.com,(555) 238-8706,2022-03-29,Standard,false,4876.6
+CUST001149,FirstName1149,LastName1149,Customer1149@Email.com,(555) 642-3853,2022-12-12,Standard,N,3548.96
+CUST001150,FirstName1150,LastName1150,,(555) 660-7001,2022-08-20,Standard,False,9241.93
+CUST001151,FirstName1151,LastName1151,customer1151@email.com,,2020-03-11,Standard,False,5607.81
+CUST001152,FirstName1152,LastName1152,,5554108316,2020-11-12,Basic,N,5007.54
+CUST001153,FirstName1153,LastName1153,Customer1153@Email.com,(555) 317-9797,2020-03-12,Basic,false,9260.09
+CUST001154,FirstName1154,LastName1154,customer1154@email.com,,2023-10-26,VIP,N,1431.03
+CUST001155,FirstName1155,LastName1155,customer1155@email.com,5557471944,2023-02-22,Standard,N,6192.58
+CUST001156,FirstName1156,LastName1156,customer.1156@email.com,(555) 644-3430,2023-08-17,Standard,false,5050.12
+CUST001157,FirstName1157,LastName1157,customer.1157@email.com,(555) 870-9470,2021-05-25,,false,259.93
+CUST001158,FirstName1158,LastName1158,customer1158@gmail.com,5558273080,2022-02-24,VIP,False,5885.64
+CUST001159,FirstName1159,LastName1159,,,2022-08-08,,N,1910.3
+CUST001160,FirstName1160,LastName1160,Customer1160@Email.com,,2021-11-26,Basic,False,2233.73
+CUST001161,FirstName1161,LastName1161,Customer1161@Email.com,,2020-07-12,,false,4830.04
+CUST001162,FirstName1162,LastName1162,customer.1162@email.com,5552436229,2021-02-28,Basic,False,550.79
+CUST001163,FirstName1163,LastName1163,,,2021-05-03,Standard,true,478.97
+CUST001164,FirstName1164,LastName1164,,(555) 245-3185,2021-02-07,,1,574.16
+CUST001165,FirstName1165,LastName1165,customer.1165@email.com,+1-555-107-2997,2021-02-13,Premium,true,9525.94
+CUST001166,FirstName1166,LastName1166,customer1166@gmail.com,,2022-10-09,,1,8294.17
+CUST001167,FirstName1167,LastName1167,Customer1167@Email.com,(555) 110-9880,2022-09-19,VIP,Y,6946.92
+CUST001168,FirstName1168,LastName1168,,,2020-11-27,,0,6493.86
+CUST001169,FirstName1169,LastName1169,customer1169@gmail.com,(555) 690-5166,2023-08-22,Standard,True,6136.85
+CUST001170,FirstName1170,LastName1170,customer1170@gmail.com,5552773682,2021-11-05,Premium,N,7131.31
+CUST001171,FirstName1171,LastName1171,,555-990-1177,2020-07-13,,1,7459.63
+CUST001172,FirstName1172,LastName1172,Customer1172@Email.com,555-661-7797,2023-07-01,VIP,Y,6412.05
+CUST001173,FirstName1173,LastName1173,customer.1173@email.com,,2022-04-10,,False,6046.02
+CUST001174,FirstName1174,LastName1174,customer.1174@email.com,555-177-9110,2022-10-14,,1,3184.86
+CUST001175,FirstName1175,LastName1175,,(555) 316-2444,2023-06-06,Premium,0,3391.92
+CUST001176,FirstName1176,LastName1176,,,2023-04-11,VIP,Y,3040.24
+CUST001177,FirstName1177,LastName1177,customer1177@email.com,,2023-01-20,,false,8661.07
+CUST001178,FirstName1178,LastName1178,,5556666340,2023-01-15,Premium,N,761.0
+CUST001179,FirstName1179,LastName1179,customer.1179@email.com,+1-555-379-3595,2023-02-02,VIP,False,9319.38
+CUST001180,FirstName1180,LastName1180,,5551865382,2020-07-26,Standard,false,3639.72
+CUST001181,FirstName1181,LastName1181,customer1181@email.com,,2022-08-21,Standard,False,1584.73
+CUST001182,FirstName1182,LastName1182,customer.1182@email.com,555-102-4562,2022-10-13,VIP,0,8228.41
+CUST001183,FirstName1183,LastName1183,customer.1183@email.com,555-168-7588,2020-03-21,Basic,N,785.22
+CUST001184,FirstName1184,LastName1184,customer.1184@email.com,,2020-09-10,VIP,True,2114.15
+CUST001185,FirstName1185,LastName1185,customer1185@gmail.com,,2020-07-03,VIP,True,9359.61
+CUST001186,FirstName1186,LastName1186,customer.1186@email.com,,2023-02-09,Standard,True,497.31
+CUST001187,FirstName1187,LastName1187,customer1187@email.com,555-538-3280,2020-11-28,,N,8927.45
+CUST001188,FirstName1188,LastName1188,Customer1188@Email.com,5558301224,2023-02-11,VIP,false,8877.43
+CUST001189,FirstName1189,LastName1189,customer1189@gmail.com,(555) 460-8561,2023-01-30,Basic,False,5842.99
+CUST001190,FirstName1190,LastName1190,customer1190@gmail.com,,2020-07-11,Premium,N,9021.86
+CUST001191,FirstName1191,LastName1191,Customer1191@Email.com,555-249-2431,2023-05-28,VIP,True,9214.03
+CUST001192,FirstName1192,LastName1192,customer.1192@email.com,555-118-5170,2022-06-04,Premium,1,2531.23
+CUST001193,FirstName1193,LastName1193,customer1193@email.com,(555) 970-9945,2020-10-09,,true,9487.58
+CUST001194,FirstName1194,LastName1194,customer1194@gmail.com,,2021-08-04,Basic,Y,9897.76
+CUST001195,FirstName1195,LastName1195,,+1-555-244-1489,2021-12-31,Standard,true,4502.09
+CUST001196,FirstName1196,LastName1196,Customer1196@Email.com,+1-555-500-3901,2022-04-30,,True,901.9
+CUST001197,FirstName1197,LastName1197,customer1197@email.com,555-234-2171,2022-02-04,Basic,True,1819.26
+CUST001198,FirstName1198,LastName1198,,(555) 719-6676,2021-10-30,Standard,Y,4773.95
+CUST001199,FirstName1199,LastName1199,customer.1199@email.com,+1-555-610-8397,2020-10-05,VIP,true,8799.76
+CUST001200,FirstName1200,LastName1200,customer1200@email.com,(555) 129-6192,2021-07-17,,0,4492.06
+CUST001201,FirstName1201,LastName1201,Customer1201@Email.com,5552531907,2020-08-04,Standard,true,800.82
+CUST001202,FirstName1202,LastName1202,customer1202@gmail.com,+1-555-334-9651,2020-11-28,Basic,False,4325.73
+CUST001203,FirstName1203,LastName1203,,5559482251,2020-07-22,,True,1312.89
+CUST001204,FirstName1204,LastName1204,customer1204@email.com,555-246-6136,2021-04-28,,false,5299.93
+CUST001205,FirstName1205,LastName1205,customer1205@gmail.com,+1-555-859-4995,2022-01-16,Premium,Y,4414.33
+CUST001206,FirstName1206,LastName1206,customer1206@email.com,555-704-3280,2020-01-13,,Y,2937.43
+CUST001207,FirstName1207,LastName1207,customer1207@email.com,(555) 841-7668,2020-01-28,Standard,true,8680.68
+CUST001208,FirstName1208,LastName1208,,+1-555-446-5320,2020-05-20,,N,1843.87
+CUST001209,FirstName1209,LastName1209,customer1209@gmail.com,5556773495,2020-04-30,Premium,N,8815.75
+CUST001210,FirstName1210,LastName1210,Customer1210@Email.com,5551376125,2022-01-30,VIP,1,5427.7
+CUST001211,FirstName1211,LastName1211,Customer1211@Email.com,(555) 104-6318,2021-08-11,Standard,True,8496.64
+CUST001212,FirstName1212,LastName1212,,+1-555-441-3189,2020-11-09,VIP,Y,5689.81
+CUST001213,FirstName1213,LastName1213,customer1213@email.com,(555) 726-5626,2020-07-21,Basic,true,1075.21
+CUST001214,FirstName1214,LastName1214,customer1214@gmail.com,+1-555-888-9143,2023-02-12,VIP,0,7658.69
+CUST001215,FirstName1215,LastName1215,customer1215@email.com,,2020-08-13,VIP,False,2620.07
+CUST001216,FirstName1216,LastName1216,,555-598-8335,2023-02-16,,False,4318.8
+CUST001217,FirstName1217,LastName1217,customer.1217@email.com,555-408-9959,2023-10-19,,0,3164.58
+CUST001218,FirstName1218,LastName1218,,,2022-05-06,VIP,true,2444.25
+CUST001219,FirstName1219,LastName1219,customer1219@gmail.com,,2020-07-18,Premium,False,4732.42
+CUST001220,FirstName1220,LastName1220,customer1220@email.com,+1-555-456-2093,2020-07-16,Basic,Y,5986.2
+CUST001221,FirstName1221,LastName1221,customer.1221@email.com,(555) 368-4684,2022-04-05,,false,6929.1
+CUST001222,FirstName1222,LastName1222,customer1222@email.com,,2020-09-30,Standard,N,5724.78
+CUST001223,FirstName1223,LastName1223,,,2020-11-19,Basic,N,2290.45
+CUST001224,FirstName1224,LastName1224,,(555) 349-7122,2020-06-07,Basic,0,7001.69
+CUST001225,FirstName1225,LastName1225,customer.1225@email.com,+1-555-818-7744,2023-09-12,Premium,True,9647.84
+CUST001226,FirstName1226,LastName1226,customer.1226@email.com,5558234088,2023-03-03,Premium,Y,3426.65
+CUST001227,FirstName1227,LastName1227,Customer1227@Email.com,(555) 113-3514,2021-12-05,,1,823.45
+CUST001228,FirstName1228,LastName1228,,5558986033,2022-10-18,,True,3992.82
+CUST001229,FirstName1229,LastName1229,customer1229@gmail.com,,2022-01-31,,1,6631.69
+CUST001230,FirstName1230,LastName1230,Customer1230@Email.com,+1-555-990-5541,2023-01-23,Basic,Y,3372.69
+CUST001231,FirstName1231,LastName1231,,,2023-10-24,Standard,N,9879.85
+CUST001232,FirstName1232,LastName1232,customer.1232@email.com,555-795-9554,2023-03-30,Basic,False,1184.39
+CUST001233,FirstName1233,LastName1233,customer1233@gmail.com,555-739-1634,2023-02-07,Premium,false,5501.05
+CUST001234,FirstName1234,LastName1234,customer1234@gmail.com,5555347729,2023-07-03,Basic,true,788.86
+CUST001235,FirstName1235,LastName1235,customer1235@email.com,,2021-12-16,Standard,True,1294.5
+CUST001236,FirstName1236,LastName1236,,555-336-8177,2020-10-12,VIP,True,2752.56
+CUST001237,FirstName1237,LastName1237,customer1237@gmail.com,5555634447,2022-08-31,Standard,0,2668.15
+CUST001238,FirstName1238,LastName1238,,,2022-02-17,,1,2610.59
+CUST001239,FirstName1239,LastName1239,customer.1239@email.com,,2020-06-08,Standard,True,4113.84
+CUST001240,FirstName1240,LastName1240,,(555) 806-4909,2022-05-24,,N,3315.52
+CUST001241,FirstName1241,LastName1241,Customer1241@Email.com,+1-555-130-6730,2023-02-24,Premium,true,6737.48
+CUST001242,FirstName1242,LastName1242,Customer1242@Email.com,555-869-2691,2022-09-11,Basic,Y,1260.73
+CUST001243,FirstName1243,LastName1243,customer.1243@email.com,555-312-4596,2020-06-18,Standard,Y,9727.3
+CUST001244,FirstName1244,LastName1244,customer1244@gmail.com,555-401-4161,2020-08-24,Standard,true,4702.82
+CUST001245,FirstName1245,LastName1245,,,2022-11-08,Standard,True,8205.51
+CUST001246,FirstName1246,LastName1246,Customer1246@Email.com,+1-555-345-2380,2023-01-31,,false,9512.38
+CUST001247,FirstName1247,LastName1247,,555-610-6299,2023-09-01,Premium,0,4634.54
+CUST001248,FirstName1248,LastName1248,,,2023-09-16,Basic,1,5589.29
+CUST001249,FirstName1249,LastName1249,,(555) 572-9911,2020-11-17,Standard,1,7513.36
+CUST001250,FirstName1250,LastName1250,Customer1250@Email.com,,2023-04-16,Premium,Y,29.97
+CUST001251,FirstName1251,LastName1251,customer1251@email.com,,2023-04-15,VIP,False,1286.04
+CUST001252,FirstName1252,LastName1252,,5552771874,2021-07-12,Standard,1,2683.92
+CUST001253,FirstName1253,LastName1253,,+1-555-516-7531,2022-08-28,Premium,0,6551.85
+CUST001254,FirstName1254,LastName1254,,+1-555-504-9428,2020-11-06,,true,6679.37
+CUST001255,FirstName1255,LastName1255,,555-933-2452,2022-09-06,Standard,False,5487.64
+CUST001256,FirstName1256,LastName1256,Customer1256@Email.com,5558393701,2021-04-15,Standard,0,6418.57
+CUST001257,FirstName1257,LastName1257,Customer1257@Email.com,,2023-10-19,VIP,True,1933.63
+CUST001258,FirstName1258,LastName1258,customer1258@gmail.com,(555) 994-3041,2020-02-22,,False,6930.38
+CUST001259,FirstName1259,LastName1259,customer.1259@email.com,(555) 712-2069,2020-05-15,,1,2209.91
+CUST001260,FirstName1260,LastName1260,,5553071970,2022-04-24,Premium,Y,3867.09
+CUST001261,FirstName1261,LastName1261,customer1261@gmail.com,,2020-05-16,Standard,0,5803.88
+CUST001262,FirstName1262,LastName1262,,555-996-4697,2021-07-20,VIP,false,7347.03
+CUST001263,FirstName1263,LastName1263,,,2021-05-08,,Y,3169.87
+CUST001264,FirstName1264,LastName1264,,555-114-9977,2020-05-02,,false,358.54
+CUST001265,FirstName1265,LastName1265,customer1265@gmail.com,555-813-2034,2020-07-30,,0,6844.4
+CUST001266,FirstName1266,LastName1266,customer1266@email.com,555-352-8931,2022-06-28,VIP,False,6909.12
+CUST001267,FirstName1267,LastName1267,Customer1267@Email.com,555-852-2037,2021-08-26,Standard,True,3421.43
+CUST001268,FirstName1268,LastName1268,customer1268@gmail.com,+1-555-462-9495,2022-02-01,,true,9358.46
+CUST001269,FirstName1269,LastName1269,customer.1269@email.com,,2023-06-05,VIP,true,5381.68
+CUST001270,FirstName1270,LastName1270,,(555) 722-7756,2023-06-07,VIP,Y,1423.19
+CUST001271,FirstName1271,LastName1271,customer.1271@email.com,5551581424,2023-08-09,Premium,0,8423.88
+CUST001272,FirstName1272,LastName1272,,5552019994,2022-05-28,,True,4523.23
+CUST001273,FirstName1273,LastName1273,customer.1273@email.com,5559351653,2021-01-27,VIP,true,3013.5
+CUST001274,FirstName1274,LastName1274,customer1274@email.com,5553884552,2021-09-29,Basic,N,2653.54
+CUST001275,FirstName1275,LastName1275,customer.1275@email.com,555-906-4190,2020-09-30,,true,893.96
+CUST001276,FirstName1276,LastName1276,Customer1276@Email.com,5554956085,2021-02-04,Standard,true,3332.57
+CUST001277,FirstName1277,LastName1277,,5551333803,2021-10-11,VIP,false,6751.88
+CUST001278,FirstName1278,LastName1278,customer1278@gmail.com,,2022-04-01,,true,129.04
+CUST001279,FirstName1279,LastName1279,Customer1279@Email.com,,2021-05-15,VIP,true,8081.13
+CUST001280,FirstName1280,LastName1280,Customer1280@Email.com,+1-555-138-1216,2021-05-29,Basic,true,509.35
+CUST001281,FirstName1281,LastName1281,Customer1281@Email.com,,2023-05-24,,false,7210.64
+CUST001282,FirstName1282,LastName1282,customer1282@email.com,,2023-08-21,,True,4136.43
+CUST001283,FirstName1283,LastName1283,customer1283@email.com,5557937978,2020-08-25,,false,4876.94
+CUST001284,FirstName1284,LastName1284,customer1284@gmail.com,(555) 400-8331,2021-02-11,Premium,False,5596.02
+CUST001285,FirstName1285,LastName1285,customer1285@email.com,,2021-03-30,VIP,True,8727.96
+CUST001286,FirstName1286,LastName1286,customer1286@email.com,5554639842,2023-03-13,,0,6817.55
+CUST001287,FirstName1287,LastName1287,,5557242680,2021-01-24,Premium,0,84.43
+CUST001288,FirstName1288,LastName1288,Customer1288@Email.com,+1-555-329-1297,2021-08-28,Basic,N,7662.54
+CUST001289,FirstName1289,LastName1289,Customer1289@Email.com,5553841799,2021-01-11,Basic,True,907.83
+CUST001290,FirstName1290,LastName1290,Customer1290@Email.com,,2021-06-01,VIP,Y,2081.87
+CUST001291,FirstName1291,LastName1291,,(555) 676-8442,2020-08-29,,1,7413.03
+CUST001292,FirstName1292,LastName1292,customer1292@email.com,555-192-6247,2021-01-26,,N,8952.48
+CUST001293,FirstName1293,LastName1293,,,2020-11-15,VIP,Y,6318.99
+CUST001294,FirstName1294,LastName1294,customer1294@email.com,,2021-01-27,,0,5881.88
+CUST001295,FirstName1295,LastName1295,,,2022-06-29,,0,8511.21
+CUST001296,FirstName1296,LastName1296,,5551466574,2022-12-18,Premium,Y,9330.18
+CUST001297,FirstName1297,LastName1297,customer.1297@email.com,5554145031,2021-10-07,Standard,Y,5228.99
+CUST001298,FirstName1298,LastName1298,customer.1298@email.com,5558876305,2020-10-11,Premium,True,6071.91
+CUST001299,FirstName1299,LastName1299,,,2022-01-25,Basic,false,3316.76
+CUST001300,FirstName1300,LastName1300,Customer1300@Email.com,,2023-04-17,Premium,true,238.44
+CUST001301,FirstName1301,LastName1301,,,2020-05-23,VIP,false,4385.44
+CUST001302,FirstName1302,LastName1302,Customer1302@Email.com,,2020-07-31,VIP,Y,9396.23
+CUST001303,FirstName1303,LastName1303,customer.1303@email.com,,2022-10-07,,False,2339.02
+CUST001304,FirstName1304,LastName1304,customer1304@email.com,555-870-2334,2022-01-17,Basic,N,6332.6
+CUST001305,FirstName1305,LastName1305,Customer1305@Email.com,(555) 183-9072,2023-04-28,VIP,false,4655.64
+CUST001306,FirstName1306,LastName1306,,(555) 556-9815,2020-04-15,Basic,Y,6114.68
+CUST001307,FirstName1307,LastName1307,customer1307@gmail.com,5558441654,2023-02-08,,Y,7991.69
+CUST001308,FirstName1308,LastName1308,customer1308@gmail.com,(555) 735-1216,2023-10-05,VIP,True,970.63
+CUST001309,FirstName1309,LastName1309,Customer1309@Email.com,5551549639,2022-11-20,,N,7887.61
+CUST001310,FirstName1310,LastName1310,customer1310@gmail.com,555-411-6549,2021-06-24,,1,97.04
+CUST001311,FirstName1311,LastName1311,customer1311@email.com,5557822717,2021-06-30,,N,1954.62
+CUST001312,FirstName1312,LastName1312,customer1312@gmail.com,+1-555-679-5506,2022-09-18,Standard,1,2678.3
+CUST001313,FirstName1313,LastName1313,customer.1313@email.com,5557754498,2020-02-10,Standard,False,4527.39
+CUST001314,FirstName1314,LastName1314,customer.1314@email.com,(555) 739-8745,2023-09-08,Standard,1,3022.26
+CUST001315,FirstName1315,LastName1315,customer.1315@email.com,5557901655,2023-04-18,VIP,Y,2973.34
+CUST001316,FirstName1316,LastName1316,customer.1316@email.com,,2022-03-16,Standard,false,946.36
+CUST001317,FirstName1317,LastName1317,customer1317@email.com,+1-555-648-5562,2022-03-12,Premium,Y,1939.99
+CUST001318,FirstName1318,LastName1318,,,2021-07-04,Basic,0,4160.91
+CUST001319,FirstName1319,LastName1319,,555-847-5694,2020-06-10,Basic,False,4249.18
+CUST001320,FirstName1320,LastName1320,,,2020-09-05,Basic,1,9101.1
+CUST001321,FirstName1321,LastName1321,,,2023-01-29,Premium,True,5839.31
+CUST001322,FirstName1322,LastName1322,Customer1322@Email.com,(555) 849-6307,2021-03-14,Standard,True,3068.05
+CUST001323,FirstName1323,LastName1323,,,2023-09-26,,0,7780.1
+CUST001324,FirstName1324,LastName1324,,555-107-3312,2023-03-28,Standard,True,3391.04
+CUST001325,FirstName1325,LastName1325,customer1325@gmail.com,5559584350,2022-11-18,,Y,7593.77
+CUST001326,FirstName1326,LastName1326,customer1326@email.com,+1-555-163-9946,2022-05-21,Standard,Y,5370.45
+CUST001327,FirstName1327,LastName1327,customer1327@gmail.com,,2021-09-15,Basic,False,1851.25
+CUST001328,FirstName1328,LastName1328,Customer1328@Email.com,(555) 655-4301,2020-07-02,,1,1483.12
+CUST001329,FirstName1329,LastName1329,,+1-555-938-9224,2020-06-01,Basic,false,8544.75
+CUST001330,FirstName1330,LastName1330,customer1330@email.com,,2022-05-06,Premium,Y,434.68
+CUST001331,FirstName1331,LastName1331,customer.1331@email.com,(555) 846-2227,2023-01-04,,Y,1876.99
+CUST001332,FirstName1332,LastName1332,Customer1332@Email.com,5552208257,2022-01-30,Basic,N,324.06
+CUST001333,FirstName1333,LastName1333,customer.1333@email.com,555-443-7593,2021-05-14,VIP,True,8823.93
+CUST001334,FirstName1334,LastName1334,Customer1334@Email.com,555-137-6200,2021-12-21,,True,5215.43
+CUST001335,FirstName1335,LastName1335,customer1335@gmail.com,+1-555-566-8259,2020-09-05,,true,8980.7
+CUST001336,FirstName1336,LastName1336,customer1336@gmail.com,,2021-03-16,Premium,true,3496.39
+CUST001337,FirstName1337,LastName1337,customer1337@email.com,,2023-09-02,Premium,true,8053.82
+CUST001338,FirstName1338,LastName1338,Customer1338@Email.com,5557565148,2020-09-10,Premium,true,4911.47
+CUST001339,FirstName1339,LastName1339,customer1339@gmail.com,5553885946,2020-05-25,Standard,true,6532.26
+CUST001340,FirstName1340,LastName1340,customer1340@email.com,5554047553,2020-12-04,,True,6736.49
+CUST001341,FirstName1341,LastName1341,,(555) 142-1973,2022-09-04,Standard,0,9202.96
+CUST001342,FirstName1342,LastName1342,customer.1342@email.com,555-553-7982,2020-09-14,Standard,True,8757.58
+CUST001343,FirstName1343,LastName1343,Customer1343@Email.com,,2020-10-10,VIP,true,309.86
+CUST001344,FirstName1344,LastName1344,customer.1344@email.com,+1-555-968-5331,2021-08-25,Basic,false,4769.92
+CUST001345,FirstName1345,LastName1345,,,2023-07-26,,N,9014.08
+CUST001346,FirstName1346,LastName1346,,+1-555-239-4049,2023-04-26,Basic,False,7698.69
+CUST001347,FirstName1347,LastName1347,customer1347@gmail.com,(555) 790-5935,2023-02-23,Premium,True,9735.17
+CUST001348,FirstName1348,LastName1348,,(555) 880-9617,2021-02-26,,1,7103.27
+CUST001349,FirstName1349,LastName1349,customer1349@email.com,(555) 896-6661,2020-10-23,,True,8437.37
+CUST001350,FirstName1350,LastName1350,Customer1350@Email.com,555-912-8238,2022-04-16,Premium,0,9437.91
+CUST001351,FirstName1351,LastName1351,customer1351@email.com,555-556-2246,2021-07-21,Premium,Y,7910.54
+CUST001352,FirstName1352,LastName1352,customer.1352@email.com,555-192-2542,2023-08-08,,True,3496.43
+CUST001353,FirstName1353,LastName1353,,(555) 758-4879,2021-08-16,Basic,false,5633.74
+CUST001354,FirstName1354,LastName1354,customer.1354@email.com,,2023-01-30,Basic,1,8127.96
+CUST001355,FirstName1355,LastName1355,customer1355@email.com,(555) 352-5227,2022-12-22,Basic,Y,4367.96
+CUST001356,FirstName1356,LastName1356,customer.1356@email.com,+1-555-212-8990,2023-10-27,VIP,Y,1851.7
+CUST001357,FirstName1357,LastName1357,,,2020-09-12,,true,4256.39
+CUST001358,FirstName1358,LastName1358,customer1358@gmail.com,,2021-10-21,Premium,True,1811.29
+CUST001359,FirstName1359,LastName1359,customer1359@gmail.com,5557304387,2020-06-01,Standard,0,1244.44
+CUST001360,FirstName1360,LastName1360,customer.1360@email.com,,2022-05-01,Premium,true,4170.1
+CUST001361,FirstName1361,LastName1361,,(555) 404-9186,2022-09-25,Premium,true,3022.65
+CUST001362,FirstName1362,LastName1362,,555-526-1958,2020-09-17,Basic,0,4340.31
+CUST001363,FirstName1363,LastName1363,customer1363@email.com,555-279-7174,2021-05-30,Standard,0,9272.39
+CUST001364,FirstName1364,LastName1364,,5554469262,2022-08-05,Basic,true,6544.63
+CUST001365,FirstName1365,LastName1365,customer.1365@email.com,,2022-09-07,Premium,1,5512.35
+CUST001366,FirstName1366,LastName1366,customer1366@email.com,,2022-12-29,,Y,4922.18
+CUST001367,FirstName1367,LastName1367,Customer1367@Email.com,(555) 830-1179,2021-09-07,,True,4027.63
+CUST001368,FirstName1368,LastName1368,customer1368@gmail.com,,2020-02-14,Premium,false,5905.55
+CUST001369,FirstName1369,LastName1369,,+1-555-129-7944,2022-10-12,,1,4584.31
+CUST001370,FirstName1370,LastName1370,,,2022-07-01,VIP,N,9722.95
+CUST001371,FirstName1371,LastName1371,Customer1371@Email.com,,2022-06-13,,N,9076.38
+CUST001372,FirstName1372,LastName1372,customer1372@email.com,,2021-05-07,Premium,true,9395.56
+CUST001373,FirstName1373,LastName1373,customer1373@email.com,,2023-05-23,,True,8398.52
+CUST001374,FirstName1374,LastName1374,,555-723-5414,2023-02-23,Basic,True,7370.09
+CUST001375,FirstName1375,LastName1375,customer1375@email.com,,2023-02-06,,N,2886.07
+CUST001376,FirstName1376,LastName1376,,,2023-07-01,,True,850.3
+CUST001377,FirstName1377,LastName1377,customer.1377@email.com,,2022-11-15,Basic,N,9433.56
+CUST001378,FirstName1378,LastName1378,customer1378@email.com,5554073319,2023-01-19,Premium,0,7398.01
+CUST001379,FirstName1379,LastName1379,customer1379@gmail.com,(555) 378-7192,2020-05-03,,false,6040.09
+CUST001380,FirstName1380,LastName1380,customer1380@gmail.com,555-569-5333,2023-05-15,,N,9094.16
+CUST001381,FirstName1381,LastName1381,customer1381@email.com,,2021-12-01,Standard,False,4615.42
+CUST001382,FirstName1382,LastName1382,customer1382@gmail.com,(555) 161-7750,2022-02-11,,True,5154.01
+CUST001383,FirstName1383,LastName1383,Customer1383@Email.com,555-682-8110,2021-12-29,VIP,False,8381.91
+CUST001384,FirstName1384,LastName1384,,555-285-1973,2023-10-09,VIP,Y,5968.64
+CUST001385,FirstName1385,LastName1385,customer1385@gmail.com,(555) 240-3523,2023-07-08,Standard,False,6268.39
+CUST001386,FirstName1386,LastName1386,Customer1386@Email.com,(555) 936-2699,2022-08-10,,false,6446.07
+CUST001387,FirstName1387,LastName1387,customer1387@gmail.com,5553185105,2022-10-29,Basic,N,8226.98
+CUST001388,FirstName1388,LastName1388,customer1388@email.com,,2020-09-29,Basic,0,9602.65
+CUST001389,FirstName1389,LastName1389,customer1389@gmail.com,555-866-9121,2023-02-21,VIP,Y,7153.54
+CUST001390,FirstName1390,LastName1390,customer1390@gmail.com,555-466-1784,2020-12-12,VIP,Y,5035.62
+CUST001391,FirstName1391,LastName1391,customer1391@email.com,(555) 687-6445,2022-04-22,Premium,0,2181.18
+CUST001392,FirstName1392,LastName1392,customer.1392@email.com,,2022-08-26,VIP,false,1861.52
+CUST001393,FirstName1393,LastName1393,Customer1393@Email.com,5557668044,2020-06-21,,true,2441.9
+CUST001394,FirstName1394,LastName1394,,,2023-06-17,VIP,false,9592.73
+CUST001395,FirstName1395,LastName1395,customer.1395@email.com,(555) 138-1761,2020-06-18,,True,2317.52
+CUST001396,FirstName1396,LastName1396,,+1-555-524-2165,2022-03-19,,N,319.65
+CUST001397,FirstName1397,LastName1397,Customer1397@Email.com,(555) 701-5859,2020-07-05,Premium,N,4925.62
+CUST001398,FirstName1398,LastName1398,,,2022-02-09,Standard,0,2317.66
+CUST001399,FirstName1399,LastName1399,Customer1399@Email.com,,2020-09-30,Standard,false,3794.27
+CUST001400,FirstName1400,LastName1400,customer1400@gmail.com,+1-555-747-1148,2022-02-07,Premium,Y,290.66
+CUST001401,FirstName1401,LastName1401,,+1-555-361-3027,2021-07-24,VIP,1,2763.28
+CUST001402,FirstName1402,LastName1402,Customer1402@Email.com,,2022-01-03,Standard,N,5350.09
+CUST001403,FirstName1403,LastName1403,,5557757248,2023-01-16,Basic,N,3831.6
+CUST001404,FirstName1404,LastName1404,customer1404@gmail.com,,2022-04-28,Premium,false,859.99
+CUST001405,FirstName1405,LastName1405,customer1405@email.com,,2023-06-05,VIP,false,8875.12
+CUST001406,FirstName1406,LastName1406,,555-498-4069,2022-01-12,Premium,false,3281.81
+CUST001407,FirstName1407,LastName1407,,,2022-10-25,,False,1730.22
+CUST001408,FirstName1408,LastName1408,,(555) 813-3116,2023-09-18,Standard,True,6146.99
+CUST001409,FirstName1409,LastName1409,Customer1409@Email.com,+1-555-332-5348,2022-08-27,Standard,1,6102.37
+CUST001410,FirstName1410,LastName1410,customer.1410@email.com,(555) 743-9243,2020-05-14,,False,3388.17
+CUST001411,FirstName1411,LastName1411,,5556586549,2021-12-27,Basic,1,3798.55
+CUST001412,FirstName1412,LastName1412,customer1412@email.com,(555) 914-4876,2020-03-29,Premium,0,2336.73
+CUST001413,FirstName1413,LastName1413,customer1413@gmail.com,(555) 541-7358,2023-03-10,,1,8267.67
+CUST001414,FirstName1414,LastName1414,Customer1414@Email.com,555-706-4946,2021-09-29,,0,8719.37
+CUST001415,FirstName1415,LastName1415,customer1415@email.com,,2022-03-23,Basic,False,7505.74
+CUST001416,FirstName1416,LastName1416,customer1416@gmail.com,,2020-02-02,VIP,0,674.64
+CUST001417,FirstName1417,LastName1417,customer.1417@email.com,555-108-9833,2022-05-23,,true,9404.12
+CUST001418,FirstName1418,LastName1418,Customer1418@Email.com,(555) 163-8649,2020-02-11,Premium,0,2180.29
+CUST001419,FirstName1419,LastName1419,customer.1419@email.com,(555) 408-4384,2022-05-30,VIP,True,207.94
+CUST001420,FirstName1420,LastName1420,customer1420@email.com,,2020-12-11,,Y,3486.99
+CUST001421,FirstName1421,LastName1421,customer1421@email.com,(555) 579-1297,2022-02-23,,true,1324.98
+CUST001422,FirstName1422,LastName1422,,(555) 828-2521,2021-10-09,,True,2776.47
+CUST001423,FirstName1423,LastName1423,customer1423@email.com,(555) 115-9722,2022-09-23,Standard,Y,7854.06
+CUST001424,FirstName1424,LastName1424,customer1424@gmail.com,+1-555-872-2700,2021-09-28,,0,3972.28
+CUST001425,FirstName1425,LastName1425,customer.1425@email.com,,2020-09-29,Standard,false,3731.94
+CUST001426,FirstName1426,LastName1426,,,2020-01-16,VIP,False,6062.46
+CUST001427,FirstName1427,LastName1427,,,2020-08-11,Standard,true,1421.25
+CUST001428,FirstName1428,LastName1428,customer1428@email.com,+1-555-157-5667,2020-01-06,,True,178.72
+CUST001429,FirstName1429,LastName1429,customer1429@email.com,,2023-07-17,,0,8114.96
+CUST001430,FirstName1430,LastName1430,customer1430@email.com,555-140-7319,2021-11-12,,true,1476.47
+CUST001431,FirstName1431,LastName1431,customer1431@gmail.com,555-595-1672,2020-03-03,Premium,0,8967.61
+CUST001432,FirstName1432,LastName1432,,+1-555-129-7813,2022-01-05,,True,7568.29
+CUST001433,FirstName1433,LastName1433,customer1433@gmail.com,(555) 281-3839,2021-09-05,Premium,1,5606.78
+CUST001434,FirstName1434,LastName1434,customer.1434@email.com,,2022-10-01,Basic,True,5875.77
+CUST001435,FirstName1435,LastName1435,,555-486-9373,2023-06-29,Standard,0,2389.82
+CUST001436,FirstName1436,LastName1436,,,2020-11-27,Standard,True,5708.82
+CUST001437,FirstName1437,LastName1437,customer1437@gmail.com,555-876-7794,2022-07-19,,false,9482.68
+CUST001438,FirstName1438,LastName1438,,5557822244,2023-03-02,Premium,True,2195.44
+CUST001439,FirstName1439,LastName1439,Customer1439@Email.com,,2023-06-20,,1,44.65
+CUST001440,FirstName1440,LastName1440,,,2022-01-02,VIP,N,1801.72
+CUST001441,FirstName1441,LastName1441,customer1441@email.com,5554059650,2022-10-04,,false,5138.39
+CUST001442,FirstName1442,LastName1442,,(555) 466-7568,2022-08-21,Basic,False,3844.34
+CUST001443,FirstName1443,LastName1443,Customer1443@Email.com,+1-555-731-1698,2020-07-24,,N,4088.48
+CUST001444,FirstName1444,LastName1444,,+1-555-238-7055,2021-04-14,Basic,N,9307.15
+CUST001445,FirstName1445,LastName1445,,,2021-08-23,,true,8127.58
+CUST001446,FirstName1446,LastName1446,Customer1446@Email.com,(555) 971-5052,2022-10-22,,True,8319.97
+CUST001447,FirstName1447,LastName1447,Customer1447@Email.com,(555) 631-8020,2023-02-09,,N,6394.74
+CUST001448,FirstName1448,LastName1448,Customer1448@Email.com,,2020-05-25,VIP,False,8811.61
+CUST001449,FirstName1449,LastName1449,customer1449@email.com,(555) 509-9435,2021-05-19,Basic,Y,5014.51
+CUST001450,FirstName1450,LastName1450,customer.1450@email.com,,2023-05-25,Premium,Y,2895.65
+CUST001451,FirstName1451,LastName1451,customer.1451@email.com,,2020-10-21,VIP,Y,718.55
+CUST001452,FirstName1452,LastName1452,customer1452@email.com,555-481-4280,2022-08-16,,false,9766.4
+CUST001453,FirstName1453,LastName1453,Customer1453@Email.com,(555) 790-2149,2022-12-24,,False,3085.47
+CUST001454,FirstName1454,LastName1454,Customer1454@Email.com,(555) 425-6796,2021-05-31,,true,9755.79
+CUST001455,FirstName1455,LastName1455,,5554301959,2020-05-07,Premium,False,5012.24
+CUST001456,FirstName1456,LastName1456,Customer1456@Email.com,,2023-05-04,Basic,true,4694.82
+CUST001457,FirstName1457,LastName1457,customer1457@gmail.com,,2020-11-02,,Y,7043.5
+CUST001458,FirstName1458,LastName1458,Customer1458@Email.com,(555) 593-4834,2021-03-12,,1,1788.03
+CUST001459,FirstName1459,LastName1459,customer1459@email.com,,2023-06-13,,Y,8070.8
+CUST001460,FirstName1460,LastName1460,customer.1460@email.com,5556204097,2022-04-02,,Y,2532.94
+CUST001461,FirstName1461,LastName1461,Customer1461@Email.com,(555) 367-6001,2022-06-02,Premium,true,3097.46
+CUST001462,FirstName1462,LastName1462,,+1-555-944-6066,2021-10-24,Standard,0,5974.1
+CUST001463,FirstName1463,LastName1463,customer.1463@email.com,,2020-03-23,Standard,false,2658.75
+CUST001464,FirstName1464,LastName1464,customer.1464@email.com,5554184303,2023-01-08,Basic,true,9228.5
+CUST001465,FirstName1465,LastName1465,,,2021-11-06,,N,4552.17
+CUST001466,FirstName1466,LastName1466,,5552835348,2020-05-04,Standard,Y,7289.21
+CUST001467,FirstName1467,LastName1467,customer.1467@email.com,,2021-05-31,,true,5948.34
+CUST001468,FirstName1468,LastName1468,Customer1468@Email.com,(555) 754-8106,2020-12-05,Basic,False,6289.73
+CUST001469,FirstName1469,LastName1469,,5555926077,2020-03-24,,false,7903.47
+CUST001470,FirstName1470,LastName1470,customer1470@email.com,(555) 682-9635,2022-03-30,Standard,false,8049.83
+CUST001471,FirstName1471,LastName1471,,+1-555-956-7186,2021-05-04,Standard,Y,2628.08
+CUST001472,FirstName1472,LastName1472,customer.1472@email.com,555-629-2689,2022-01-17,VIP,Y,2847.71
+CUST001473,FirstName1473,LastName1473,customer.1473@email.com,,2021-05-03,,1,2682.5
+CUST001474,FirstName1474,LastName1474,,,2021-07-10,Standard,False,4240.11
+CUST001475,FirstName1475,LastName1475,customer.1475@email.com,555-118-9777,2022-11-09,,Y,6296.2
+CUST001476,FirstName1476,LastName1476,customer1476@email.com,,2020-10-11,Standard,Y,6534.81
+CUST001477,FirstName1477,LastName1477,customer.1477@email.com,(555) 345-6374,2023-08-23,Standard,True,3649.29
+CUST001478,FirstName1478,LastName1478,customer1478@gmail.com,+1-555-271-1436,2022-08-23,,true,2475.79
+CUST001479,FirstName1479,LastName1479,,5556769702,2020-03-05,,1,1699.44
+CUST001480,FirstName1480,LastName1480,customer.1480@email.com,5556743349,2020-01-31,VIP,1,1819.4
+CUST001481,FirstName1481,LastName1481,,555-642-9668,2023-03-14,VIP,N,2710.17
+CUST001482,FirstName1482,LastName1482,,,2021-10-03,Basic,0,3049.66
+CUST001483,FirstName1483,LastName1483,customer1483@email.com,555-732-2661,2020-10-04,Premium,True,9295.4
+CUST001484,FirstName1484,LastName1484,,,2021-12-27,Basic,true,4214.3
+CUST001485,FirstName1485,LastName1485,customer1485@email.com,+1-555-539-2415,2020-04-08,VIP,1,4176.28
+CUST001486,FirstName1486,LastName1486,,555-473-9467,2021-05-28,,N,9206.93
+CUST001487,FirstName1487,LastName1487,,(555) 690-8270,2023-03-11,Standard,1,9897.26
+CUST001488,FirstName1488,LastName1488,customer.1488@email.com,5556822584,2021-12-04,Basic,false,3303.7
+CUST001489,FirstName1489,LastName1489,customer1489@email.com,,2023-09-24,,true,8141.69
+CUST001490,FirstName1490,LastName1490,customer1490@email.com,+1-555-246-3897,2021-03-07,,0,6175.69
+CUST001491,FirstName1491,LastName1491,,(555) 797-2749,2020-01-07,VIP,1,4174.25
+CUST001492,FirstName1492,LastName1492,Customer1492@Email.com,555-893-2936,2021-07-23,Standard,N,5207.2
+CUST001493,FirstName1493,LastName1493,customer1493@gmail.com,555-940-9984,2023-09-03,Premium,1,1049.79
+CUST001494,FirstName1494,LastName1494,customer1494@gmail.com,+1-555-448-2412,2020-02-13,,Y,1591.86
+CUST001495,FirstName1495,LastName1495,customer1495@email.com,,2020-11-02,Standard,N,3446.94
+CUST001496,FirstName1496,LastName1496,,,2022-04-29,,True,5677.82
+CUST001497,FirstName1497,LastName1497,customer.1497@email.com,555-856-8476,2023-10-05,Standard,True,5857.52
+CUST001498,FirstName1498,LastName1498,customer1498@gmail.com,5559791258,2020-02-23,,true,2829.45
+CUST001499,FirstName1499,LastName1499,customer1499@email.com,,2023-10-20,VIP,true,5644.61
+CUST001500,FirstName1500,LastName1500,,+1-555-346-3916,2022-04-15,Basic,N,1975.3
+CUST001501,FirstName1501,LastName1501,customer1501@gmail.com,,2023-06-08,,True,9409.31
+CUST001502,FirstName1502,LastName1502,,(555) 727-9028,2020-07-11,,0,6888.34
+CUST001503,FirstName1503,LastName1503,customer1503@gmail.com,(555) 206-4258,2020-07-13,,True,7793.46
+CUST001504,FirstName1504,LastName1504,Customer1504@Email.com,5559527169,2020-04-02,,False,6359.3
+CUST001505,FirstName1505,LastName1505,customer.1505@email.com,5552971870,2022-03-02,VIP,0,8264.4
+CUST001506,FirstName1506,LastName1506,customer.1506@email.com,555-572-1104,2021-06-27,VIP,False,1577.34
+CUST001507,FirstName1507,LastName1507,,+1-555-319-2955,2020-12-04,VIP,1,4260.77
+CUST001508,FirstName1508,LastName1508,customer.1508@email.com,+1-555-110-8689,2023-10-21,,0,7508.3
+CUST001509,FirstName1509,LastName1509,customer.1509@email.com,5559936106,2023-10-18,,0,2484.81
+CUST001510,FirstName1510,LastName1510,customer.1510@email.com,,2023-04-14,Basic,N,2470.83
+CUST001511,FirstName1511,LastName1511,,,2021-08-23,VIP,true,7003.92
+CUST001512,FirstName1512,LastName1512,customer1512@gmail.com,,2023-07-03,,false,9699.02
+CUST001513,FirstName1513,LastName1513,customer.1513@email.com,,2021-04-25,,true,8130.59
+CUST001514,FirstName1514,LastName1514,,(555) 681-4708,2022-10-01,,Y,6152.91
+CUST001515,FirstName1515,LastName1515,,555-779-6682,2023-01-01,Standard,True,9332.79
+CUST001516,FirstName1516,LastName1516,,+1-555-705-4520,2021-05-14,Premium,False,5927.4
+CUST001517,FirstName1517,LastName1517,customer.1517@email.com,+1-555-301-5586,2023-06-15,Standard,1,5623.76
+CUST001518,FirstName1518,LastName1518,customer1518@gmail.com,+1-555-324-7672,2023-08-13,Basic,1,8899.6
+CUST001519,FirstName1519,LastName1519,customer1519@email.com,5553625118,2021-04-29,,false,4469.63
+CUST001520,FirstName1520,LastName1520,,,2023-10-08,VIP,N,2106.63
+CUST001521,FirstName1521,LastName1521,Customer1521@Email.com,,2021-05-15,,false,1858.15
+CUST001522,FirstName1522,LastName1522,customer.1522@email.com,555-355-2861,2023-10-21,,True,7990.01
+CUST001523,FirstName1523,LastName1523,customer1523@email.com,+1-555-218-3335,2021-12-21,VIP,true,8602.65
+CUST001524,FirstName1524,LastName1524,customer.1524@email.com,(555) 191-9930,2022-12-21,,true,4893.96
+CUST001525,FirstName1525,LastName1525,,(555) 462-4158,2020-08-29,Premium,False,9915.64
+CUST001526,FirstName1526,LastName1526,,+1-555-758-2827,2020-09-02,Basic,False,1186.32
+CUST001527,FirstName1527,LastName1527,customer.1527@email.com,(555) 165-3189,2021-04-09,Basic,false,5828.5
+CUST001528,FirstName1528,LastName1528,,,2023-09-20,Basic,False,5870.94
+CUST001529,FirstName1529,LastName1529,Customer1529@Email.com,,2020-12-20,Basic,N,5330.54
+CUST001530,FirstName1530,LastName1530,,5559221629,2022-08-16,VIP,0,8352.45
+CUST001531,FirstName1531,LastName1531,Customer1531@Email.com,,2021-02-05,VIP,false,2339.94
+CUST001532,FirstName1532,LastName1532,,(555) 389-5541,2022-05-15,Premium,false,8091.95
+CUST001533,FirstName1533,LastName1533,customer1533@gmail.com,(555) 374-8769,2022-07-30,,True,4869.87
+CUST001534,FirstName1534,LastName1534,,555-750-8379,2022-12-16,Premium,N,6832.76
+CUST001535,FirstName1535,LastName1535,customer1535@email.com,+1-555-458-9059,2020-05-20,VIP,0,4605.23
+CUST001536,FirstName1536,LastName1536,customer.1536@email.com,,2023-03-23,VIP,False,8440.83
+CUST001537,FirstName1537,LastName1537,,+1-555-730-8675,2020-05-04,,1,836.65
+CUST001538,FirstName1538,LastName1538,customer.1538@email.com,(555) 896-7382,2020-10-27,Basic,False,6344.02
+CUST001539,FirstName1539,LastName1539,,(555) 914-5946,2021-07-28,,True,3587.42
+CUST001540,FirstName1540,LastName1540,customer1540@gmail.com,,2023-07-22,Standard,N,2296.22
+CUST001541,FirstName1541,LastName1541,customer1541@email.com,(555) 492-2902,2021-02-07,Premium,N,4630.56
+CUST001542,FirstName1542,LastName1542,Customer1542@Email.com,+1-555-717-5816,2021-09-11,Basic,false,8080.8
+CUST001543,FirstName1543,LastName1543,,5556736774,2022-02-20,Basic,true,3052.82
+CUST001544,FirstName1544,LastName1544,customer1544@email.com,(555) 749-7218,2023-02-23,,False,2939.29
+CUST001545,FirstName1545,LastName1545,customer1545@gmail.com,,2022-01-22,VIP,Y,7571.4
+CUST001546,FirstName1546,LastName1546,customer1546@gmail.com,(555) 950-6573,2021-09-01,Premium,Y,9998.13
+CUST001547,FirstName1547,LastName1547,Customer1547@Email.com,(555) 963-5367,2022-04-29,Basic,False,4582.99
+CUST001548,FirstName1548,LastName1548,customer1548@gmail.com,+1-555-730-3177,2021-03-28,Standard,true,9622.53
+CUST001549,FirstName1549,LastName1549,,+1-555-809-4320,2021-01-21,,N,5675.4
+CUST001550,FirstName1550,LastName1550,customer.1550@email.com,5555225753,2020-09-02,VIP,N,8002.42
+CUST001551,FirstName1551,LastName1551,,,2020-01-13,,False,7357.03
+CUST001552,FirstName1552,LastName1552,customer1552@gmail.com,5557174577,2020-08-23,Premium,0,6240.03
+CUST001553,FirstName1553,LastName1553,customer1553@gmail.com,,2023-03-01,Premium,Y,9451.6
+CUST001554,FirstName1554,LastName1554,customer.1554@email.com,555-320-4247,2021-12-19,,1,1675.97
+CUST001555,FirstName1555,LastName1555,Customer1555@Email.com,5557549333,2022-08-12,Premium,N,7509.7
+CUST001556,FirstName1556,LastName1556,Customer1556@Email.com,+1-555-733-6876,2020-01-03,Premium,True,5649.03
+CUST001557,FirstName1557,LastName1557,customer1557@gmail.com,,2022-02-03,,N,5258.95
+CUST001558,FirstName1558,LastName1558,,(555) 583-5588,2021-09-27,Basic,true,9870.84
+CUST001559,FirstName1559,LastName1559,customer.1559@email.com,,2023-11-01,,0,6844.15
+CUST001560,FirstName1560,LastName1560,,(555) 745-8893,2021-08-11,,Y,42.82
+CUST001561,FirstName1561,LastName1561,customer.1561@email.com,(555) 170-9001,2022-07-28,,False,588.67
+CUST001562,FirstName1562,LastName1562,,,2022-01-11,Standard,False,9109.9
+CUST001563,FirstName1563,LastName1563,customer.1563@email.com,5552782093,2020-10-26,VIP,False,5401.31
+CUST001564,FirstName1564,LastName1564,,5558339751,2021-07-09,Standard,false,3413.61
+CUST001565,FirstName1565,LastName1565,customer.1565@email.com,+1-555-559-5095,2021-05-28,Basic,1,4471.83
+CUST001566,FirstName1566,LastName1566,,(555) 240-2420,2020-09-21,Premium,False,1436.41
+CUST001567,FirstName1567,LastName1567,,,2020-11-12,Premium,false,1495.32
+CUST001568,FirstName1568,LastName1568,customer.1568@email.com,5551681771,2020-07-12,VIP,False,2187.83
+CUST001569,FirstName1569,LastName1569,Customer1569@Email.com,(555) 102-6626,2022-04-16,,N,1557.38
+CUST001570,FirstName1570,LastName1570,,5556178410,2020-08-16,,False,3855.71
+CUST001571,FirstName1571,LastName1571,customer1571@email.com,(555) 128-1672,2023-04-24,Premium,True,4998.9
+CUST001572,FirstName1572,LastName1572,customer.1572@email.com,5551005271,2022-12-19,VIP,True,5.38
+CUST001573,FirstName1573,LastName1573,,555-292-1447,2021-04-22,,Y,212.34
+CUST001574,FirstName1574,LastName1574,customer.1574@email.com,+1-555-619-4954,2020-05-06,Premium,1,7675.67
+CUST001575,FirstName1575,LastName1575,customer1575@email.com,,2022-01-02,VIP,True,7348.78
+CUST001576,FirstName1576,LastName1576,customer1576@email.com,(555) 785-7313,2023-07-12,,True,9728.62
+CUST001577,FirstName1577,LastName1577,,555-223-4641,2021-06-07,,true,4951.0
+CUST001578,FirstName1578,LastName1578,customer1578@gmail.com,(555) 282-9776,2022-11-19,,Y,4101.07
+CUST001579,FirstName1579,LastName1579,customer1579@email.com,+1-555-705-3307,2020-06-27,VIP,true,4193.9
+CUST001580,FirstName1580,LastName1580,customer1580@email.com,,2021-05-31,Basic,Y,6882.6
+CUST001581,FirstName1581,LastName1581,customer1581@gmail.com,,2020-11-04,VIP,true,6720.25
+CUST001582,FirstName1582,LastName1582,customer1582@gmail.com,+1-555-915-7312,2021-07-17,,true,452.43
+CUST001583,FirstName1583,LastName1583,,5558904096,2020-03-24,Standard,false,3263.3
+CUST001584,FirstName1584,LastName1584,customer1584@email.com,,2021-07-18,VIP,N,2973.39
+CUST001585,FirstName1585,LastName1585,,555-507-6368,2023-02-20,,1,4033.32
+CUST001586,FirstName1586,LastName1586,,555-320-7923,2022-04-19,,False,4011.62
+CUST001587,FirstName1587,LastName1587,,555-757-7552,2022-07-11,Premium,true,2560.81
+CUST001588,FirstName1588,LastName1588,customer1588@gmail.com,+1-555-822-6723,2020-10-26,,False,5459.25
+CUST001589,FirstName1589,LastName1589,Customer1589@Email.com,,2020-07-13,Standard,N,9237.24
+CUST001590,FirstName1590,LastName1590,Customer1590@Email.com,(555) 651-6983,2022-05-30,Premium,true,6198.44
+CUST001591,FirstName1591,LastName1591,Customer1591@Email.com,5555285702,2022-08-01,,1,3385.81
+CUST001592,FirstName1592,LastName1592,customer.1592@email.com,5555359369,2022-01-25,,false,5351.46
+CUST001593,FirstName1593,LastName1593,customer1593@email.com,5555283359,2023-05-01,Standard,Y,8730.52
+CUST001594,FirstName1594,LastName1594,,(555) 463-1292,2021-07-31,Standard,1,6253.93
+CUST001595,FirstName1595,LastName1595,,(555) 372-7935,2021-08-09,,Y,8004.53
+CUST001596,FirstName1596,LastName1596,Customer1596@Email.com,+1-555-782-6303,2021-04-24,,1,7308.25
+CUST001597,FirstName1597,LastName1597,Customer1597@Email.com,5553127804,2021-03-19,VIP,0,2818.38
+CUST001598,FirstName1598,LastName1598,customer1598@gmail.com,5554055888,2023-08-14,Basic,false,3106.89
+CUST001599,FirstName1599,LastName1599,customer1599@email.com,,2023-09-26,Basic,False,5343.32
+CUST001600,FirstName1600,LastName1600,Customer1600@Email.com,5551063670,2021-09-15,VIP,True,1906.61
+CUST001601,FirstName1601,LastName1601,customer1601@gmail.com,,2023-02-10,,true,1538.89
+CUST001602,FirstName1602,LastName1602,,555-896-3471,2020-04-09,,True,8336.59
+CUST001603,FirstName1603,LastName1603,customer1603@gmail.com,555-493-4078,2020-07-29,Basic,Y,4149.42
+CUST001604,FirstName1604,LastName1604,Customer1604@Email.com,,2022-07-29,Basic,N,3739.94
+CUST001605,FirstName1605,LastName1605,,555-142-2829,2023-01-04,VIP,0,2004.47
+CUST001606,FirstName1606,LastName1606,customer.1606@email.com,5555093006,2021-05-01,Basic,true,9331.73
+CUST001607,FirstName1607,LastName1607,customer.1607@email.com,+1-555-298-2616,2020-05-05,Basic,true,9248.02
+CUST001608,FirstName1608,LastName1608,customer.1608@email.com,555-880-2081,2022-12-02,Basic,0,86.09
+CUST001609,FirstName1609,LastName1609,,,2020-06-18,Premium,True,9366.09
+CUST001610,FirstName1610,LastName1610,customer.1610@email.com,5559739052,2021-05-29,Standard,N,2055.53
+CUST001611,FirstName1611,LastName1611,Customer1611@Email.com,,2020-12-23,,true,701.71
+CUST001612,FirstName1612,LastName1612,customer1612@email.com,5555864604,2022-12-24,,N,8643.99
+CUST001613,FirstName1613,LastName1613,customer1613@gmail.com,(555) 966-9066,2020-02-15,Basic,False,2589.54
+CUST001614,FirstName1614,LastName1614,Customer1614@Email.com,+1-555-815-5802,2021-10-23,Standard,Y,4033.67
+CUST001615,FirstName1615,LastName1615,customer1615@gmail.com,+1-555-254-5571,2022-02-28,,False,8874.7
+CUST001616,FirstName1616,LastName1616,customer1616@email.com,5559334549,2021-03-08,VIP,True,4245.83
+CUST001617,FirstName1617,LastName1617,customer1617@gmail.com,,2020-12-23,,N,9560.49
+CUST001618,FirstName1618,LastName1618,customer1618@email.com,(555) 144-5813,2020-11-27,Standard,false,8317.86
+CUST001619,FirstName1619,LastName1619,customer.1619@email.com,,2020-01-02,,N,9300.95
+CUST001620,FirstName1620,LastName1620,customer.1620@email.com,(555) 721-6830,2021-04-26,,true,7363.63
+CUST001621,FirstName1621,LastName1621,customer.1621@email.com,,2021-06-09,,False,1633.83
+CUST001622,FirstName1622,LastName1622,customer1622@email.com,+1-555-791-5911,2023-10-16,,False,3435.71
+CUST001623,FirstName1623,LastName1623,Customer1623@Email.com,555-975-3217,2020-08-18,Standard,True,551.75
+CUST001624,FirstName1624,LastName1624,customer.1624@email.com,5554308252,2022-07-18,Basic,Y,3766.9
+CUST001625,FirstName1625,LastName1625,customer.1625@email.com,,2020-03-14,,False,8178.37
+CUST001626,FirstName1626,LastName1626,customer1626@gmail.com,555-608-7249,2020-06-13,,False,1367.49
+CUST001627,FirstName1627,LastName1627,customer1627@gmail.com,5558319373,2022-02-17,VIP,0,7924.78
+CUST001628,FirstName1628,LastName1628,Customer1628@Email.com,555-546-8984,2023-04-12,VIP,true,4381.07
+CUST001629,FirstName1629,LastName1629,,(555) 380-2725,2023-02-22,,true,211.25
+CUST001630,FirstName1630,LastName1630,,5556687907,2021-09-21,,False,2248.94
+CUST001631,FirstName1631,LastName1631,customer.1631@email.com,,2021-03-17,Basic,N,1431.96
+CUST001632,FirstName1632,LastName1632,customer1632@email.com,555-881-5627,2021-06-07,,N,3969.38
+CUST001633,FirstName1633,LastName1633,customer1633@gmail.com,+1-555-137-6258,2020-08-07,VIP,false,3799.94
+CUST001634,FirstName1634,LastName1634,customer1634@gmail.com,555-780-7009,2022-02-21,VIP,Y,4302.26
+CUST001635,FirstName1635,LastName1635,,,2020-12-15,,False,9103.32
+CUST001636,FirstName1636,LastName1636,,,2020-07-18,,N,433.55
+CUST001637,FirstName1637,LastName1637,,,2023-09-28,Standard,False,3179.03
+CUST001638,FirstName1638,LastName1638,customer1638@email.com,(555) 866-9457,2022-01-27,Basic,1,3500.03
+CUST001639,FirstName1639,LastName1639,customer1639@gmail.com,555-292-6873,2023-05-08,Standard,Y,3736.63
+CUST001640,FirstName1640,LastName1640,Customer1640@Email.com,,2022-05-18,Standard,1,1135.24
+CUST001641,FirstName1641,LastName1641,,+1-555-106-3334,2020-05-25,Premium,1,6051.43
+CUST001642,FirstName1642,LastName1642,Customer1642@Email.com,5554535878,2022-11-06,Basic,0,6958.91
+CUST001643,FirstName1643,LastName1643,Customer1643@Email.com,555-936-7406,2023-02-19,Basic,N,6662.1
+CUST001644,FirstName1644,LastName1644,Customer1644@Email.com,5552575135,2021-09-08,,N,5268.54
+CUST001645,FirstName1645,LastName1645,customer.1645@email.com,(555) 330-9197,2021-12-19,,N,3703.69
+CUST001646,FirstName1646,LastName1646,customer1646@email.com,5551436446,2020-04-05,,false,7211.84
+CUST001647,FirstName1647,LastName1647,customer1647@gmail.com,555-891-5133,2020-09-01,Premium,1,8469.15
+CUST001648,FirstName1648,LastName1648,Customer1648@Email.com,5559632093,2020-03-12,,N,1941.17
+CUST001649,FirstName1649,LastName1649,customer.1649@email.com,5552701700,2023-10-16,,Y,2153.11
+CUST001650,FirstName1650,LastName1650,customer.1650@email.com,,2020-02-07,,Y,6221.94
+CUST001651,FirstName1651,LastName1651,customer.1651@email.com,,2022-09-08,,False,2955.55
+CUST001652,FirstName1652,LastName1652,Customer1652@Email.com,5555858229,2020-05-13,Premium,false,301.65
+CUST001653,FirstName1653,LastName1653,,555-154-5355,2022-07-07,Basic,False,4584.79
+CUST001654,FirstName1654,LastName1654,customer1654@email.com,5553744892,2020-03-05,Premium,false,3840.5
+CUST001655,FirstName1655,LastName1655,customer1655@email.com,,2021-01-09,Basic,Y,4038.85
+CUST001656,FirstName1656,LastName1656,customer1656@email.com,(555) 331-5147,2022-06-06,Premium,1,1108.84
+CUST001657,FirstName1657,LastName1657,customer1657@email.com,+1-555-820-1891,2021-07-26,,1,4694.51
+CUST001658,FirstName1658,LastName1658,customer1658@gmail.com,,2021-02-21,Basic,False,1788.23
+CUST001659,FirstName1659,LastName1659,customer.1659@email.com,5554281871,2021-05-15,,True,5591.59
+CUST001660,FirstName1660,LastName1660,customer1660@email.com,5551682803,2023-06-06,VIP,1,7239.23
+CUST001661,FirstName1661,LastName1661,customer1661@email.com,,2021-10-25,VIP,True,22.62
+CUST001662,FirstName1662,LastName1662,,555-166-3216,2022-11-02,VIP,true,9498.15
+CUST001663,FirstName1663,LastName1663,customer.1663@email.com,555-135-7660,2020-05-30,,true,3849.88
+CUST001664,FirstName1664,LastName1664,customer1664@email.com,+1-555-148-4479,2022-08-01,Standard,Y,712.59
+CUST001665,FirstName1665,LastName1665,customer.1665@email.com,555-914-6477,2020-10-24,,1,8262.54
+CUST001666,FirstName1666,LastName1666,customer1666@email.com,5552608023,2023-06-02,Premium,Y,5210.71
+CUST001667,FirstName1667,LastName1667,,5552568359,2021-04-09,,true,8877.06
+CUST001668,FirstName1668,LastName1668,customer1668@gmail.com,,2021-11-17,VIP,true,2129.23
+CUST001669,FirstName1669,LastName1669,,+1-555-352-1311,2020-01-20,,true,1673.44
+CUST001670,FirstName1670,LastName1670,customer.1670@email.com,(555) 573-4802,2021-11-19,,1,6723.34
+CUST001671,FirstName1671,LastName1671,customer1671@gmail.com,555-112-7622,2022-03-21,Standard,1,974.51
+CUST001672,FirstName1672,LastName1672,,555-351-5580,2020-11-26,VIP,false,4719.73
+CUST001673,FirstName1673,LastName1673,customer1673@email.com,555-812-3756,2022-07-19,VIP,Y,1881.9
+CUST001674,FirstName1674,LastName1674,Customer1674@Email.com,,2020-11-12,Premium,True,4185.85
+CUST001675,FirstName1675,LastName1675,customer.1675@email.com,5559676707,2022-03-15,Premium,0,1823.16
+CUST001676,FirstName1676,LastName1676,customer.1676@email.com,555-852-9372,2021-08-31,VIP,false,2326.07
+CUST001677,FirstName1677,LastName1677,customer1677@gmail.com,(555) 105-2034,2021-05-23,Premium,0,8486.33
+CUST001678,FirstName1678,LastName1678,customer1678@gmail.com,+1-555-154-9002,2020-02-16,VIP,Y,5594.98
+CUST001679,FirstName1679,LastName1679,customer1679@email.com,5556847776,2021-08-21,Standard,1,1179.53
+CUST001680,FirstName1680,LastName1680,customer1680@gmail.com,555-480-5990,2022-07-22,Premium,Y,1022.44
+CUST001681,FirstName1681,LastName1681,customer1681@email.com,5557145114,2023-08-13,Premium,false,6887.97
+CUST001682,FirstName1682,LastName1682,customer.1682@email.com,+1-555-569-6906,2023-09-27,Basic,Y,8875.33
+CUST001683,FirstName1683,LastName1683,customer.1683@email.com,555-328-6645,2022-12-26,,1,9235.32
+CUST001684,FirstName1684,LastName1684,customer1684@email.com,,2023-10-14,Standard,true,7215.11
+CUST001685,FirstName1685,LastName1685,,5552218321,2022-11-30,Standard,1,9607.52
+CUST001686,FirstName1686,LastName1686,customer1686@gmail.com,5555667151,2023-08-02,Premium,Y,6481.15
+CUST001687,FirstName1687,LastName1687,,5556161079,2023-02-01,Premium,true,9233.4
+CUST001688,FirstName1688,LastName1688,,(555) 919-1409,2021-10-29,VIP,True,8619.9
+CUST001689,FirstName1689,LastName1689,customer1689@gmail.com,555-893-1854,2021-09-19,,true,2933.72
+CUST001690,FirstName1690,LastName1690,customer.1690@email.com,,2020-03-13,,1,8754.79
+CUST001691,FirstName1691,LastName1691,,,2021-05-16,Standard,true,1165.87
+CUST001692,FirstName1692,LastName1692,customer1692@email.com,(555) 394-6336,2020-11-17,,0,8410.62
+CUST001693,FirstName1693,LastName1693,customer.1693@email.com,,2022-09-13,,N,1324.45
+CUST001694,FirstName1694,LastName1694,,(555) 363-9266,2021-11-07,Standard,1,4561.41
+CUST001695,FirstName1695,LastName1695,,+1-555-450-2069,2022-06-29,,1,5103.36
+CUST001696,FirstName1696,LastName1696,customer1696@gmail.com,,2021-08-08,,1,6853.11
+CUST001697,FirstName1697,LastName1697,customer1697@email.com,555-369-5904,2021-01-01,VIP,Y,9804.92
+CUST001698,FirstName1698,LastName1698,,(555) 168-6983,2022-05-03,Standard,true,2894.36
+CUST001699,FirstName1699,LastName1699,,,2021-01-04,Premium,True,236.38
+CUST001700,FirstName1700,LastName1700,Customer1700@Email.com,+1-555-599-8231,2020-07-23,Basic,False,3331.33
+CUST001701,FirstName1701,LastName1701,customer1701@gmail.com,+1-555-935-7923,2023-02-28,Standard,True,8200.82
+CUST001702,FirstName1702,LastName1702,customer1702@gmail.com,,2022-01-25,,False,7782.97
+CUST001703,FirstName1703,LastName1703,customer.1703@email.com,555-580-3537,2020-02-06,VIP,0,4979.89
+CUST001704,FirstName1704,LastName1704,customer1704@email.com,5552433786,2022-05-22,Basic,N,8861.22
+CUST001705,FirstName1705,LastName1705,,(555) 913-4180,2022-11-12,VIP,False,5796.19
+CUST001706,FirstName1706,LastName1706,customer.1706@email.com,,2020-05-30,Premium,True,8427.03
+CUST001707,FirstName1707,LastName1707,customer1707@gmail.com,555-205-1589,2021-03-05,VIP,true,5954.44
+CUST001708,FirstName1708,LastName1708,customer1708@gmail.com,555-498-2879,2023-02-17,,N,5089.77
+CUST001709,FirstName1709,LastName1709,,+1-555-460-5746,2021-08-13,Basic,True,9400.93
+CUST001710,FirstName1710,LastName1710,Customer1710@Email.com,,2021-10-26,Premium,False,4966.16
+CUST001711,FirstName1711,LastName1711,customer.1711@email.com,5551238946,2022-02-16,Standard,true,9334.54
+CUST001712,FirstName1712,LastName1712,customer.1712@email.com,,2021-06-29,Premium,N,9154.92
+CUST001713,FirstName1713,LastName1713,,,2022-11-29,,true,5404.68
+CUST001714,FirstName1714,LastName1714,,,2021-11-26,Premium,false,838.83
+CUST001715,FirstName1715,LastName1715,customer1715@email.com,+1-555-522-9387,2020-03-14,VIP,0,1759.2
+CUST001716,FirstName1716,LastName1716,customer1716@gmail.com,,2020-03-01,,0,9681.88
+CUST001717,FirstName1717,LastName1717,customer.1717@email.com,,2021-12-09,VIP,N,1774.04
+CUST001718,FirstName1718,LastName1718,customer1718@gmail.com,+1-555-830-3344,2022-10-17,Premium,False,3762.0
+CUST001719,FirstName1719,LastName1719,,5551449463,2021-08-25,Basic,true,5315.73
+CUST001720,FirstName1720,LastName1720,customer1720@gmail.com,(555) 764-5024,2023-04-09,,N,1646.41
+CUST001721,FirstName1721,LastName1721,Customer1721@Email.com,5551206341,2021-10-26,VIP,N,1158.81
+CUST001722,FirstName1722,LastName1722,customer1722@email.com,555-844-3222,2020-10-18,,False,3798.99
+CUST001723,FirstName1723,LastName1723,customer1723@gmail.com,,2020-10-07,Standard,N,8463.45
+CUST001724,FirstName1724,LastName1724,,(555) 114-2429,2021-12-28,Premium,1,9357.49
+CUST001725,FirstName1725,LastName1725,customer1725@gmail.com,(555) 427-8502,2021-02-21,,true,6392.58
+CUST001726,FirstName1726,LastName1726,customer.1726@email.com,,2022-03-19,VIP,1,1576.43
+CUST001727,FirstName1727,LastName1727,customer1727@gmail.com,5557331449,2023-10-31,Standard,0,8784.35
+CUST001728,FirstName1728,LastName1728,,,2021-09-28,,N,2312.89
+CUST001729,FirstName1729,LastName1729,customer1729@email.com,+1-555-521-1517,2020-05-09,Premium,True,8711.4
+CUST001730,FirstName1730,LastName1730,customer.1730@email.com,,2022-04-30,,Y,4015.67
+CUST001731,FirstName1731,LastName1731,customer.1731@email.com,555-245-6410,2020-01-01,,0,2526.83
+CUST001732,FirstName1732,LastName1732,,(555) 213-1565,2022-05-19,Standard,1,9667.21
+CUST001733,FirstName1733,LastName1733,customer1733@email.com,5559999191,2020-07-21,Standard,True,9776.54
+CUST001734,FirstName1734,LastName1734,,555-810-8354,2021-04-27,Premium,1,9541.93
+CUST001735,FirstName1735,LastName1735,customer1735@email.com,(555) 602-6512,2022-02-03,Basic,Y,1683.36
+CUST001736,FirstName1736,LastName1736,customer1736@gmail.com,(555) 576-2229,2021-04-30,,False,5882.99
+CUST001737,FirstName1737,LastName1737,customer.1737@email.com,,2023-01-05,,True,4079.51
+CUST001738,FirstName1738,LastName1738,customer.1738@email.com,555-106-8389,2021-09-05,VIP,N,5240.51
+CUST001739,FirstName1739,LastName1739,customer.1739@email.com,,2022-12-21,Basic,Y,4579.53
+CUST001740,FirstName1740,LastName1740,customer.1740@email.com,5556782761,2022-06-14,VIP,1,1638.1
+CUST001741,FirstName1741,LastName1741,customer.1741@email.com,555-797-9589,2022-12-05,VIP,true,2631.82
+CUST001742,FirstName1742,LastName1742,customer1742@email.com,,2021-01-22,,N,9347.16
+CUST001743,FirstName1743,LastName1743,,,2020-11-24,VIP,false,7471.07
+CUST001744,FirstName1744,LastName1744,Customer1744@Email.com,5559513483,2023-09-10,,false,6470.23
+CUST001745,FirstName1745,LastName1745,,,2020-04-04,Standard,true,3522.11
+CUST001746,FirstName1746,LastName1746,customer1746@gmail.com,5559047340,2020-04-03,,True,1181.55
+CUST001747,FirstName1747,LastName1747,Customer1747@Email.com,555-311-9000,2021-09-20,VIP,true,7809.67
+CUST001748,FirstName1748,LastName1748,,5553058979,2021-02-11,,True,3663.37
+CUST001749,FirstName1749,LastName1749,customer.1749@email.com,+1-555-908-2435,2021-09-05,Standard,1,712.98
+CUST001750,FirstName1750,LastName1750,Customer1750@Email.com,555-447-2101,2023-06-29,Basic,true,5499.76
+CUST001751,FirstName1751,LastName1751,Customer1751@Email.com,5554952209,2022-05-23,Standard,0,3099.04
+CUST001752,FirstName1752,LastName1752,,555-668-2646,2020-09-15,Standard,true,3926.0
+CUST001753,FirstName1753,LastName1753,Customer1753@Email.com,555-319-7798,2021-09-19,,false,4740.89
+CUST001754,FirstName1754,LastName1754,,,2020-03-13,,true,624.34
+CUST001755,FirstName1755,LastName1755,Customer1755@Email.com,+1-555-324-1264,2022-03-30,VIP,Y,9371.79
+CUST001756,FirstName1756,LastName1756,customer1756@email.com,,2020-09-04,,false,4578.19
+CUST001757,FirstName1757,LastName1757,,(555) 754-4453,2021-10-29,Basic,False,3387.56
+CUST001758,FirstName1758,LastName1758,Customer1758@Email.com,555-398-6259,2020-01-14,Basic,true,6929.97
+CUST001759,FirstName1759,LastName1759,,+1-555-634-9711,2023-02-22,Premium,True,3994.48
+CUST001760,FirstName1760,LastName1760,customer1760@gmail.com,(555) 932-5142,2020-12-22,Premium,N,9852.62
+CUST001761,FirstName1761,LastName1761,,555-919-1358,2022-05-02,VIP,True,979.76
+CUST001762,FirstName1762,LastName1762,Customer1762@Email.com,5555352184,2022-08-18,Basic,N,3290.29
+CUST001763,FirstName1763,LastName1763,customer1763@email.com,,2020-05-17,,False,5229.05
+CUST001764,FirstName1764,LastName1764,customer.1764@email.com,+1-555-985-4755,2020-01-15,Standard,1,1963.61
+CUST001765,FirstName1765,LastName1765,,(555) 674-5726,2021-08-24,,N,9902.8
+CUST001766,FirstName1766,LastName1766,customer1766@gmail.com,5555264714,2022-06-02,,1,208.39
+CUST001767,FirstName1767,LastName1767,customer1767@email.com,+1-555-457-3709,2021-04-19,Basic,True,9745.03
+CUST001768,FirstName1768,LastName1768,,,2022-07-10,,false,3114.31
+CUST001769,FirstName1769,LastName1769,Customer1769@Email.com,+1-555-993-5742,2021-11-23,Standard,1,2046.74
+CUST001770,FirstName1770,LastName1770,customer.1770@email.com,(555) 621-2151,2022-08-09,Premium,True,5809.9
+CUST001771,FirstName1771,LastName1771,customer1771@email.com,,2022-09-19,,0,2425.77
+CUST001772,FirstName1772,LastName1772,,(555) 351-3532,2020-04-20,Premium,false,5549.55
+CUST001773,FirstName1773,LastName1773,,+1-555-417-6952,2023-06-17,,Y,8865.94
+CUST001774,FirstName1774,LastName1774,customer1774@email.com,(555) 128-2474,2022-02-08,Basic,True,2302.69
+CUST001775,FirstName1775,LastName1775,,+1-555-893-9129,2021-06-15,,N,1658.72
+CUST001776,FirstName1776,LastName1776,customer.1776@email.com,5553185984,2021-04-23,Basic,Y,4655.49
+CUST001777,FirstName1777,LastName1777,customer1777@gmail.com,,2023-03-20,Basic,0,5346.19
+CUST001778,FirstName1778,LastName1778,Customer1778@Email.com,+1-555-443-4538,2021-01-30,VIP,False,3904.41
+CUST001779,FirstName1779,LastName1779,customer1779@gmail.com,555-435-3494,2020-08-02,,0,3502.12
+CUST001780,FirstName1780,LastName1780,customer.1780@email.com,5551453579,2023-08-14,Standard,True,4384.34
+CUST001781,FirstName1781,LastName1781,customer.1781@email.com,(555) 864-8670,2021-11-29,,0,5613.95
+CUST001782,FirstName1782,LastName1782,,,2022-08-22,,True,4385.63
+CUST001783,FirstName1783,LastName1783,,5555749557,2020-09-17,VIP,1,8875.56
+CUST001784,FirstName1784,LastName1784,,,2021-12-09,Basic,0,5638.12
+CUST001785,FirstName1785,LastName1785,customer1785@email.com,+1-555-889-2876,2023-02-20,,False,4404.55
+CUST001786,FirstName1786,LastName1786,customer.1786@email.com,+1-555-610-3941,2023-10-26,,1,6233.35
+CUST001787,FirstName1787,LastName1787,customer1787@gmail.com,555-599-1752,2022-11-23,,Y,5958.86
+CUST001788,FirstName1788,LastName1788,Customer1788@Email.com,(555) 408-3263,2020-03-08,VIP,Y,7715.81
+CUST001789,FirstName1789,LastName1789,customer1789@gmail.com,(555) 502-6832,2021-03-22,,false,8660.37
+CUST001790,FirstName1790,LastName1790,customer1790@email.com,555-323-6272,2023-03-30,,1,3241.61
+CUST001791,FirstName1791,LastName1791,customer.1791@email.com,555-619-5890,2022-12-11,,True,8891.73
+CUST001792,FirstName1792,LastName1792,customer1792@email.com,,2021-05-25,,false,2157.24
+CUST001793,FirstName1793,LastName1793,,,2021-07-22,Standard,Y,2278.12
+CUST001794,FirstName1794,LastName1794,,+1-555-325-1783,2023-02-09,,True,7858.0
+CUST001795,FirstName1795,LastName1795,customer1795@email.com,,2023-03-13,VIP,0,2861.71
+CUST001796,FirstName1796,LastName1796,customer.1796@email.com,,2020-02-07,Standard,True,8699.26
+CUST001797,FirstName1797,LastName1797,customer1797@email.com,555-497-8955,2022-11-06,Premium,True,6539.79
+CUST001798,FirstName1798,LastName1798,Customer1798@Email.com,5559387143,2022-04-30,Premium,True,2938.4
+CUST001799,FirstName1799,LastName1799,customer1799@gmail.com,(555) 704-3598,2020-10-03,Basic,N,403.63
+CUST001800,FirstName1800,LastName1800,customer1800@email.com,,2021-12-10,Basic,1,8486.09
+CUST001801,FirstName1801,LastName1801,Customer1801@Email.com,(555) 362-9118,2020-09-22,Premium,False,8715.07
+CUST001802,FirstName1802,LastName1802,customer1802@gmail.com,555-511-6385,2021-10-26,Premium,Y,1103.41
+CUST001803,FirstName1803,LastName1803,,+1-555-285-9192,2020-01-13,Standard,Y,4851.73
+CUST001804,FirstName1804,LastName1804,customer1804@email.com,,2022-02-12,,0,7134.48
+CUST001805,FirstName1805,LastName1805,customer.1805@email.com,555-557-3731,2020-08-20,,1,2708.12
+CUST001806,FirstName1806,LastName1806,customer1806@gmail.com,(555) 337-1934,2022-07-03,VIP,0,7643.49
+CUST001807,FirstName1807,LastName1807,,(555) 618-9891,2020-02-25,VIP,True,5890.02
+CUST001808,FirstName1808,LastName1808,,555-501-4520,2022-11-07,Basic,False,5672.89
+CUST001809,FirstName1809,LastName1809,customer.1809@email.com,,2021-09-15,VIP,False,6780.32
+CUST001810,FirstName1810,LastName1810,Customer1810@Email.com,5559071805,2020-06-03,,false,5509.76
+CUST001811,FirstName1811,LastName1811,,+1-555-616-8585,2021-05-01,VIP,false,1009.71
+CUST001812,FirstName1812,LastName1812,,5558349659,2020-11-05,Premium,False,6344.61
+CUST001813,FirstName1813,LastName1813,customer1813@gmail.com,+1-555-312-9177,2020-02-03,,N,1843.51
+CUST001814,FirstName1814,LastName1814,customer1814@email.com,+1-555-542-9395,2020-02-24,,0,9434.62
+CUST001815,FirstName1815,LastName1815,Customer1815@Email.com,5557275528,2020-12-17,Basic,false,8476.74
+CUST001816,FirstName1816,LastName1816,customer1816@email.com,,2022-04-25,Standard,True,2937.67
+CUST001817,FirstName1817,LastName1817,,5557398064,2021-05-08,Standard,Y,181.18
+CUST001818,FirstName1818,LastName1818,,555-728-2215,2022-08-26,Basic,true,9282.42
+CUST001819,FirstName1819,LastName1819,customer.1819@email.com,,2022-07-21,Basic,true,6577.82
+CUST001820,FirstName1820,LastName1820,Customer1820@Email.com,5556899032,2022-04-24,Standard,0,9605.04
+CUST001821,FirstName1821,LastName1821,customer1821@email.com,555-278-4782,2020-09-22,,true,3174.03
+CUST001822,FirstName1822,LastName1822,customer.1822@email.com,+1-555-261-3211,2021-09-05,Premium,1,6079.72
+CUST001823,FirstName1823,LastName1823,customer.1823@email.com,,2021-05-02,,0,4925.6
+CUST001824,FirstName1824,LastName1824,customer1824@gmail.com,,2021-02-18,,True,9623.11
+CUST001825,FirstName1825,LastName1825,,+1-555-711-5358,2023-09-29,Standard,True,829.51
+CUST001826,FirstName1826,LastName1826,customer1826@gmail.com,+1-555-112-4540,2023-09-13,Basic,True,7823.11
+CUST001827,FirstName1827,LastName1827,customer.1827@email.com,,2020-10-04,Standard,N,8310.87
+CUST001828,FirstName1828,LastName1828,customer.1828@email.com,555-729-7836,2022-01-12,,true,4430.8
+CUST001829,FirstName1829,LastName1829,,,2022-10-28,Basic,1,9207.84
+CUST001830,FirstName1830,LastName1830,Customer1830@Email.com,5553448492,2021-05-09,,1,7304.13
+CUST001831,FirstName1831,LastName1831,,(555) 348-6139,2020-12-12,VIP,0,88.48
+CUST001832,FirstName1832,LastName1832,customer1832@gmail.com,+1-555-631-7016,2021-06-17,Basic,1,5614.28
+CUST001833,FirstName1833,LastName1833,Customer1833@Email.com,(555) 901-1095,2020-03-26,Standard,0,6490.47
+CUST001834,FirstName1834,LastName1834,customer.1834@email.com,,2023-10-03,,0,5856.49
+CUST001835,FirstName1835,LastName1835,,(555) 617-5713,2022-02-03,,N,2702.2
+CUST001836,FirstName1836,LastName1836,customer1836@email.com,(555) 595-7373,2021-08-30,,True,4119.03
+CUST001837,FirstName1837,LastName1837,customer1837@email.com,,2022-09-15,,Y,1627.23
+CUST001838,FirstName1838,LastName1838,Customer1838@Email.com,555-226-9551,2023-04-09,Basic,True,2094.28
+CUST001839,FirstName1839,LastName1839,Customer1839@Email.com,,2022-08-07,VIP,false,7582.71
+CUST001840,FirstName1840,LastName1840,Customer1840@Email.com,5557888165,2023-06-27,Basic,Y,7629.89
+CUST001841,FirstName1841,LastName1841,customer.1841@email.com,5551766274,2020-12-23,,N,1067.33
+CUST001842,FirstName1842,LastName1842,Customer1842@Email.com,5558874275,2021-09-28,,false,4051.24
+CUST001843,FirstName1843,LastName1843,customer.1843@email.com,,2021-02-22,,True,1784.46
+CUST001844,FirstName1844,LastName1844,Customer1844@Email.com,,2023-06-06,Basic,1,5854.82
+CUST001845,FirstName1845,LastName1845,customer.1845@email.com,,2021-07-25,,False,2391.38
+CUST001846,FirstName1846,LastName1846,customer1846@gmail.com,5553435174,2022-07-27,VIP,false,8791.76
+CUST001847,FirstName1847,LastName1847,customer.1847@email.com,5555532561,2020-08-06,Premium,False,9780.91
+CUST001848,FirstName1848,LastName1848,,,2021-08-11,Standard,1,8111.14
+CUST001849,FirstName1849,LastName1849,customer.1849@email.com,,2021-11-28,Standard,true,5699.98
+CUST001850,FirstName1850,LastName1850,,5559029348,2022-01-20,,Y,2141.74
+CUST001851,FirstName1851,LastName1851,customer1851@email.com,+1-555-134-8994,2022-05-28,Basic,0,4303.17
+CUST001852,FirstName1852,LastName1852,,(555) 682-7281,2022-02-07,Standard,0,583.41
+CUST001853,FirstName1853,LastName1853,customer.1853@email.com,,2022-07-01,Premium,true,5555.94
+CUST001854,FirstName1854,LastName1854,customer1854@email.com,555-797-3279,2023-08-29,,False,713.52
+CUST001855,FirstName1855,LastName1855,customer1855@gmail.com,+1-555-291-2389,2022-01-25,,1,8251.75
+CUST001856,FirstName1856,LastName1856,customer.1856@email.com,,2022-08-11,Standard,0,8717.56
+CUST001857,FirstName1857,LastName1857,customer.1857@email.com,+1-555-617-8959,2022-03-01,VIP,true,4040.19
+CUST001858,FirstName1858,LastName1858,,+1-555-481-4167,2020-07-24,VIP,false,8485.15
+CUST001859,FirstName1859,LastName1859,Customer1859@Email.com,5551142110,2023-06-24,,True,8750.97
+CUST001860,FirstName1860,LastName1860,customer.1860@email.com,(555) 641-6584,2023-08-06,,True,9959.48
+CUST001861,FirstName1861,LastName1861,customer1861@gmail.com,555-549-6904,2023-10-02,VIP,true,745.71
+CUST001862,FirstName1862,LastName1862,customer1862@gmail.com,+1-555-161-4608,2020-03-20,Premium,N,4513.69
+CUST001863,FirstName1863,LastName1863,Customer1863@Email.com,(555) 740-5659,2020-02-03,Basic,true,2330.18
+CUST001864,FirstName1864,LastName1864,,,2021-11-23,Premium,0,5499.44
+CUST001865,FirstName1865,LastName1865,customer1865@email.com,555-475-4976,2020-10-19,Basic,True,4919.09
+CUST001866,FirstName1866,LastName1866,customer1866@email.com,555-582-1749,2020-10-26,Basic,true,6074.13
+CUST001867,FirstName1867,LastName1867,,,2021-11-14,,true,8800.47
+CUST001868,FirstName1868,LastName1868,customer.1868@email.com,+1-555-614-2993,2021-01-30,Standard,0,38.94
+CUST001869,FirstName1869,LastName1869,,+1-555-799-1211,2021-05-08,Standard,N,4183.8
+CUST001870,FirstName1870,LastName1870,,5556744480,2022-08-05,VIP,Y,4454.01
+CUST001871,FirstName1871,LastName1871,customer1871@gmail.com,(555) 586-1830,2022-09-25,VIP,N,1801.74
+CUST001872,FirstName1872,LastName1872,customer1872@gmail.com,555-982-3099,2020-11-23,Standard,true,2487.8
+CUST001873,FirstName1873,LastName1873,customer.1873@email.com,+1-555-408-6648,2022-05-31,Standard,Y,1465.77
+CUST001874,FirstName1874,LastName1874,customer.1874@email.com,,2021-03-02,Premium,N,4485.79
+CUST001875,FirstName1875,LastName1875,customer1875@email.com,5556425644,2023-02-12,VIP,false,4540.88
+CUST001876,FirstName1876,LastName1876,customer1876@gmail.com,+1-555-791-3693,2020-11-22,Premium,1,373.18
+CUST001877,FirstName1877,LastName1877,customer1877@email.com,(555) 507-1742,2021-01-11,Basic,Y,1016.82
+CUST001878,FirstName1878,LastName1878,customer.1878@email.com,(555) 812-4720,2023-03-30,,1,9707.43
+CUST001879,FirstName1879,LastName1879,,,2023-05-13,Standard,Y,3172.65
+CUST001880,FirstName1880,LastName1880,customer1880@email.com,(555) 699-3499,2022-07-12,,N,761.81
+CUST001881,FirstName1881,LastName1881,,,2021-05-07,Premium,N,7956.66
+CUST001882,FirstName1882,LastName1882,customer1882@email.com,,2021-12-27,Standard,true,444.9
+CUST001883,FirstName1883,LastName1883,,555-356-4219,2023-06-13,Basic,False,7423.48
+CUST001884,FirstName1884,LastName1884,,,2021-02-06,,True,9785.34
+CUST001885,FirstName1885,LastName1885,,,2022-06-26,Premium,False,1957.83
+CUST001886,FirstName1886,LastName1886,customer.1886@email.com,,2022-09-18,,True,2020.49
+CUST001887,FirstName1887,LastName1887,customer1887@email.com,,2023-06-30,,Y,9636.5
+CUST001888,FirstName1888,LastName1888,,+1-555-808-7684,2022-05-06,Standard,N,8236.04
+CUST001889,FirstName1889,LastName1889,customer1889@email.com,(555) 428-4306,2023-06-19,,1,7558.73
+CUST001890,FirstName1890,LastName1890,,+1-555-364-7122,2022-01-08,Standard,1,948.55
+CUST001891,FirstName1891,LastName1891,Customer1891@Email.com,,2023-04-05,,true,4515.16
+CUST001892,FirstName1892,LastName1892,customer1892@gmail.com,(555) 433-6522,2022-11-19,Basic,true,5637.69
+CUST001893,FirstName1893,LastName1893,customer1893@gmail.com,5554566844,2021-07-21,Standard,False,7299.83
+CUST001894,FirstName1894,LastName1894,Customer1894@Email.com,+1-555-423-9346,2023-05-23,,False,6619.31
+CUST001895,FirstName1895,LastName1895,customer.1895@email.com,5555286802,2022-05-24,Premium,0,3282.36
+CUST001896,FirstName1896,LastName1896,,,2023-01-11,Standard,1,4930.65
+CUST001897,FirstName1897,LastName1897,Customer1897@Email.com,,2021-07-31,Premium,Y,4399.37
+CUST001898,FirstName1898,LastName1898,customer1898@gmail.com,(555) 124-8623,2022-05-30,VIP,false,8986.58
+CUST001899,FirstName1899,LastName1899,,+1-555-756-9051,2022-08-02,Standard,Y,6452.75
+CUST001900,FirstName1900,LastName1900,customer1900@gmail.com,+1-555-253-7373,2020-09-21,VIP,N,5795.95
+CUST001901,FirstName1901,LastName1901,,5557286790,2023-05-09,VIP,True,8432.38
+CUST001902,FirstName1902,LastName1902,customer1902@email.com,5554026253,2020-10-07,Premium,N,1715.42
+CUST001903,FirstName1903,LastName1903,,5559355586,2021-03-11,,true,4186.55
+CUST001904,FirstName1904,LastName1904,customer1904@gmail.com,5553355978,2022-02-28,Standard,True,5073.9
+CUST001905,FirstName1905,LastName1905,customer1905@gmail.com,555-761-6375,2023-02-24,,N,5545.09
+CUST001906,FirstName1906,LastName1906,Customer1906@Email.com,5557484173,2022-05-11,Basic,Y,5179.55
+CUST001907,FirstName1907,LastName1907,Customer1907@Email.com,(555) 427-7570,2022-01-17,Basic,True,2925.31
+CUST001908,FirstName1908,LastName1908,customer1908@gmail.com,+1-555-600-1219,2021-09-19,,True,8386.71
+CUST001909,FirstName1909,LastName1909,customer.1909@email.com,,2020-07-15,,N,7177.42
+CUST001910,FirstName1910,LastName1910,,5554026279,2023-02-21,Standard,true,3289.84
+CUST001911,FirstName1911,LastName1911,,,2021-01-29,Standard,false,7198.37
+CUST001912,FirstName1912,LastName1912,customer1912@email.com,,2022-07-28,,1,6729.76
+CUST001913,FirstName1913,LastName1913,customer.1913@email.com,555-691-6346,2021-11-21,VIP,0,3025.78
+CUST001914,FirstName1914,LastName1914,,5559854116,2022-04-25,Basic,False,6209.6
+CUST001915,FirstName1915,LastName1915,customer1915@gmail.com,,2020-03-11,,False,6951.8
+CUST001916,FirstName1916,LastName1916,customer.1916@email.com,(555) 317-9863,2020-10-15,Basic,0,6051.64
+CUST001917,FirstName1917,LastName1917,customer1917@gmail.com,,2023-08-18,Basic,True,7102.06
+CUST001918,FirstName1918,LastName1918,customer1918@email.com,5559678724,2022-05-09,Standard,true,3723.07
+CUST001919,FirstName1919,LastName1919,customer1919@gmail.com,(555) 332-9773,2023-05-12,Standard,N,8580.52
+CUST001920,FirstName1920,LastName1920,Customer1920@Email.com,(555) 577-3982,2020-07-16,,False,1529.57
+CUST001921,FirstName1921,LastName1921,customer.1921@email.com,,2020-03-01,Premium,0,1973.72
+CUST001922,FirstName1922,LastName1922,,(555) 455-1832,2021-11-14,,false,5492.86
+CUST001923,FirstName1923,LastName1923,Customer1923@Email.com,+1-555-531-2088,2023-06-01,Premium,True,8499.82
+CUST001924,FirstName1924,LastName1924,,,2021-12-20,Basic,0,4034.45
+CUST001925,FirstName1925,LastName1925,Customer1925@Email.com,,2022-12-16,Basic,True,6709.39
+CUST001926,FirstName1926,LastName1926,customer.1926@email.com,,2023-01-11,Premium,N,8960.94
+CUST001927,FirstName1927,LastName1927,customer.1927@email.com,(555) 142-5983,2022-04-09,,False,5957.88
+CUST001928,FirstName1928,LastName1928,,5553587696,2021-04-20,Premium,True,4988.98
+CUST001929,FirstName1929,LastName1929,,555-363-8433,2021-12-02,Standard,1,1280.61
+CUST001930,FirstName1930,LastName1930,Customer1930@Email.com,,2020-09-25,Basic,0,3670.36
+CUST001931,FirstName1931,LastName1931,,,2022-03-01,,N,8391.89
+CUST001932,FirstName1932,LastName1932,Customer1932@Email.com,,2022-09-15,,False,6430.24
+CUST001933,FirstName1933,LastName1933,,(555) 552-3146,2020-03-25,,0,198.23
+CUST001934,FirstName1934,LastName1934,customer1934@gmail.com,5555243212,2021-01-14,,true,2484.6
+CUST001935,FirstName1935,LastName1935,customer.1935@email.com,5556831070,2021-02-15,,true,2437.74
+CUST001936,FirstName1936,LastName1936,,555-610-2161,2023-05-06,Standard,Y,1663.58
+CUST001937,FirstName1937,LastName1937,Customer1937@Email.com,555-694-9222,2020-02-23,Basic,True,450.78
+CUST001938,FirstName1938,LastName1938,customer1938@gmail.com,(555) 763-5164,2021-05-27,Premium,false,174.76
+CUST001939,FirstName1939,LastName1939,customer1939@email.com,555-586-5388,2023-02-09,Premium,true,5940.18
+CUST001940,FirstName1940,LastName1940,,,2020-10-15,,false,1336.88
+CUST001941,FirstName1941,LastName1941,customer.1941@email.com,+1-555-524-4287,2021-07-23,Standard,false,353.84
+CUST001942,FirstName1942,LastName1942,,,2023-04-02,,False,4012.63
+CUST001943,FirstName1943,LastName1943,,,2023-10-24,Standard,Y,8462.12
+CUST001944,FirstName1944,LastName1944,customer1944@gmail.com,5558818430,2020-06-28,Premium,Y,3604.72
+CUST001945,FirstName1945,LastName1945,,(555) 912-3788,2022-07-08,Basic,1,9605.39
+CUST001946,FirstName1946,LastName1946,customer1946@gmail.com,,2020-06-04,Standard,N,7462.31
+CUST001947,FirstName1947,LastName1947,customer.1947@email.com,(555) 318-5074,2021-07-13,Standard,false,7277.08
+CUST001948,FirstName1948,LastName1948,Customer1948@Email.com,(555) 880-5355,2021-11-20,,True,632.98
+CUST001949,FirstName1949,LastName1949,customer.1949@email.com,(555) 924-1767,2022-04-14,Premium,1,3688.49
+CUST001950,FirstName1950,LastName1950,Customer1950@Email.com,,2020-03-30,,1,4257.54
+CUST001951,FirstName1951,LastName1951,,,2022-10-05,VIP,False,8621.91
+CUST001952,FirstName1952,LastName1952,customer1952@gmail.com,5558781193,2020-12-01,,0,7521.01
+CUST001953,FirstName1953,LastName1953,Customer1953@Email.com,+1-555-797-3185,2023-02-26,Standard,False,6667.97
+CUST001954,FirstName1954,LastName1954,customer1954@email.com,+1-555-430-6235,2020-01-05,,1,647.46
+CUST001955,FirstName1955,LastName1955,,+1-555-839-1537,2022-08-13,,false,1761.51
+CUST001956,FirstName1956,LastName1956,,+1-555-472-4896,2020-02-12,,True,6592.29
+CUST001957,FirstName1957,LastName1957,customer.1957@email.com,5559411309,2021-12-25,Premium,0,9820.37
+CUST001958,FirstName1958,LastName1958,customer1958@email.com,,2021-06-05,,true,1352.67
+CUST001959,FirstName1959,LastName1959,customer.1959@email.com,555-207-7869,2021-01-17,,Y,2608.41
+CUST001960,FirstName1960,LastName1960,customer1960@gmail.com,,2021-01-16,VIP,Y,6699.25
+CUST001961,FirstName1961,LastName1961,customer1961@email.com,5557268726,2022-10-13,VIP,False,1515.39
+CUST001962,FirstName1962,LastName1962,,5556873571,2020-10-06,Standard,0,353.42
+CUST001963,FirstName1963,LastName1963,customer1963@email.com,,2020-07-12,,true,335.9
+CUST001964,FirstName1964,LastName1964,customer.1964@email.com,(555) 321-5811,2022-02-12,Basic,true,3554.63
+CUST001965,FirstName1965,LastName1965,customer.1965@email.com,,2023-02-28,Basic,0,6074.37
+CUST001966,FirstName1966,LastName1966,customer1966@gmail.com,,2022-09-07,Basic,0,7146.4
+CUST001967,FirstName1967,LastName1967,,5557592336,2023-10-01,VIP,1,9499.14
+CUST001968,FirstName1968,LastName1968,,,2022-12-17,Premium,false,4723.78
+CUST001969,FirstName1969,LastName1969,,,2020-06-02,Premium,False,7172.32
+CUST001970,FirstName1970,LastName1970,customer.1970@email.com,+1-555-376-6172,2020-05-13,,false,6609.59
+CUST001971,FirstName1971,LastName1971,customer.1971@email.com,,2020-01-14,Standard,True,6600.44
+CUST001972,FirstName1972,LastName1972,Customer1972@Email.com,(555) 369-1233,2020-10-23,Premium,true,865.34
+CUST001973,FirstName1973,LastName1973,customer.1973@email.com,(555) 814-4300,2022-01-09,Premium,false,7067.38
+CUST001974,FirstName1974,LastName1974,customer1974@gmail.com,555-594-6354,2023-09-12,,True,2539.49
+CUST001975,FirstName1975,LastName1975,customer.1975@email.com,555-656-4824,2023-01-04,Premium,1,4801.03
+CUST001976,FirstName1976,LastName1976,Customer1976@Email.com,,2020-02-28,Basic,false,2636.77
+CUST001977,FirstName1977,LastName1977,,,2023-01-20,,true,1698.75
+CUST001978,FirstName1978,LastName1978,,,2022-03-24,Standard,false,8435.3
+CUST001979,FirstName1979,LastName1979,,+1-555-547-7505,2021-12-05,Standard,N,7988.28
+CUST001980,FirstName1980,LastName1980,customer1980@email.com,,2022-05-30,VIP,1,133.65
+CUST001981,FirstName1981,LastName1981,customer1981@gmail.com,+1-555-457-4417,2022-01-22,Premium,True,2954.07
+CUST001982,FirstName1982,LastName1982,,(555) 172-9501,2021-12-19,,False,7147.79
+CUST001983,FirstName1983,LastName1983,,+1-555-318-1801,2020-12-17,,false,7997.08
+CUST001984,FirstName1984,LastName1984,,555-973-6184,2021-08-13,VIP,0,5942.15
+CUST001985,FirstName1985,LastName1985,Customer1985@Email.com,555-999-6588,2023-02-28,Standard,True,899.24
+CUST001986,FirstName1986,LastName1986,customer1986@email.com,+1-555-675-8233,2020-06-14,VIP,Y,7520.24
+CUST001987,FirstName1987,LastName1987,,555-527-1521,2020-02-15,VIP,False,7208.53
+CUST001988,FirstName1988,LastName1988,Customer1988@Email.com,555-982-8677,2023-06-28,,False,4803.94
+CUST001989,FirstName1989,LastName1989,,+1-555-146-7065,2023-08-17,,true,9827.81
+CUST001990,FirstName1990,LastName1990,Customer1990@Email.com,(555) 415-2091,2022-11-26,,true,1814.4
+CUST001991,FirstName1991,LastName1991,customer1991@gmail.com,555-317-2787,2023-09-16,Standard,0,1806.18
+CUST001992,FirstName1992,LastName1992,customer.1992@email.com,,2020-11-24,Premium,False,5115.26
+CUST001993,FirstName1993,LastName1993,,+1-555-703-7706,2021-06-30,Standard,false,8276.31
+CUST001994,FirstName1994,LastName1994,,,2023-07-10,Premium,false,7510.39
+CUST001995,FirstName1995,LastName1995,,555-622-4023,2021-04-03,,Y,3099.31
+CUST001996,FirstName1996,LastName1996,,555-203-1633,2020-12-28,Premium,True,5793.77
+CUST001997,FirstName1997,LastName1997,,5553828661,2022-02-05,Basic,N,6138.44
+CUST001998,FirstName1998,LastName1998,,,2022-11-02,,False,8407.51
+CUST001999,FirstName1999,LastName1999,customer1999@gmail.com,5551439081,2023-01-22,Premium,1,6680.02
+CUST002000,FirstName2000,LastName2000,,5555075733,2021-09-02,,True,3083.89
