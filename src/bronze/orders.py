@@ -15,7 +15,8 @@ from ..utils.metadata import enriched_metadata
 today_date=datetime.today().strftime("%Y-%m-%d")
 BRONZE_TABLE="bronze_orders_raw"
 BRONZE_ROOT_PATH=f"./data/bronze/bronze_orders_raw"
-source_file_path=f"./data/landing/orders/orders.csv"
+SOURCE_PATH_ORDER="./data/landing/orders/orders.csv"
+# source_file_path=f"./data/landing/orders/orders.csv"
 
 spark=get_spark_session()
 EXPECTED_SCHEMA_ORDERS_V1 = {
@@ -33,15 +34,15 @@ EXPECTED_SCHEMA_ORDERS_V1 = {
     ]
 }
 
-SOURCE_PATH_ORDER="./data/landing/orders/orders.csv"
+
 
 # ============================================================================
 # DATA QUALITY VALIDATION (NON-INTRUSIVE)
 # ============================================================================ 
 
 @udf(ArrayType(StringType()))
-def validate_required_fields_udf(order_id, customer_id, order_date, created_at):
-    """Validate all required fields in one UDF call"""
+def validate_required_fields_udf(order_id:str, customer_id:str, order_date:str, created_at:str):
+
     errors = []
     
     def is_empty(value):
@@ -61,7 +62,7 @@ def validate_required_fields_udf(order_id, customer_id, order_date, created_at):
 
 @udf(ArrayType(StringType()))
 def validate_numeric_fields_udf(total_amount, subtotal, tax_amount, discount_amount):
-    """Validate all numeric fields in one UDF call"""
+
     errors = []
     
     fields = {
@@ -88,7 +89,6 @@ def validate_orders_bronze_data(df: DataFrame) -> DataFrame:
     Optimized validation using UDFs - avoids code generation issues
     """
     
-    # Validate required fields (single UDF call)
     df = df.withColumn(
         "_dq_errors",
         validate_required_fields_udf(
@@ -99,7 +99,6 @@ def validate_orders_bronze_data(df: DataFrame) -> DataFrame:
         )
     )
     
-    # Validate numeric fields (single UDF call)
     df = df.withColumn(
         "_dq_numeric_errors",
         validate_numeric_fields_udf(
@@ -128,7 +127,7 @@ def validate_orders_bronze_data(df: DataFrame) -> DataFrame:
 # ============================================================================
 
 
-class BronzeCustomerPipeline:
+class BronzePipeline:
 
     def __init__(self,metadata_manager=None):
         self.batch_id=str(uuid.uuid4())
@@ -179,7 +178,7 @@ class BronzeCustomerPipeline:
 
         print(f"  ✓ Validation complete")
         print("[4/7] Detecting Duplicates...")
-        df=detect_duplicates_bronze(df,BRONZE_TABLE)
+        df=detect_duplicates_bronze(df,BRONZE_ROOT_PATH)
         dup_count=df.filter(col("_dq_is_duplicate")).count()
         self.stats["dup_count"]=dup_count
         print(f"  ✓ Duplicates detected: {dup_count:,}")
@@ -237,9 +236,9 @@ if __name__=="__main__":
     #     metadata_path="/tmp/metadata"  # Change to your metadata path
     # )
 
-    pipeline= BronzeCustomerPipeline()
+    pipeline= BronzePipeline()
     df_bronze, stats=pipeline.run(
-        source_file_path=source_file_path,
+        source_file_path=SOURCE_PATH_ORDER,
         write_mode="append"
     )
 

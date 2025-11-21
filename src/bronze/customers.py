@@ -165,30 +165,34 @@ class BronzeCustomerPipeline:
             "_dq_result",
             validate_customers_udf(struct([df[x] for x in df.columns]))
         )
+
         # Split UDF result into separate columns
         df = df.withColumn("_dq_errors", col("_dq_result").getItem(0)) \
                 .withColumn("_dq_warnings", col("_dq_result").getItem(1)) \
                 .drop("_dq_result")
+
         # Apply completeness score after UDF
         df = completeness_final_set(df)
+
         error_count=df.filter(col("_dq_error_count")>0).count()
         total_count=df.count()
         dq_score=((total_count-error_count)/total_count * 100) if total_count>0 else 0
 
         self.stats["error_count"]=error_count
         self.stats["dq_score"]=dq_score
-        try:
-            spark.sql(f"""
-                CREATE TABLE IF NOT EXISTS {BRONZE_TABLE_CUSTOMERS}
-                USING DELTA
-                LOCATION '{BRONZE_ROOT_PATH}'
-            """)
-        except:
-            pass
+        # try:
+        #     spark.sql(f"""
+        #         CREATE TABLE IF NOT EXISTS {BRONZE_TABLE_CUSTOMERS}
+        #         USING DELTA
+        #         LOCATION '{BRONZE_ROOT_PATH}'
+        #     """)
+        # except:
+        #     pass
 
         print(f"  ✓ Validation complete")
         print("[4/7] Detecting Duplicates...")
-        df=detect_duplicates_bronze(df,BRONZE_TABLE_CUSTOMERS)
+        df=detect_duplicates_bronze(df,BRONZE_ROOT_PATH)
+
         dup_count=df.filter(col("_dq_is_duplicate")).count()
         self.stats["dup_count"]=dup_count
         print(f"  ✓ Duplicates detected: {dup_count:,}")
