@@ -7,3 +7,4 @@ __pycache__/
 
 bronze_customers_raw/
 bronze_orders_raw/
+bronze_order_items_raw/
