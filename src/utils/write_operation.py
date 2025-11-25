@@ -3,8 +3,8 @@ from pyspark.sql.functions import *
 from pyspark.sql import DataFrame
 from delta.tables import DeltaTable
 from datetime import datetime
-# today_date=datetime.today().strftime("%Y-%m-%d")
-today_date= '2025-11-20'
+today_date=datetime.today().strftime("%Y-%m-%d")
+# today_date= '2025-11-20'
 
 spark=get_spark_session()
 def write_to_append(df: DataFrame, path:str):

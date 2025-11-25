@@ -33,53 +33,59 @@ def rand_registration_date():
     return fake.date_between(start_date=start, end_date='today').strftime('%Y-%m-%d')
 
 def generate_customers(existing_customers=None, num_new_customers=500, update_pct=0.1):
-    """Generate new and updated customers (SCD2 simulation) with messy data."""
+    
     existing_customers = existing_customers.copy() if existing_customers is not None else pd.DataFrame()
     existing_ids = set(existing_customers['customer_id']) if not existing_customers.empty else set()
     updated_rows = []
 
-    # Update existing customers for SCD2
+    def maybe(value, null_prob=0.1):
+
+        return value if random.random() > null_prob else None
     if not existing_customers.empty:
         num_to_update = int(len(existing_customers) * update_pct)
         update_indices = np.random.choice(existing_customers.index, num_to_update, replace=False)
-        # registration_date = row.get('registration_date', rand_registration_date())
+
         for idx in update_indices:
             row = existing_customers.loc[idx].copy()
-            # Messy updates
-            row['email'] = random.choice([fake.email(), fake.email().upper(), '', None])
-            row['phone'] = random.choice([fake.phone_number(), '', None])
-            row['customer_segment'] = random.choice(['Premium', 'Standard', 'Basic', 'VIP', '', None])
-            row['registration_date']=rand_registration_date()
-            row['lifetime_value'] = round(random.uniform(-100, 12000), 2)  # allow negative for messiness
-            row['is_active'] = random.choice([True, False, 'true', 'false', 'Y', 'N', 1, 0])
-            # row['effective_date'] = random.choice([
-            #     datetime.today().strftime('%Y-%m-%d'),
-            #     fake.date_between(start_date='-5y', end_date='today').strftime('%d-%m-%Y')
-            # ])
+
+            row['email'] = maybe(fake.email(), null_prob=0.08)   # ~8% nulls
+            row['phone'] = maybe(fake.phone_number(), null_prob=0.15)  # ~15% nulls
+            row['customer_segment'] = maybe(
+                random.choice(['Premium', 'Standard', 'Basic', 'VIP']),
+                null_prob=0.05
+            )
+            row['registration_date'] = rand_registration_date()
+            row['lifetime_value'] = round(random.uniform(0, 15000), 2)
+            row['is_active'] = random.choice([True, False])
+
             updated_rows.append(row)
 
-    # Add new customers
+    # === Generate new customers ===
     new_customers = []
     for _ in range(num_new_customers):
         cid = generate_customer_id(existing_ids)
         existing_ids.add(cid)
+
         new_customers.append({
             'customer_id': cid,
             'first_name': random.choice([fake.first_name(), fake.first_name().lower(), fake.first_name().upper()]),
             'last_name': random.choice([fake.last_name(), fake.last_name().lower(), fake.last_name().upper()]),
-            'email': random.choice([fake.email(), '', None]),
-            'phone': random.choice([fake.phone_number(), '', None]),
-            'registration_date':rand_registration_date(),
-            'customer_segment': random.choice(['Premium', 'Standard', 'Basic', 'VIP', '', None]),
-            'lifetime_value': round(random.uniform(-100, 12000), 2),
-            'is_active': random.choice([True, False, 'true', 'false', 'Y', 'N', 1, 0]),
-
+            'email': maybe(fake.email(), null_prob=0.1),
+            'phone': maybe(fake.phone_number(), null_prob=0.20),
+            'registration_date': rand_registration_date(),
+            'customer_segment': maybe(
+                random.choice(['Premium', 'Standard', 'Basic', 'VIP']),
+                null_prob=0.05
+            ),
+            'lifetime_value': round(random.uniform(0, 15000), 2),
+            'is_active': random.choice([True, False]),
         })
 
     updated_df = pd.DataFrame(updated_rows)
     new_customers_df = pd.DataFrame(new_customers)
-    final_df = pd.concat([existing_customers, updated_df, new_customers_df], ignore_index=True)
-    return final_df
+
+    return pd.concat([existing_customers, updated_df, new_customers_df], ignore_index=True)
+
 
 def generate_orders(customers_df, num_orders=5000):
     """Generate messy orders linked to customers."""
@@ -101,9 +107,9 @@ def generate_orders(customers_df, num_orders=5000):
         # amounts
         subtotal = round(random.uniform(10, 2000), 2)
         tax = round(subtotal * random.uniform(0.05, 0.15), 2)
-        shipping = round(random.uniform(0, 25), 2)
+        # shipping = round(random.uniform(0, 25), 2)
         discount = round(random.uniform(0, subtotal * 0.3), 2) if random.random() > 0.7 else 0
-        total_amount = subtotal + tax + shipping - discount
+        total_amount = subtotal + tax - discount
 
         # introduce negative amount occasionally
         if random.random() < 0.01:
@@ -119,8 +125,7 @@ def generate_orders(customers_df, num_orders=5000):
         date_formats = [
             order_date.strftime('%Y-%m-%d %H:%M:%S'),
             order_date.strftime('%m/%d/%Y %H:%M'),
-            order_date.strftime('%d-%m-%Y %H:%M:%S'),
-            order_date.isoformat()
+            order_date.strftime('%d-%m-%Y %H:%M:%S')
         ]
         order_date_str = random.choice(date_formats)
 
