@@ -11,3 +11,5 @@ bronze_order_items_raw/
 
 silver_orders/
 silver_customers/
+silver_order_items/
+test.ipynb

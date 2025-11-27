@@ -200,7 +200,18 @@ def select_final_columns(df:DataFrame)->DataFrame:
             "order_week_of_year",
             "order_hour",
             "order_time_period",
-            "is_weekend"
+            "is_weekend",
+
+            # Silver Metadata
+            "_silver_processing_timestamp",
+            "_silver_processing_date",
+            "_silver_batch_id",
+            "_silver_source_batch_id",
+            "_silver_record_hash",
+            
+            # Bronze Reference (for lineage)
+            "_bronze_ingestion_batch_id",
+            "_bronze_ingestion_timestamp"
 
 
         )
